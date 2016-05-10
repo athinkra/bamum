@@ -1,0 +1,560 @@
+<?xml version="1.0"?>
+<font name="JGBamumAkaukuSansUnicode" upem="1000">
+
+<glyph PSName=".notdef"/>
+<glyph PSName="A" UID="0041"/>
+<glyph PSName="B" UID="0042"/>
+<glyph PSName="C" UID="0043"/>
+<glyph PSName="D" UID="0044"/>
+<glyph PSName="E" UID="0045"/>
+<glyph PSName="F" UID="0046"/>
+<glyph PSName="G" UID="0047"/>
+<glyph PSName="H" UID="0048"/>
+<glyph PSName="I" UID="0049"/>
+<glyph PSName="J" UID="004A"/>
+<glyph PSName="K" UID="004B"/>
+<glyph PSName="L" UID="004C"/>
+<glyph PSName="M" UID="004D"/>
+<glyph PSName="N" UID="004E"/>
+<glyph PSName="O" UID="004F"/>
+<glyph PSName="P" UID="0050"/>
+<glyph PSName="Q" UID="0051"/>
+<glyph PSName="R" UID="0052"/>
+<glyph PSName="S" UID="0053"/>
+<glyph PSName="T" UID="0054"/>
+<glyph PSName="U" UID="0055"/>
+<glyph PSName="V" UID="0056"/>
+<glyph PSName="W" UID="0057"/>
+<glyph PSName="X" UID="0058"/>
+<glyph PSName="Y" UID="0059"/>
+<glyph PSName="Z" UID="005A"/>
+<glyph PSName="a" UID="0061"/>
+<glyph PSName="ampersand" UID="0026"/>
+<glyph PSName="asciicircum" UID="005E"/>
+<glyph PSName="asciitilde" UID="007E"/>
+<glyph PSName="asterisk" UID="002A"/>
+<glyph PSName="at" UID="0040"/>
+<glyph PSName="b" UID="0062"/>
+<glyph PSName="backslash" UID="005C"/>
+<glyph PSName="bar" UID="007C"/>
+<glyph PSName="braceleft" UID="007B"/>
+<glyph PSName="braceright" UID="007D"/>
+<glyph PSName="bracketleft" UID="005B"/>
+<glyph PSName="bracketright" UID="005D"/>
+<glyph PSName="c" UID="0063"/>
+<glyph PSName="colon" UID="003A"/>
+<glyph PSName="comma" UID="002C"/>
+<glyph PSName="d" UID="0064"/>
+<glyph PSName="dollar" UID="0024"/>
+<glyph PSName="e" UID="0065"/>
+<glyph PSName="eight" UID="0038"/>
+<glyph PSName="equal" UID="003D"/>
+<glyph PSName="exclam" UID="0021"/>
+<glyph PSName="f" UID="0066"/>
+<glyph PSName="five" UID="0035"/>
+<glyph PSName="four" UID="0034"/>
+<glyph PSName="g" UID="0067"/>
+<glyph PSName="grave" UID="0060"/>
+<glyph PSName="greater" UID="003E"/>
+<glyph PSName="h" UID="0068"/>
+<glyph PSName="hyphen" UID="002D"/>
+<glyph PSName="i" UID="0069"/>
+<glyph PSName="j" UID="006A"/>
+<glyph PSName="k" UID="006B"/>
+<glyph PSName="l" UID="006C"/>
+<glyph PSName="less" UID="003C"/>
+<glyph PSName="m" UID="006D"/>
+<glyph PSName="n" UID="006E"/>
+<glyph PSName="nine" UID="0039"/>
+<glyph PSName="numbersign" UID="0023"/>
+<glyph PSName="o" UID="006F"/>
+<glyph PSName="one" UID="0031"/>
+<glyph PSName="p" UID="0070"/>
+<glyph PSName="parenleft" UID="0028"/>
+<glyph PSName="parenright" UID="0029"/>
+<glyph PSName="percent" UID="0025"/>
+<glyph PSName="period" UID="002E"/>
+<glyph PSName="plus" UID="002B"/>
+<glyph PSName="q" UID="0071"/>
+<glyph PSName="question" UID="003F"/>
+<glyph PSName="quotedbl" UID="0022"/>
+<glyph PSName="quotesingle" UID="0027"/>
+<glyph PSName="r" UID="0072"/>
+<glyph PSName="s" UID="0073"/>
+<glyph PSName="semicolon" UID="003B"/>
+<glyph PSName="seven" UID="0037"/>
+<glyph PSName="six" UID="0036"/>
+<glyph PSName="slash" UID="002F"/>
+<glyph PSName="space" UID="0020"/>
+<glyph PSName="t" UID="0074"/>
+<glyph PSName="three" UID="0033"/>
+<glyph PSName="two" UID="0032"/>
+<glyph PSName="u" UID="0075"/>
+<glyph PSName="underscore" UID="005F"/>
+<glyph PSName="uniA6A0" UID="A6A0">
+    <point type='koqndon'>
+        <location x='380' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6A1" UID="A6A1">
+    <point type='koqndon'>
+        <location x='400' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6A2" UID="A6A2">
+    <point type='koqndon'>
+        <location x='348' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6A3" UID="A6A3">
+    <point type='koqndon'>
+        <location x='410' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6A4" UID="A6A4">
+    <point type='koqndon'>
+        <location x='450' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6A5" UID="A6A5">
+    <point type='koqndon'>
+        <location x='340' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6A6" UID="A6A6">
+    <point type='koqndon'>
+        <location x='301' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6A7" UID="A6A7">
+    <point type='koqndon'>
+        <location x='370' y='800'/>
+    </point>
+    <point type='tukwentis'>
+        <location x='377' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6A8" UID="A6A8">
+    <point type='koqndon'>
+        <location x='380' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6A9" UID="A6A9">
+    <point type='koqndon'>
+        <location x='452' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6AA" UID="A6AA">
+    <point type='koqndon'>
+        <location x='419' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6AB" UID="A6AB">
+    <point type='koqndon'>
+        <location x='420' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6AC" UID="A6AC">
+    <point type='koqndon'>
+        <location x='310' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6AD" UID="A6AD">
+    <point type='koqndon'>
+        <location x='340' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6AE" UID="A6AE">
+    <point type='koqndon'>
+        <location x='212' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6AF" UID="A6AF">
+    <point type='koqndon'>
+        <location x='270' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6B0" UID="A6B0">
+    <point type='koqndon'>
+        <location x='380' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6B1" UID="A6B1">
+    <point type='koqndon'>
+        <location x='290' y='800'/>
+    </point>
+    <point type='tukwentis'>
+        <location x='316' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6B2" UID="A6B2">
+    <point type='koqndon'>
+        <location x='335' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6B3" UID="A6B3">
+    <point type='koqndon'>
+        <location x='370' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6B4" UID="A6B4">
+    <point type='koqndon'>
+        <location x='370' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6B5" UID="A6B5">
+    <point type='koqndon'>
+        <location x='299' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6B6" UID="A6B6">
+    <point type='koqndon'>
+        <location x='400' y='800'/>
+    </point>
+    <point type='tukwentis'>
+        <location x='418' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6B7" UID="A6B7">
+    <point type='koqndon'>
+        <location x='430' y='800'/>
+    </point>
+    <point type='tukwentis'>
+        <location x='440' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6B8" UID="A6B8">
+    <point type='koqndon'>
+        <location x='438' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6B9" UID="A6B9">
+    <point type='koqndon'>
+        <location x='170' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6BA" UID="A6BA">
+    <point type='koqndon'>
+        <location x='340' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6BB" UID="A6BB">
+    <point type='koqndon'>
+        <location x='440' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6BC" UID="A6BC">
+    <point type='koqndon'>
+        <location x='440' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6BD" UID="A6BD">
+    <point type='koqndon'>
+        <location x='341' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6BE" UID="A6BE">
+    <point type='koqndon'>
+        <location x='339' y='800'/>
+    </point>
+    <point type='tukwentis'>
+        <location x='375' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6BF" UID="A6BF">
+    <point type='koqndon'>
+        <location x='390' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6C0" UID="A6C0">
+    <point type='koqndon'>
+        <location x='349' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6C1" UID="A6C1">
+    <point type='koqndon'>
+        <location x='298' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6C2" UID="A6C2">
+    <point type='koqndon'>
+        <location x='323' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6C3" UID="A6C3">
+    <point type='koqndon'>
+        <location x='398' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6C4" UID="A6C4">
+    <point type='koqndon'>
+        <location x='224' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6C5" UID="A6C5">
+    <point type='koqndon'>
+        <location x='291' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6C6" UID="A6C6">
+    <point type='koqndon'>
+        <location x='340' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6C7" UID="A6C7">
+    <point type='koqndon'>
+        <location x='420' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6C8" UID="A6C8">
+    <point type='koqndon'>
+        <location x='340' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6C9" UID="A6C9">
+    <point type='koqndon'>
+        <location x='400' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6CA" UID="A6CA">
+    <point type='koqndon'>
+        <location x='491' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6CB" UID="A6CB">
+    <point type='koqndon'>
+        <location x='401' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6CC" UID="A6CC">
+    <point type='koqndon'>
+        <location x='300' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6CD" UID="A6CD">
+    <point type='koqndon'>
+        <location x='390' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6CE" UID="A6CE">
+    <point type='koqndon'>
+        <location x='400' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6CF" UID="A6CF">
+    <point type='koqndon'>
+        <location x='375' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6D0" UID="A6D0">
+    <point type='koqndon'>
+        <location x='333' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6D1" UID="A6D1">
+    <point type='koqndon'>
+        <location x='301' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6D2" UID="A6D2">
+    <point type='koqndon'>
+        <location x='399' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6D3" UID="A6D3">
+    <point type='koqndon'>
+        <location x='406' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6D4" UID="A6D4">
+    <point type='koqndon'>
+        <location x='343' y='800'/>
+    </point>
+    <point type='tukwentis'>
+        <location x='350' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6D5" UID="A6D5">
+    <point type='koqndon'>
+        <location x='240' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6D6" UID="A6D6">
+    <point type='koqndon'>
+        <location x='281' y='800'/>
+    </point>
+    <point type='tukwentis'>
+        <location x='317' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6D7" UID="A6D7">
+    <point type='koqndon'>
+        <location x='519' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6D8" UID="A6D8">
+    <point type='koqndon'>
+        <location x='420' y='800'/>
+    </point>
+    <point type='tukwentis'>
+        <location x='420' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6D9" UID="A6D9">
+    <point type='koqndon'>
+        <location x='430' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6DA" UID="A6DA">
+    <point type='koqndon'>
+        <location x='370' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6DB" UID="A6DB">
+    <point type='koqndon'>
+        <location x='318' y='800'/>
+    </point>
+    <point type='tukwentis'>
+        <location x='323' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6DC" UID="A6DC">
+    <point type='koqndon'>
+        <location x='300' y='800'/>
+    </point>
+    <point type='tukwentis'>
+        <location x='296' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6DD" UID="A6DD">
+    <point type='koqndon'>
+        <location x='362' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6DE" UID="A6DE">
+    <point type='koqndon'>
+        <location x='333' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6DF" UID="A6DF">
+    <point type='koqndon'>
+        <location x='390' y='800'/>
+    </point>
+    <point type='tukwentis'>
+        <location x='399' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6E0" UID="A6E0">
+    <point type='koqndon'>
+        <location x='400' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6E1" UID="A6E1">
+    <point type='koqndon'>
+        <location x='499' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6E2" UID="A6E2">
+    <point type='koqndon'>
+        <location x='250' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6E3" UID="A6E3">
+    <point type='koqndon'>
+        <location x='292' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6E4" UID="A6E4">
+    <point type='koqndon'>
+        <location x='349' y='800'/>
+    </point>
+    <point type='tukwentis'>
+        <location x='370' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6E5" UID="A6E5">
+    <point type='koqndon'>
+        <location x='400' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6E6" UID="A6E6">
+    <point type='koqndon'>
+        <location x='340' y='800'/>
+    </point>
+    <point type='tukwentis'>
+        <location x='350' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6E7" UID="A6E7">
+    <point type='koqndon'>
+        <location x='340' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6E8" UID="A6E8">
+    <point type=''>
+        <location x='332' y='800'/>
+    </point>
+    <point type='koqndon'>
+        <location x='331' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6E9" UID="A6E9">
+    <point type='koqndon'>
+        <location x='342' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6EA" UID="A6EA">
+    <point type='koqndon'>
+        <location x='349' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6EB" UID="A6EB">
+    <point type='koqndon'>
+        <location x='323' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6EC" UID="A6EC">
+    <point type='koqndon'>
+        <location x='342' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6ED" UID="A6ED">
+    <point type='koqndon'>
+        <location x='300' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6EE" UID="A6EE">
+    <point type='koqndon'>
+        <location x='390' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6EF" UID="A6EF">
+    <point type='koqndon'>
+        <location x='340' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6F0" UID="A6F0">
+    <point type='_koqndon'>
+        <location x='400' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6F1" UID="A6F1">
+    <point type='_tukwentis'>
+        <location x='408' y='800'/>
+    </point>
+</glyph>
+<glyph PSName="uniA6F2" UID="A6F2"/>
+<glyph PSName="uniA6F3" UID="A6F3"/>
+<glyph PSName="uniA6F4" UID="A6F4"/>
+<glyph PSName="uniA6F5" UID="A6F5"/>
+<glyph PSName="uniA6F6" UID="A6F6"/>
+<glyph PSName="uniA6F7" UID="A6F7"/>
+<glyph PSName="v" UID="0076"/>
+<glyph PSName="w" UID="0077"/>
+<glyph PSName="x" UID="0078"/>
+<glyph PSName="y" UID="0079"/>
+<glyph PSName="z" UID="007A"/>
+<glyph PSName="zero" UID="0030"/>
+<glyph PSName="brokenbar" UID="00A6"/>
+
+</font>

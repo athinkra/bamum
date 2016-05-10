@@ -1,0 +1,131 @@
+
+# Classes
+@ckoqndonDia = [uniA6F0];
+
+@cnkoqndonDia = [uniA6F1];
+
+@ctukwentisDia = [uniA6F1];
+
+@cntukwentisDia = [uniA6F0];
+
+@cTakeskoqndonDia = [uniA6A0 uniA6A1 uniA6A2 uniA6A3 uniA6A4 uniA6A5 uniA6A6 uniA6A7
+    uniA6A8 uniA6A9 uniA6AA uniA6AB uniA6AC uniA6AD uniA6AE uniA6AF
+    uniA6B0 uniA6B1 uniA6B2 uniA6B3 uniA6B4 uniA6B5 uniA6B6 uniA6B7
+    uniA6B8 uniA6B9 uniA6BA uniA6BB uniA6BC uniA6BD uniA6BE uniA6BF
+    uniA6C0 uniA6C1 uniA6C2 uniA6C3 uniA6C4 uniA6C5 uniA6C6 uniA6C7
+    uniA6C8 uniA6C9 uniA6CA uniA6CB uniA6CC uniA6CD uniA6CE uniA6CF
+    uniA6D0 uniA6D1 uniA6D2 uniA6D3 uniA6D4 uniA6D5 uniA6D6 uniA6D7
+    uniA6D8 uniA6D9 uniA6DA uniA6DB uniA6DC uniA6DD uniA6DE uniA6DF
+    uniA6E0 uniA6E1 uniA6E2 uniA6E3 uniA6E4 uniA6E5 uniA6E6 uniA6E7
+    uniA6E8 uniA6E9 uniA6EA uniA6EB uniA6EC uniA6ED uniA6EE uniA6EF];
+
+@cnTakeskoqndonDia = [uniA6F1];
+
+@cTakestukwentisDia = [uniA6A7 uniA6B1 uniA6B6 uniA6B7 uniA6BE uniA6D4 uniA6D6 uniA6D8
+    uniA6DB uniA6DC uniA6DF uniA6E4 uniA6E6];
+
+@cnTakestukwentisDia = [uniA6F0];
+
+lookup base_koqndon_base {
+  lookupflag 0;
+  markClass [uniA6F0] <anchor 400 800> @koqndon;
+  pos base [uniA6A0] <anchor 380 800> mark @koqndon;
+  pos base [uniA6A1] <anchor 400 800> mark @koqndon;
+  pos base [uniA6A2] <anchor 348 800> mark @koqndon;
+  pos base [uniA6A3] <anchor 410 800> mark @koqndon;
+  pos base [uniA6A4] <anchor 450 800> mark @koqndon;
+  pos base [uniA6A5] <anchor 340 800> mark @koqndon;
+  pos base [uniA6A6] <anchor 301 800> mark @koqndon;
+  pos base [uniA6A7] <anchor 370 800> mark @koqndon;
+  pos base [uniA6A8] <anchor 380 800> mark @koqndon;
+  pos base [uniA6A9] <anchor 452 800> mark @koqndon;
+  pos base [uniA6AA] <anchor 419 800> mark @koqndon;
+  pos base [uniA6AB] <anchor 420 800> mark @koqndon;
+  pos base [uniA6AC] <anchor 310 800> mark @koqndon;
+  pos base [uniA6AD] <anchor 340 800> mark @koqndon;
+  pos base [uniA6AE] <anchor 212 800> mark @koqndon;
+  pos base [uniA6AF] <anchor 270 800> mark @koqndon;
+  pos base [uniA6B0] <anchor 380 800> mark @koqndon;
+  pos base [uniA6B1] <anchor 290 800> mark @koqndon;
+  pos base [uniA6B2] <anchor 335 800> mark @koqndon;
+  pos base [uniA6B3] <anchor 370 800> mark @koqndon;
+  pos base [uniA6B4] <anchor 370 800> mark @koqndon;
+  pos base [uniA6B5] <anchor 299 800> mark @koqndon;
+  pos base [uniA6B6] <anchor 400 800> mark @koqndon;
+  pos base [uniA6B7] <anchor 430 800> mark @koqndon;
+  pos base [uniA6B8] <anchor 438 800> mark @koqndon;
+  pos base [uniA6B9] <anchor 170 800> mark @koqndon;
+  pos base [uniA6BA] <anchor 340 800> mark @koqndon;
+  pos base [uniA6BB] <anchor 440 800> mark @koqndon;
+  pos base [uniA6BC] <anchor 440 800> mark @koqndon;
+  pos base [uniA6BD] <anchor 341 800> mark @koqndon;
+  pos base [uniA6BE] <anchor 339 800> mark @koqndon;
+  pos base [uniA6BF] <anchor 390 800> mark @koqndon;
+  pos base [uniA6C0] <anchor 349 800> mark @koqndon;
+  pos base [uniA6C1] <anchor 298 800> mark @koqndon;
+  pos base [uniA6C2] <anchor 323 800> mark @koqndon;
+  pos base [uniA6C3] <anchor 398 800> mark @koqndon;
+  pos base [uniA6C4] <anchor 224 800> mark @koqndon;
+  pos base [uniA6C5] <anchor 291 800> mark @koqndon;
+  pos base [uniA6C6] <anchor 340 800> mark @koqndon;
+  pos base [uniA6C7] <anchor 420 800> mark @koqndon;
+  pos base [uniA6C8] <anchor 340 800> mark @koqndon;
+  pos base [uniA6C9] <anchor 400 800> mark @koqndon;
+  pos base [uniA6CA] <anchor 491 800> mark @koqndon;
+  pos base [uniA6CB] <anchor 401 800> mark @koqndon;
+  pos base [uniA6CC] <anchor 300 800> mark @koqndon;
+  pos base [uniA6CD] <anchor 390 800> mark @koqndon;
+  pos base [uniA6CE] <anchor 400 800> mark @koqndon;
+  pos base [uniA6CF] <anchor 375 800> mark @koqndon;
+  pos base [uniA6D0] <anchor 333 800> mark @koqndon;
+  pos base [uniA6D1] <anchor 301 800> mark @koqndon;
+  pos base [uniA6D2] <anchor 399 800> mark @koqndon;
+  pos base [uniA6D3] <anchor 406 800> mark @koqndon;
+  pos base [uniA6D4] <anchor 343 800> mark @koqndon;
+  pos base [uniA6D5] <anchor 240 800> mark @koqndon;
+  pos base [uniA6D6] <anchor 281 800> mark @koqndon;
+  pos base [uniA6D7] <anchor 519 800> mark @koqndon;
+  pos base [uniA6D8] <anchor 420 800> mark @koqndon;
+  pos base [uniA6D9] <anchor 430 800> mark @koqndon;
+  pos base [uniA6DA] <anchor 370 800> mark @koqndon;
+  pos base [uniA6DB] <anchor 318 800> mark @koqndon;
+  pos base [uniA6DC] <anchor 300 800> mark @koqndon;
+  pos base [uniA6DD] <anchor 362 800> mark @koqndon;
+  pos base [uniA6DE] <anchor 333 800> mark @koqndon;
+  pos base [uniA6DF] <anchor 390 800> mark @koqndon;
+  pos base [uniA6E0] <anchor 400 800> mark @koqndon;
+  pos base [uniA6E1] <anchor 499 800> mark @koqndon;
+  pos base [uniA6E2] <anchor 250 800> mark @koqndon;
+  pos base [uniA6E3] <anchor 292 800> mark @koqndon;
+  pos base [uniA6E4] <anchor 349 800> mark @koqndon;
+  pos base [uniA6E5] <anchor 400 800> mark @koqndon;
+  pos base [uniA6E6] <anchor 340 800> mark @koqndon;
+  pos base [uniA6E7] <anchor 340 800> mark @koqndon;
+  pos base [uniA6E8] <anchor 331 800> mark @koqndon;
+  pos base [uniA6E9] <anchor 342 800> mark @koqndon;
+  pos base [uniA6EA] <anchor 349 800> mark @koqndon;
+  pos base [uniA6EB] <anchor 323 800> mark @koqndon;
+  pos base [uniA6EC] <anchor 342 800> mark @koqndon;
+  pos base [uniA6ED] <anchor 300 800> mark @koqndon;
+  pos base [uniA6EE] <anchor 390 800> mark @koqndon;
+  pos base [uniA6EF] <anchor 340 800> mark @koqndon;
+} base_koqndon_base;
+
+lookup base_tukwentis_base {
+  lookupflag 0;
+  markClass [uniA6F1] <anchor 408 800> @tukwentis;
+  pos base [uniA6A7] <anchor 377 800> mark @tukwentis;
+  pos base [uniA6B1] <anchor 316 800> mark @tukwentis;
+  pos base [uniA6B6] <anchor 418 800> mark @tukwentis;
+  pos base [uniA6B7] <anchor 440 800> mark @tukwentis;
+  pos base [uniA6BE] <anchor 375 800> mark @tukwentis;
+  pos base [uniA6D4] <anchor 350 800> mark @tukwentis;
+  pos base [uniA6D6] <anchor 317 800> mark @tukwentis;
+  pos base [uniA6D8] <anchor 420 800> mark @tukwentis;
+  pos base [uniA6DB] <anchor 323 800> mark @tukwentis;
+  pos base [uniA6DC] <anchor 296 800> mark @tukwentis;
+  pos base [uniA6DF] <anchor 399 800> mark @tukwentis;
+  pos base [uniA6E4] <anchor 370 800> mark @tukwentis;
+  pos base [uniA6E6] <anchor 350 800> mark @tukwentis;
+} base_tukwentis_base;
+

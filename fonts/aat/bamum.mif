@@ -1,0 +1,115 @@
+//====================================================
+// Auto-generated UniMIF data
+//====================================================
+
+//====================================================
+//      Standard required ligatures
+//          Decomposition length == 2
+//          Decomposition type == Full
+//====================================================
+
+Type        LigatureList
+Name        NULL
+Namecode    27
+Setting     NULL
+Settingcode 0
+Default     yes
+Orientation HV
+Forward     yes
+Exclusive   no
+
+List
+
+    uniA6A0_A6F0 uniA6A0 uniA6F0
+    uniA6A1_A6F0 uniA6A1 uniA6F0
+    uniA6A2_A6F0 uniA6A2 uniA6F0
+    uniA6A3_A6F0 uniA6A3 uniA6F0
+    uniA6A4_A6F0 uniA6A4 uniA6F0
+    uniA6A5_A6F0 uniA6A5 uniA6F0
+    uniA6A6_A6F0 uniA6A6 uniA6F0
+    uniA6A7_A6F0 uniA6A7 uniA6F0
+    uniA6A7_A6F1 uniA6A7 uniA6F1
+    uniA6A8_A6F0 uniA6A8 uniA6F0
+    uniA6A9_A6F0 uniA6A9 uniA6F0
+    uniA6AA_A6F0 uniA6AA uniA6F0
+    uniA6AB_A6F0 uniA6AB uniA6F0
+    uniA6AC_A6F0 uniA6AC uniA6F0
+    uniA6AD_A6F0 uniA6AD uniA6F0
+    uniA6AE_A6F0 uniA6AE uniA6F0
+    uniA6AF_A6F0 uniA6AF uniA6F0
+    uniA6B0_A6F0 uniA6B0 uniA6F0
+    uniA6B1_A6F0 uniA6B1 uniA6F0
+    uniA6B1_A6F1 uniA6B1 uniA6F1
+    uniA6B2_A6F0 uniA6B2 uniA6F0
+    uniA6B3_A6F0 uniA6B3 uniA6F0
+    uniA6B4_A6F0 uniA6B4 uniA6F0
+    uniA6B5_A6F0 uniA6B5 uniA6F0
+    uniA6B6_A6F0 uniA6B6 uniA6F0
+    uniA6B7_A6F0 uniA6B7 uniA6F0
+    uniA6B7_A6F1 uniA6B7 uniA6F1
+    uniA6B8_A6F0 uniA6B8 uniA6F0
+    uniA6B9_A6F0 uniA6B9 uniA6F0
+    uniA6BA_A6F0 uniA6BA uniA6F0
+    uniA6BB_A6F0 uniA6BB uniA6F0
+    uniA6BC_A6F0 uniA6BC uniA6F0
+    uniA6BD_A6F0 uniA6BD uniA6F0
+    uniA6BE_A6F0 uniA6BE uniA6F0
+    uniA6BE_A6F1 uniA6BE uniA6F1
+    uniA6BF_A6F0 uniA6BF uniA6F0
+    uniA6C0_A6F0 uniA6C0 uniA6F0
+    uniA6C1_A6F0 uniA6C1 uniA6F0
+    uniA6C2_A6F0 uniA6C2 uniA6F0
+    uniA6C3_A6F0 uniA6C3 uniA6F0
+    uniA6C4_A6F0 uniA6C4 uniA6F0
+    uniA6C5_A6F0 uniA6C5 uniA6F0
+    uniA6C6_A6F0 uniA6C6 uniA6F0
+    uniA6B6_A6F1 uniA6B6 uniA6F1
+    uniA6C7_A6F0 uniA6C7 uniA6F0
+    uniA6C8_A6F0 uniA6C8 uniA6F0
+    uniA6C9_A6F0 uniA6C9 uniA6F0
+    uniA6CA_A6F0 uniA6CA uniA6F0
+    uniA6CB_A6F0 uniA6CB uniA6F0
+    uniA6CC_A6F0 uniA6CC uniA6F0
+    uniA6CD_A6F0 uniA6CD uniA6F0
+    uniA6CE_A6F0 uniA6CE uniA6F0
+    uniA6CF_A6F0 uniA6CF uniA6F0
+    uniA6D0_A6F0 uniA6D0 uniA6F0
+    uniA6D1_A6F0 uniA6D1 uniA6F0
+    uniA6D2_A6F0 uniA6D2 uniA6F0
+    uniA6D3_A6F0 uniA6D3 uniA6F0
+    uniA6D4_A6F0 uniA6D4 uniA6F0
+    uniA6D4_A6F1 uniA6D4 uniA6F1
+    uniA6D5_A6F0 uniA6D5 uniA6F0
+    uniA6D6_A6F0 uniA6D6 uniA6F0
+    uniA6D6_A6F1 uniA6D6 uniA6F1
+    uniA6D7_A6F0 uniA6D7 uniA6F0
+    uniA6D8_A6F0 uniA6D8 uniA6F0
+    uniA6D8_A6F1 uniA6D8 uniA6F1
+    uniA6D9_A6F0 uniA6D9 uniA6F0
+    uniA6DA_A6F0 uniA6DA uniA6F0
+    uniA6DB_A6F0 uniA6DB uniA6F0
+    uniA6DB_A6F1 uniA6DB uniA6F1
+    uniA6DC_A6F0 uniA6DC uniA6F0
+    uniA6DC_A6F1 uniA6DC uniA6F1
+    uniA6DD_A6F0 uniA6DD uniA6F0
+    uniA6DE_A6F0 uniA6DE uniA6F0
+    uniA6DF_A6F0 uniA6DF uniA6F0
+    uniA6DF_A6F1 uniA6DF uniA6F1
+    uniA6E0_A6F0 uniA6E0 uniA6F0
+    uniA6E1_A6F0 uniA6E1 uniA6F0
+    uniA6E2_A6F0 uniA6E2 uniA6F0
+    uniA6E3_A6F0 uniA6E3 uniA6F0
+    uniA6E4_A6F0 uniA6E4 uniA6F0
+    uniA6E4_A6F1 uniA6E4 uniA6F1
+    uniA6E5_A6F0 uniA6E5 uniA6F0
+    uniA6E6_A6F0 uniA6E6 uniA6F0
+    uniA6E6_A6F1 uniA6E6 uniA6F1
+    uniA6E7_A6F0 uniA6E7 uniA6F0
+    uniA6E8_A6F0 uniA6E8 uniA6F0
+    uniA6E9_A6F0 uniA6E9 uniA6F0
+    uniA6EA_A6F0 uniA6EA uniA6F0
+    uniA6EB_A6F0 uniA6EB uniA6F0
+    uniA6EC_A6F0 uniA6EC uniA6F0
+    uniA6ED_A6F0 uniA6ED uniA6F0
+    uniA6EE_A6F0 uniA6EE uniA6F0
+    uniA6EF_A6F0 uniA6EF uniA6F0

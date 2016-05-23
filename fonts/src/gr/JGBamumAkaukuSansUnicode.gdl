@@ -174,7 +174,7 @@ ga6e4 = glyphid(167) {tukwentisS = point(370m, 800m); koqndonS = point(349m, 800
 ga6e5 = glyphid(168) {koqndonS = point(400m, 800m)};
 ga6e6 = glyphid(169) {tukwentisS = point(350m, 800m); koqndonS = point(340m, 800m)};
 ga6e7 = glyphid(170) {koqndonS = point(340m, 800m)};
-ga6e8 = glyphid(171) {S = point(332m, 800m); koqndonS = point(331m, 800m)};
+ga6e8 = glyphid(171) {koqndonS = point(331m, 800m)};
 ga6e9 = glyphid(172) {koqndonS = point(342m, 800m)};
 ga6ea = glyphid(173) {koqndonS = point(349m, 800m)};
 ga6eb = glyphid(174) {koqndonS = point(323m, 800m)};
@@ -190,6 +190,7 @@ ga6f4 = glyphid(183);
 ga6f5 = glyphid(184);
 ga6f6 = glyphid(185);
 ga6f7 = glyphid(186);
+
 
 /* Classes */
 ckoqndonDia = (ga6f0);
@@ -219,5 +220,10 @@ cTakestukwentisDia = (ga6a7, ga6b1, ga6b6, ga6b7, ga6be, ga6d4, ga6d6, ga6d8,
 cnTakestukwentisDia = (ga6f0);
 
 endtable;
-
 #define MAXGLYPH 186
+
+
+table(positioning)
+cTakeskoqndonDia ckoqndonDia {attach {to=@1; at=koqndonS; with=koqndonM}};
+cTakestukwentisDia ctukwentisDia {attach {to=@1; at=tukwentisS; with=tukwentisM}};
+endtable;

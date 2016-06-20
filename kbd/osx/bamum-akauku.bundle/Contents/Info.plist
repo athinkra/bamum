@@ -5,7 +5,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.bamumakauku</string>
 	<key>CFBundleName</key>
-	<string>Bamum Akauku</string>
+	<string>bamum-akauku</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>KLInfo_Bamum</key>

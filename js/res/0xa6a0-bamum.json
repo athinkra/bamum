@@ -792,6 +792,15 @@
                 "charcode": "0xa6f7", 
                 "description": "", 
                 "title": "BAMUM QUESTION MARK"
+            },
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x0020", 
+                "description": "SPACE - ", 
+                "title": "SPACE"
             }
         ], 
         "name": "Bamum"

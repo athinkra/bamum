@@ -1,0 +1,46 @@
+/* @import url('symbola.css');  
+
+html {overflow-y: scroll;}  */
+
+
+#panel { 
+	position: sticky;
+	top: 0;
+	background: white;
+	padding-bottom: 20px;
+	box-shadow: 0 0 5px 5px white;
+}
+
+#panel fieldset { display: inline; }
+
+#input {
+  font-size: 120%; 
+  width:100%;
+}
+
+#buttons button { font-size: 130%; background: none; border: none; min-width: 4.5ex}
+div.big { font-size: 200%; text-align: center; }
+#buttons h2 { 
+	text-shadow: 2px 2px 2px silver;
+}
+#buttons {padding: 0 5%}
+
+#buttons button {
+  box-shadow: 0 0 3px silver, 0 0 1px silver inset;
+  border-radius: 5px; 
+  margin: 10px 5px 5px 5px; 
+  transition:box-shadow 0.5s, background 0.5s;
+}
+
+#buttons button:hover {
+  box-shadow: 0px 0px 18px blue, 0 0 8px blue inset; 
+  transition:box-shadow 0.5s, background 0.5s;
+  background: #ddf;
+}
+
+#buttons.list button:after {content: " – " attr(title); font-size: 25%;}
+#buttons.list button {display: block; border-bottom: 1px solid silver; width: 100%; text-align: start}
+
+#input.fixed { position: fixed; top: 10px; left: 10px; right: 10px; opacity: 0.9; width: 90%; margin: auto; }
+a[onclick] { text-decoration: underline; color: blue; cursor: pointer}
+

@@ -1,0 +1,981 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Space", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2000", 
+                "description": "", 
+                "title": "EN QUAD"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Space", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2001", 
+                "description": "", 
+                "title": "EM QUAD"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Space", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2002", 
+                "description": "", 
+                "title": "EN SPACE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Space", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2003", 
+                "description": "", 
+                "title": "EM SPACE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Space", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2004", 
+                "description": "", 
+                "title": "THREE-PER-EM SPACE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Space", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2005", 
+                "description": "", 
+                "title": "FOUR-PER-EM SPACE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Space", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2006", 
+                "description": "", 
+                "title": "SIX-PER-EM SPACE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Space", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2007", 
+                "description": "", 
+                "title": "FIGURE SPACE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Space", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2008", 
+                "description": "", 
+                "title": "PUNCTUATION SPACE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Space", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2009", 
+                "description": "", 
+                "title": "THIN SPACE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Space", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x200a", 
+                "description": "", 
+                "title": "HAIR SPACE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Space", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x200b", 
+                "description": "", 
+                "title": "ZERO WIDTH SPACE"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Joining", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x200c", 
+                "description": "", 
+                "title": "ZERO WIDTH NON-JOINER"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Joining", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x200d", 
+                "description": "", 
+                "title": "ZERO WIDTH JOINER"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Bidi", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x200e", 
+                "description": "", 
+                "title": "LEFT-TO-RIGHT MARK"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Bidi", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x200f", 
+                "description": "", 
+                "title": "RIGHT-TO-LEFT MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Dash", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2010", 
+                "description": "", 
+                "title": "HYPHEN"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Dash", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2011", 
+                "description": "", 
+                "title": "NON-BREAKING HYPHEN"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Dash", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2012", 
+                "description": "", 
+                "title": "FIGURE DASH"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Dash", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2013", 
+                "description": "", 
+                "title": "EN DASH"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Dash", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2014", 
+                "description": "", 
+                "title": "EM DASH"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Dash", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2015", 
+                "description": "QUOTATION DASH", 
+                "title": "HORIZONTAL BAR"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2016", 
+                "description": "DOUBLE VERTICAL BAR", 
+                "title": "DOUBLE VERTICAL LINE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2017", 
+                "description": "SPACING DOUBLE UNDERSCORE", 
+                "title": "DOUBLE LOW LINE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Quotation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2018", 
+                "description": "SINGLE TURNED COMMA QUOTATION MARK", 
+                "title": "LEFT SINGLE QUOTATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Quotation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2019", 
+                "description": "SINGLE COMMA QUOTATION MARK", 
+                "title": "RIGHT SINGLE QUOTATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Quotation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x201a", 
+                "description": "LOW SINGLE COMMA QUOTATION MARK", 
+                "title": "SINGLE LOW-9 QUOTATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Quotation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x201b", 
+                "description": "SINGLE REVERSED COMMA QUOTATION MARK", 
+                "title": "SINGLE HIGH-REVERSED-9 QUOTATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Quotation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x201c", 
+                "description": "DOUBLE TURNED COMMA QUOTATION MARK", 
+                "title": "LEFT DOUBLE QUOTATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Quotation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x201d", 
+                "description": "DOUBLE COMMA QUOTATION MARK", 
+                "title": "RIGHT DOUBLE QUOTATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Quotation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x201e", 
+                "description": "LOW DOUBLE COMMA QUOTATION MARK", 
+                "title": "DOUBLE LOW-9 QUOTATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Quotation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x201f", 
+                "description": "DOUBLE REVERSED COMMA QUOTATION MARK", 
+                "title": "DOUBLE HIGH-REVERSED-9 QUOTATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2020", 
+                "description": "", 
+                "title": "DAGGER"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2021", 
+                "description": "", 
+                "title": "DOUBLE DAGGER"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2022", 
+                "description": "", 
+                "title": "BULLET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2023", 
+                "description": "", 
+                "title": "TRIANGULAR BULLET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2024", 
+                "description": "", 
+                "title": "ONE DOT LEADER"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2025", 
+                "description": "", 
+                "title": "TWO DOT LEADER"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2026", 
+                "description": "", 
+                "title": "HORIZONTAL ELLIPSIS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2027", 
+                "description": "", 
+                "title": "HYPHENATION POINT"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Linebreak", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2028", 
+                "description": "", 
+                "title": "LINE SEPARATOR"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Linebreak", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2029", 
+                "description": "", 
+                "title": "PARAGRAPH SEPARATOR"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Bidi", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x202a", 
+                "description": "", 
+                "title": "LEFT-TO-RIGHT EMBEDDING"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Bidi", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x202b", 
+                "description": "", 
+                "title": "RIGHT-TO-LEFT EMBEDDING"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Bidi", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x202c", 
+                "description": "", 
+                "title": "POP DIRECTIONAL FORMATTING"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Bidi", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x202d", 
+                "description": "", 
+                "title": "LEFT-TO-RIGHT OVERRIDE"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Bidi", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x202e", 
+                "description": "", 
+                "title": "RIGHT-TO-LEFT OVERRIDE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Space", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x202f", 
+                "description": "", 
+                "title": "NARROW NO-BREAK SPACE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2030", 
+                "description": "", 
+                "title": "PER MILLE SIGN"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2031", 
+                "description": "", 
+                "title": "PER TEN THOUSAND SIGN"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2032", 
+                "description": "", 
+                "title": "PRIME"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2033", 
+                "description": "", 
+                "title": "DOUBLE PRIME"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2034", 
+                "description": "", 
+                "title": "TRIPLE PRIME"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2035", 
+                "description": "", 
+                "title": "REVERSED PRIME"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2036", 
+                "description": "", 
+                "title": "REVERSED DOUBLE PRIME"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2037", 
+                "description": "", 
+                "title": "REVERSED TRIPLE PRIME"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2038", 
+                "description": "", 
+                "title": "CARET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Quotation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2039", 
+                "description": "LEFT POINTING SINGLE GUILLEMET", 
+                "title": "SINGLE LEFT-POINTING ANGLE QUOTATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Quotation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x203a", 
+                "description": "RIGHT POINTING SINGLE GUILLEMET", 
+                "title": "SINGLE RIGHT-POINTING ANGLE QUOTATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x203b", 
+                "description": "", 
+                "title": "REFERENCE MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x203c", 
+                "description": "", 
+                "title": "DOUBLE EXCLAMATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x203d", 
+                "description": "", 
+                "title": "INTERROBANG"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x203e", 
+                "description": "SPACING OVERSCORE", 
+                "title": "OVERLINE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x203f", 
+                "description": "", 
+                "title": "UNDERTIE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2040", 
+                "description": "", 
+                "title": "CHARACTER TIE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2041", 
+                "description": "", 
+                "title": "CARET INSERTION POINT"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2042", 
+                "description": "", 
+                "title": "ASTERISM"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2043", 
+                "description": "", 
+                "title": "HYPHEN BULLET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2044", 
+                "description": "", 
+                "title": "FRACTION SLASH"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2045", 
+                "description": "", 
+                "title": "LEFT SQUARE BRACKET WITH QUILL"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2046", 
+                "description": "", 
+                "title": "RIGHT SQUARE BRACKET WITH QUILL"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2047", 
+                "description": "", 
+                "title": "DOUBLE QUESTION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2048", 
+                "description": "", 
+                "title": "QUESTION EXCLAMATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2049", 
+                "description": "", 
+                "title": "EXCLAMATION QUESTION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x204a", 
+                "description": "", 
+                "title": "TIRONIAN SIGN ET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x204b", 
+                "description": "", 
+                "title": "REVERSED PILCROW SIGN"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x204c", 
+                "description": "", 
+                "title": "BLACK LEFTWARDS BULLET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x204d", 
+                "description": "", 
+                "title": "BLACK RIGHTWARDS BULLET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x204e", 
+                "description": "", 
+                "title": "LOW ASTERISK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x204f", 
+                "description": "", 
+                "title": "REVERSED SEMICOLON"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2050", 
+                "description": "", 
+                "title": "CLOSE UP"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2051", 
+                "description": "", 
+                "title": "TWO ASTERISKS ALIGNED VERTICALLY"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2052", 
+                "description": "", 
+                "title": "COMMERCIAL MINUS SIGN"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2053", 
+                "description": "", 
+                "title": "SWUNG DASH"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2054", 
+                "description": "", 
+                "title": "INVERTED UNDERTIE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2055", 
+                "description": "", 
+                "title": "FLOWER PUNCTUATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2056", 
+                "description": "", 
+                "title": "THREE DOT PUNCTUATION"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2057", 
+                "description": "", 
+                "title": "QUADRUPLE PRIME"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2058", 
+                "description": "", 
+                "title": "FOUR DOT PUNCTUATION"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2059", 
+                "description": "", 
+                "title": "FIVE DOT PUNCTUATION"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x205a", 
+                "description": "", 
+                "title": "TWO DOT PUNCTUATION"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x205b", 
+                "description": "", 
+                "title": "FOUR DOT MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x205c", 
+                "description": "", 
+                "title": "DOTTED CROSS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x205d", 
+                "description": "", 
+                "title": "TRICOLON"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x205e", 
+                "description": "", 
+                "title": "VERTICAL FOUR DOTS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Space", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x205f", 
+                "description": "", 
+                "title": "MEDIUM MATHEMATICAL SPACE"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Linebreak", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2060", 
+                "description": "", 
+                "title": "WORD JOINER"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2061", 
+                "description": "", 
+                "title": "FUNCTION APPLICATION"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2062", 
+                "description": "", 
+                "title": "INVISIBLE TIMES"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2063", 
+                "description": "", 
+                "title": "INVISIBLE SEPARATOR"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2064", 
+                "description": "", 
+                "title": "INVISIBLE PLUS"
+            }, 
+            {
+                "charcode": "0x2066", 
+                "description": "", 
+                "title": "LEFT-TO-RIGHT ISOLATE"
+            }, 
+            {
+                "charcode": "0x2067", 
+                "description": "", 
+                "title": "RIGHT-TO-LEFT ISOLATE"
+            }, 
+            {
+                "charcode": "0x2068", 
+                "description": "", 
+                "title": "FIRST STRONG ISOLATE"
+            }, 
+            {
+                "charcode": "0x2069", 
+                "description": "", 
+                "title": "POP DIRECTIONAL ISOLATE"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x206a", 
+                "description": "", 
+                "title": "INHIBIT SYMMETRIC SWAPPING"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x206b", 
+                "description": "", 
+                "title": "ACTIVATE SYMMETRIC SWAPPING"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x206c", 
+                "description": "", 
+                "title": "INHIBIT ARABIC FORM SHAPING"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x206d", 
+                "description": "", 
+                "title": "ACTIVATE ARABIC FORM SHAPING"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x206e", 
+                "description": "", 
+                "title": "NATIONAL DIGIT SHAPES"
+            }
+        ], 
+        "name": "General Punctuation"
+    }
+]

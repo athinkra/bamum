@@ -1,0 +1,862 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x250", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TURNED A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x251", 
+                "description": "LATIN SMALL LETTER SCRIPT A", 
+                "title": "LATIN SMALL LETTER ALPHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x252", 
+                "description": "LATIN SMALL LETTER TURNED SCRIPT A", 
+                "title": "LATIN SMALL LETTER TURNED ALPHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x253", 
+                "description": "LATIN SMALL LETTER B HOOK", 
+                "title": "LATIN SMALL LETTER B WITH HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x254", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER OPEN O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x255", 
+                "description": "LATIN SMALL LETTER C CURL", 
+                "title": "LATIN SMALL LETTER C WITH CURL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x256", 
+                "description": "LATIN SMALL LETTER D RETROFLEX HOOK", 
+                "title": "LATIN SMALL LETTER D WITH TAIL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x257", 
+                "description": "LATIN SMALL LETTER D HOOK", 
+                "title": "LATIN SMALL LETTER D WITH HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x258", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER REVERSED E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x259", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER SCHWA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x25a", 
+                "description": "LATIN SMALL LETTER SCHWA HOOK", 
+                "title": "LATIN SMALL LETTER SCHWA WITH HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x25b", 
+                "description": "LATIN SMALL LETTER EPSILON", 
+                "title": "LATIN SMALL LETTER OPEN E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x25c", 
+                "description": "LATIN SMALL LETTER REVERSED EPSILON", 
+                "title": "LATIN SMALL LETTER REVERSED OPEN E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x25d", 
+                "description": "LATIN SMALL LETTER REVERSED EPSILON HOOK", 
+                "title": "LATIN SMALL LETTER REVERSED OPEN E WITH HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x25e", 
+                "description": "LATIN SMALL LETTER CLOSED REVERSED EPSILON", 
+                "title": "LATIN SMALL LETTER CLOSED REVERSED OPEN E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x25f", 
+                "description": "LATIN SMALL LETTER DOTLESS J BAR", 
+                "title": "LATIN SMALL LETTER DOTLESS J WITH STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x260", 
+                "description": "LATIN SMALL LETTER G HOOK", 
+                "title": "LATIN SMALL LETTER G WITH HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x261", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER SCRIPT G"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x262", 
+                "description": "", 
+                "title": "LATIN LETTER SMALL CAPITAL G"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x263", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER GAMMA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x264", 
+                "description": "LATIN SMALL LETTER BABY GAMMA", 
+                "title": "LATIN SMALL LETTER RAMS HORN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x265", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TURNED H"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x266", 
+                "description": "LATIN SMALL LETTER H HOOK", 
+                "title": "LATIN SMALL LETTER H WITH HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x267", 
+                "description": "LATIN SMALL LETTER HENG HOOK", 
+                "title": "LATIN SMALL LETTER HENG WITH HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x268", 
+                "description": "LATIN SMALL LETTER BARRED I", 
+                "title": "LATIN SMALL LETTER I WITH STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x269", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER IOTA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x26a", 
+                "description": "", 
+                "title": "LATIN LETTER SMALL CAPITAL I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x26b", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER L WITH MIDDLE TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x26c", 
+                "description": "LATIN SMALL LETTER L BELT", 
+                "title": "LATIN SMALL LETTER L WITH BELT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x26d", 
+                "description": "LATIN SMALL LETTER L RETROFLEX HOOK", 
+                "title": "LATIN SMALL LETTER L WITH RETROFLEX HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x26e", 
+                "description": "LATIN SMALL LETTER L YOGH", 
+                "title": "LATIN SMALL LETTER LEZH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x26f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TURNED M"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x270", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TURNED M WITH LONG LEG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x271", 
+                "description": "LATIN SMALL LETTER M HOOK", 
+                "title": "LATIN SMALL LETTER M WITH HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x272", 
+                "description": "LATIN SMALL LETTER N HOOK", 
+                "title": "LATIN SMALL LETTER N WITH LEFT HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x273", 
+                "description": "LATIN SMALL LETTER N RETROFLEX HOOK", 
+                "title": "LATIN SMALL LETTER N WITH RETROFLEX HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x274", 
+                "description": "", 
+                "title": "LATIN LETTER SMALL CAPITAL N"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x275", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER BARRED O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x276", 
+                "description": "LATIN LETTER SMALL CAPITAL O E", 
+                "title": "LATIN LETTER SMALL CAPITAL OE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x277", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER CLOSED OMEGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x278", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER PHI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x279", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TURNED R"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x27a", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TURNED R WITH LONG LEG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x27b", 
+                "description": "LATIN SMALL LETTER TURNED R HOOK", 
+                "title": "LATIN SMALL LETTER TURNED R WITH HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x27c", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER R WITH LONG LEG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x27d", 
+                "description": "LATIN SMALL LETTER R HOOK", 
+                "title": "LATIN SMALL LETTER R WITH TAIL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x27e", 
+                "description": "LATIN SMALL LETTER FISHHOOK R", 
+                "title": "LATIN SMALL LETTER R WITH FISHHOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x27f", 
+                "description": "LATIN SMALL LETTER REVERSED FISHHOOK R", 
+                "title": "LATIN SMALL LETTER REVERSED R WITH FISHHOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x280", 
+                "description": "", 
+                "title": "LATIN LETTER SMALL CAPITAL R"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x281", 
+                "description": "", 
+                "title": "LATIN LETTER SMALL CAPITAL INVERTED R"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x282", 
+                "description": "LATIN SMALL LETTER S HOOK", 
+                "title": "LATIN SMALL LETTER S WITH HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x283", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER ESH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x284", 
+                "description": "LATIN SMALL LETTER DOTLESS J BAR HOOK", 
+                "title": "LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x285", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER SQUAT REVERSED ESH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x286", 
+                "description": "LATIN SMALL LETTER ESH CURL", 
+                "title": "LATIN SMALL LETTER ESH WITH CURL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x287", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TURNED T"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x288", 
+                "description": "LATIN SMALL LETTER T RETROFLEX HOOK", 
+                "title": "LATIN SMALL LETTER T WITH RETROFLEX HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x289", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER U BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x28a", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER UPSILON"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x28b", 
+                "description": "LATIN SMALL LETTER SCRIPT V", 
+                "title": "LATIN SMALL LETTER V WITH HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x28c", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TURNED V"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x28d", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TURNED W"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x28e", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TURNED Y"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x28f", 
+                "description": "", 
+                "title": "LATIN LETTER SMALL CAPITAL Y"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x290", 
+                "description": "LATIN SMALL LETTER Z RETROFLEX HOOK", 
+                "title": "LATIN SMALL LETTER Z WITH RETROFLEX HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x291", 
+                "description": "LATIN SMALL LETTER Z CURL", 
+                "title": "LATIN SMALL LETTER Z WITH CURL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x292", 
+                "description": "LATIN SMALL LETTER YOGH", 
+                "title": "LATIN SMALL LETTER EZH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x293", 
+                "description": "LATIN SMALL LETTER YOGH CURL", 
+                "title": "LATIN SMALL LETTER EZH WITH CURL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x294", 
+                "description": "", 
+                "title": "LATIN LETTER GLOTTAL STOP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x295", 
+                "description": "LATIN LETTER REVERSED GLOTTAL STOP", 
+                "title": "LATIN LETTER PHARYNGEAL VOICED FRICATIVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x296", 
+                "description": "", 
+                "title": "LATIN LETTER INVERTED GLOTTAL STOP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x297", 
+                "description": "", 
+                "title": "LATIN LETTER STRETCHED C"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x298", 
+                "description": "LATIN LETTER BULLSEYE", 
+                "title": "LATIN LETTER BILABIAL CLICK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x299", 
+                "description": "", 
+                "title": "LATIN LETTER SMALL CAPITAL B"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x29a", 
+                "description": "LATIN SMALL LETTER CLOSED EPSILON", 
+                "title": "LATIN SMALL LETTER CLOSED OPEN E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x29b", 
+                "description": "LATIN LETTER SMALL CAPITAL G HOOK", 
+                "title": "LATIN LETTER SMALL CAPITAL G WITH HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x29c", 
+                "description": "", 
+                "title": "LATIN LETTER SMALL CAPITAL H"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x29d", 
+                "description": "LATIN SMALL LETTER CROSSED-TAIL J", 
+                "title": "LATIN SMALL LETTER J WITH CROSSED-TAIL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x29e", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TURNED K"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x29f", 
+                "description": "", 
+                "title": "LATIN LETTER SMALL CAPITAL L"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x2a0", 
+                "description": "LATIN SMALL LETTER Q HOOK", 
+                "title": "LATIN SMALL LETTER Q WITH HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x2a1", 
+                "description": "LATIN LETTER GLOTTAL STOP BAR", 
+                "title": "LATIN LETTER GLOTTAL STOP WITH STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x2a2", 
+                "description": "LATIN LETTER REVERSED GLOTTAL STOP BAR", 
+                "title": "LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x2a3", 
+                "description": "LATIN SMALL LETTER D Z", 
+                "title": "LATIN SMALL LETTER DZ DIGRAPH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x2a4", 
+                "description": "LATIN SMALL LETTER D YOGH", 
+                "title": "LATIN SMALL LETTER DEZH DIGRAPH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x2a5", 
+                "description": "LATIN SMALL LETTER D Z CURL", 
+                "title": "LATIN SMALL LETTER DZ DIGRAPH WITH CURL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x2a6", 
+                "description": "LATIN SMALL LETTER T S", 
+                "title": "LATIN SMALL LETTER TS DIGRAPH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x2a7", 
+                "description": "LATIN SMALL LETTER T ESH", 
+                "title": "LATIN SMALL LETTER TESH DIGRAPH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x2a8", 
+                "description": "LATIN SMALL LETTER T C CURL", 
+                "title": "LATIN SMALL LETTER TC DIGRAPH WITH CURL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x2a9", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER FENG DIGRAPH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x2aa", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER LS DIGRAPH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x2ab", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER LZ DIGRAPH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x2ac", 
+                "description": "", 
+                "title": "LATIN LETTER BILABIAL PERCUSSIVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "IPA", 
+                "cat4": "", 
+                "charcode": "0x2ad", 
+                "description": "", 
+                "title": "LATIN LETTER BIDENTAL PERCUSSIVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "Sinology", 
+                "cat4": "", 
+                "charcode": "0x2ae", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TURNED H WITH FISHHOOK"
+            }
+        ], 
+        "name": "IPA Extensions"
+    }
+]

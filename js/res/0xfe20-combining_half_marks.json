@@ -1,0 +1,110 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe20", 
+                "description": "", 
+                "title": "COMBINING LIGATURE LEFT HALF"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe21", 
+                "description": "", 
+                "title": "COMBINING LIGATURE RIGHT HALF"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe22", 
+                "description": "", 
+                "title": "COMBINING DOUBLE TILDE LEFT HALF"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe23", 
+                "description": "", 
+                "title": "COMBINING DOUBLE TILDE RIGHT HALF"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe24", 
+                "description": "", 
+                "title": "COMBINING MACRON LEFT HALF"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe25", 
+                "description": "", 
+                "title": "COMBINING MACRON RIGHT HALF"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe26", 
+                "description": "", 
+                "title": "COMBINING CONJOINING MACRON"
+            }, 
+            {
+                "charcode": "0xfe27", 
+                "description": "", 
+                "title": "COMBINING LIGATURE LEFT HALF BELOW"
+            }, 
+            {
+                "charcode": "0xfe28", 
+                "description": "", 
+                "title": "COMBINING LIGATURE RIGHT HALF BELOW"
+            }, 
+            {
+                "charcode": "0xfe29", 
+                "description": "", 
+                "title": "COMBINING TILDE LEFT HALF BELOW"
+            }, 
+            {
+                "charcode": "0xfe2a", 
+                "description": "", 
+                "title": "COMBINING TILDE RIGHT HALF BELOW"
+            }, 
+            {
+                "charcode": "0xfe2b", 
+                "description": "", 
+                "title": "COMBINING MACRON LEFT HALF BELOW"
+            }, 
+            {
+                "charcode": "0xfe2c", 
+                "description": "", 
+                "title": "COMBINING MACRON RIGHT HALF BELOW"
+            }, 
+            {
+                "charcode": "0xfe2d", 
+                "description": "", 
+                "title": "COMBINING CONJOINING MACRON BELOW"
+            }, 
+            {
+                "charcode": "0xfe2e", 
+                "description": "", 
+                "title": "COMBINING CYRILLIC TITLO LEFT HALF"
+            }
+        ], 
+        "name": "Combining Half Marks"
+    }
+]

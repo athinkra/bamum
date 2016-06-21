@@ -1,0 +1,1209 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x370", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER HETA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x371", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER HETA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x372", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER ARCHAIC SAMPI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x373", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER ARCHAIC SAMPI"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Spacing", 
+                "cat3": "Numeral", 
+                "cat4": "", 
+                "charcode": "0x374", 
+                "description": "GREEK UPPER NUMERAL SIGN", 
+                "title": "GREEK NUMERAL SIGN"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Spacing", 
+                "cat3": "Numeral", 
+                "cat4": "", 
+                "charcode": "0x375", 
+                "description": "", 
+                "title": "GREEK LOWER NUMERAL SIGN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x376", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER PAMPHYLIAN DIGAMMA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x377", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER PAMPHYLIAN DIGAMMA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Spacing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x37a", 
+                "description": "GREEK SPACING IOTA BELOW", 
+                "title": "GREEK YPOGEGRAMMENI"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Editorial", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x37b", 
+                "description": "", 
+                "title": "GREEK SMALL REVERSED LUNATE SIGMA SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Editorial", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x37c", 
+                "description": "", 
+                "title": "GREEK SMALL DOTTED LUNATE SIGMA SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Editorial", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x37d", 
+                "description": "", 
+                "title": "GREEK SMALL REVERSED DOTTED LUNATE SIGMA SYMBOL"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x37e", 
+                "description": "", 
+                "title": "GREEK QUESTION MARK"
+            }, 
+            {
+                "charcode": "0x37f", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER YOT"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Spacing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x384", 
+                "description": "GREEK SPACING TONOS", 
+                "title": "GREEK TONOS"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Spacing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x385", 
+                "description": "GREEK SPACING DIAERESIS TONOS", 
+                "title": "GREEK DIALYTIKA TONOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x386", 
+                "description": "GREEK CAPITAL LETTER ALPHA TONOS", 
+                "title": "GREEK CAPITAL LETTER ALPHA WITH TONOS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x387", 
+                "description": "", 
+                "title": "GREEK ANO TELEIA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x388", 
+                "description": "GREEK CAPITAL LETTER EPSILON TONOS", 
+                "title": "GREEK CAPITAL LETTER EPSILON WITH TONOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x389", 
+                "description": "GREEK CAPITAL LETTER ETA TONOS", 
+                "title": "GREEK CAPITAL LETTER ETA WITH TONOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x38a", 
+                "description": "GREEK CAPITAL LETTER IOTA TONOS", 
+                "title": "GREEK CAPITAL LETTER IOTA WITH TONOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x38c", 
+                "description": "GREEK CAPITAL LETTER OMICRON TONOS", 
+                "title": "GREEK CAPITAL LETTER OMICRON WITH TONOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x38e", 
+                "description": "GREEK CAPITAL LETTER UPSILON TONOS", 
+                "title": "GREEK CAPITAL LETTER UPSILON WITH TONOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x38f", 
+                "description": "GREEK CAPITAL LETTER OMEGA TONOS", 
+                "title": "GREEK CAPITAL LETTER OMEGA WITH TONOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x390", 
+                "description": "GREEK SMALL LETTER IOTA DIAERESIS TONOS", 
+                "title": "GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x391", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER ALPHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x392", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER BETA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x393", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER GAMMA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x394", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER DELTA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x395", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER EPSILON"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x396", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER ZETA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x397", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER ETA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x398", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER THETA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x399", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER IOTA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x39a", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER KAPPA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x39b", 
+                "description": "GREEK CAPITAL LETTER LAMBDA", 
+                "title": "GREEK CAPITAL LETTER LAMDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x39c", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER MU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x39d", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER NU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x39e", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER XI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x39f", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER OMICRON"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3a0", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER PI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3a1", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER RHO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3a3", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER SIGMA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3a4", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER TAU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3a5", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER UPSILON"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3a6", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER PHI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3a7", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER CHI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3a8", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER PSI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3a9", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER OMEGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3aa", 
+                "description": "GREEK CAPITAL LETTER IOTA DIAERESIS", 
+                "title": "GREEK CAPITAL LETTER IOTA WITH DIALYTIKA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3ab", 
+                "description": "GREEK CAPITAL LETTER UPSILON DIAERESIS", 
+                "title": "GREEK CAPITAL LETTER UPSILON WITH DIALYTIKA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3ac", 
+                "description": "GREEK SMALL LETTER ALPHA TONOS", 
+                "title": "GREEK SMALL LETTER ALPHA WITH TONOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3ad", 
+                "description": "GREEK SMALL LETTER EPSILON TONOS", 
+                "title": "GREEK SMALL LETTER EPSILON WITH TONOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3ae", 
+                "description": "GREEK SMALL LETTER ETA TONOS", 
+                "title": "GREEK SMALL LETTER ETA WITH TONOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3af", 
+                "description": "GREEK SMALL LETTER IOTA TONOS", 
+                "title": "GREEK SMALL LETTER IOTA WITH TONOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3b0", 
+                "description": "GREEK SMALL LETTER UPSILON DIAERESIS TONOS", 
+                "title": "GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3b1", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER ALPHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3b2", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER BETA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3b3", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER GAMMA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3b4", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER DELTA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3b5", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER EPSILON"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3b6", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER ZETA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3b7", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER ETA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3b8", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER THETA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3b9", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER IOTA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3ba", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER KAPPA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3bb", 
+                "description": "GREEK SMALL LETTER LAMBDA", 
+                "title": "GREEK SMALL LETTER LAMDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3bc", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER MU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3bd", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER NU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3be", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER XI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3bf", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER OMICRON"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3c0", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER PI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3c1", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER RHO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3c2", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER FINAL SIGMA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3c3", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER SIGMA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3c4", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER TAU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3c5", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER UPSILON"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3c6", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER PHI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3c7", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER CHI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3c8", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER PSI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3c9", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER OMEGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3ca", 
+                "description": "GREEK SMALL LETTER IOTA DIAERESIS", 
+                "title": "GREEK SMALL LETTER IOTA WITH DIALYTIKA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3cb", 
+                "description": "GREEK SMALL LETTER UPSILON DIAERESIS", 
+                "title": "GREEK SMALL LETTER UPSILON WITH DIALYTIKA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3cc", 
+                "description": "GREEK SMALL LETTER OMICRON TONOS", 
+                "title": "GREEK SMALL LETTER OMICRON WITH TONOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3cd", 
+                "description": "GREEK SMALL LETTER UPSILON TONOS", 
+                "title": "GREEK SMALL LETTER UPSILON WITH TONOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3ce", 
+                "description": "GREEK SMALL LETTER OMEGA TONOS", 
+                "title": "GREEK SMALL LETTER OMEGA WITH TONOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Variant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3cf", 
+                "description": "", 
+                "title": "GREEK CAPITAL KAI SYMBOL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Variant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3d0", 
+                "description": "GREEK SMALL LETTER CURLED BETA", 
+                "title": "GREEK BETA SYMBOL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Variant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3d1", 
+                "description": "GREEK SMALL LETTER SCRIPT THETA", 
+                "title": "GREEK THETA SYMBOL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Variant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3d2", 
+                "description": "GREEK CAPITAL LETTER UPSILON HOOK", 
+                "title": "GREEK UPSILON WITH HOOK SYMBOL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Variant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3d3", 
+                "description": "GREEK CAPITAL LETTER UPSILON HOOK TONOS", 
+                "title": "GREEK UPSILON WITH ACUTE AND HOOK SYMBOL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Variant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3d4", 
+                "description": "GREEK CAPITAL LETTER UPSILON HOOK DIAERESIS", 
+                "title": "GREEK UPSILON WITH DIAERESIS AND HOOK SYMBOL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Variant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3d5", 
+                "description": "GREEK SMALL LETTER SCRIPT PHI", 
+                "title": "GREEK PHI SYMBOL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Variant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3d6", 
+                "description": "GREEK SMALL LETTER OMEGA PI", 
+                "title": "GREEK PI SYMBOL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Variant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3d7", 
+                "description": "", 
+                "title": "GREEK KAI SYMBOL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3d8", 
+                "description": "", 
+                "title": "GREEK LETTER ARCHAIC KOPPA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3d9", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER ARCHAIC KOPPA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3da", 
+                "description": "GREEK CAPITAL LETTER STIGMA", 
+                "title": "GREEK LETTER STIGMA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3db", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER STIGMA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3dc", 
+                "description": "GREEK CAPITAL LETTER DIGAMMA", 
+                "title": "GREEK LETTER DIGAMMA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3dd", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER DIGAMMA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3de", 
+                "description": "GREEK CAPITAL LETTER KOPPA", 
+                "title": "GREEK LETTER KOPPA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3df", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER KOPPA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3e0", 
+                "description": "GREEK CAPITAL LETTER SAMPI", 
+                "title": "GREEK LETTER SAMPI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3e1", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER SAMPI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3e2", 
+                "description": "GREEK CAPITAL LETTER SHEI", 
+                "title": "COPTIC CAPITAL LETTER SHEI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3e3", 
+                "description": "GREEK SMALL LETTER SHEI", 
+                "title": "COPTIC SMALL LETTER SHEI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3e4", 
+                "description": "GREEK CAPITAL LETTER FEI", 
+                "title": "COPTIC CAPITAL LETTER FEI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3e5", 
+                "description": "GREEK SMALL LETTER FEI", 
+                "title": "COPTIC SMALL LETTER FEI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3e6", 
+                "description": "GREEK CAPITAL LETTER KHEI", 
+                "title": "COPTIC CAPITAL LETTER KHEI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3e7", 
+                "description": "GREEK SMALL LETTER KHEI", 
+                "title": "COPTIC SMALL LETTER KHEI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3e8", 
+                "description": "GREEK CAPITAL LETTER HORI", 
+                "title": "COPTIC CAPITAL LETTER HORI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3e9", 
+                "description": "GREEK SMALL LETTER HORI", 
+                "title": "COPTIC SMALL LETTER HORI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3ea", 
+                "description": "GREEK CAPITAL LETTER GANGIA", 
+                "title": "COPTIC CAPITAL LETTER GANGIA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3eb", 
+                "description": "GREEK SMALL LETTER GANGIA", 
+                "title": "COPTIC SMALL LETTER GANGIA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3ec", 
+                "description": "GREEK CAPITAL LETTER SHIMA", 
+                "title": "COPTIC CAPITAL LETTER SHIMA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3ed", 
+                "description": "GREEK SMALL LETTER SHIMA", 
+                "title": "COPTIC SMALL LETTER SHIMA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3ee", 
+                "description": "GREEK CAPITAL LETTER DEI", 
+                "title": "COPTIC CAPITAL LETTER DEI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3ef", 
+                "description": "GREEK SMALL LETTER DEI", 
+                "title": "COPTIC SMALL LETTER DEI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Variant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3f0", 
+                "description": "GREEK SMALL LETTER SCRIPT KAPPA", 
+                "title": "GREEK KAPPA SYMBOL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Variant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3f1", 
+                "description": "GREEK SMALL LETTER TAILED RHO", 
+                "title": "GREEK RHO SYMBOL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Variant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3f2", 
+                "description": "GREEK SMALL LETTER LUNATE SIGMA", 
+                "title": "GREEK LUNATE SIGMA SYMBOL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3f3", 
+                "description": "", 
+                "title": "GREEK LETTER YOT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Variant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3f4", 
+                "description": "", 
+                "title": "GREEK CAPITAL THETA SYMBOL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Variant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3f5", 
+                "description": "", 
+                "title": "GREEK LUNATE EPSILON SYMBOL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Variant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3f6", 
+                "description": "", 
+                "title": "GREEK REVERSED LUNATE EPSILON SYMBOL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3f7", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER SHO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3f8", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER SHO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Variant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3f9", 
+                "description": "", 
+                "title": "GREEK CAPITAL LUNATE SIGMA SYMBOL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3fa", 
+                "description": "", 
+                "title": "GREEK CAPITAL LETTER SAN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3fb", 
+                "description": "", 
+                "title": "GREEK SMALL LETTER SAN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Variant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3fc", 
+                "description": "", 
+                "title": "GREEK RHO WITH STROKE SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Editorial", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3fd", 
+                "description": "", 
+                "title": "GREEK CAPITAL REVERSED LUNATE SIGMA SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Editorial", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3fe", 
+                "description": "", 
+                "title": "GREEK CAPITAL DOTTED LUNATE SIGMA SYMBOL"
+            }
+        ], 
+        "name": "Greek and Coptic"
+    }
+]

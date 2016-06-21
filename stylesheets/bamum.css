@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Bamum Sans";
+    src: url("../fonts/JGBamumAkaukuSansUnicode.ALL.ttf");
+}
+
+#buttons button, textarea#input {
+    font-family: "Bamum Sans";
+}

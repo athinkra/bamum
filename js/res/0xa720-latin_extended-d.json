@@ -1,0 +1,1329 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa720", 
+                "description": "", 
+                "title": "MODIFIER LETTER STRESS AND HIGH TONE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa721", 
+                "description": "", 
+                "title": "MODIFIER LETTER STRESS AND LOW TONE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa722", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER EGYPTOLOGICAL ALEF"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa723", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER EGYPTOLOGICAL ALEF"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa724", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER EGYPTOLOGICAL AIN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa725", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER EGYPTOLOGICAL AIN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa726", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER HENG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa727", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER HENG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa728", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER TZ"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa729", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TZ"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa72a", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER TRESILLO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa72b", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TRESILLO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa72c", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER CUATRILLO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa72d", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER CUATRILLO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa72e", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER CUATRILLO WITH COMMA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa72f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER CUATRILLO WITH COMMA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa730", 
+                "description": "", 
+                "title": "LATIN LETTER SMALL CAPITAL F"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa731", 
+                "description": "", 
+                "title": "LATIN LETTER SMALL CAPITAL S"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa732", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER AA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa733", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER AA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa734", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER AO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa735", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER AO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa736", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER AU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa737", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER AU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa738", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER AV"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa739", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER AV"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa73a", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER AV WITH HORIZONTAL BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa73b", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER AV WITH HORIZONTAL BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa73c", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER AY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa73d", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER AY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa73e", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER REVERSED C WITH DOT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa73f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER REVERSED C WITH DOT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa740", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER K WITH STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa741", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER K WITH STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa742", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER K WITH DIAGONAL STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa743", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER K WITH DIAGONAL STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa744", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER K WITH STROKE AND DIAGONAL STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa745", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER K WITH STROKE AND DIAGONAL STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa746", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER BROKEN L"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa747", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER BROKEN L"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa748", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER L WITH HIGH STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa749", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER L WITH HIGH STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa74a", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH LONG STROKE OVERLAY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa74b", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH LONG STROKE OVERLAY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa74c", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH LOOP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa74d", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH LOOP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa74e", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER OO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa74f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER OO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa750", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER P WITH STROKE THROUGH DESCENDER"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa751", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER P WITH STROKE THROUGH DESCENDER"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa752", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER P WITH FLOURISH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa753", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER P WITH FLOURISH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa754", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER P WITH SQUIRREL TAIL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa755", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER P WITH SQUIRREL TAIL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa756", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER Q WITH STROKE THROUGH DESCENDER"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa757", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER Q WITH STROKE THROUGH DESCENDER"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa758", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER Q WITH DIAGONAL STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa759", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER Q WITH DIAGONAL STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa75a", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER R ROTUNDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa75b", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER R ROTUNDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa75c", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER RUM ROTUNDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa75d", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER RUM ROTUNDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa75e", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER V WITH DIAGONAL STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa75f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER V WITH DIAGONAL STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa760", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER VY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa761", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER VY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa762", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER VISIGOTHIC Z"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa763", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER VISIGOTHIC Z"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa764", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER THORN WITH STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa765", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER THORN WITH STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa766", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER THORN WITH STROKE THROUGH DESCENDER"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa767", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER THORN WITH STROKE THROUGH DESCENDER"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa768", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER VEND"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa769", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER VEND"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa76a", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER ET"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa76b", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER ET"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa76c", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER IS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa76d", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER IS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa76e", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER CON"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa76f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER CON"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa770", 
+                "description": "", 
+                "title": "MODIFIER LETTER US"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa771", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER DUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa772", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER LUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa773", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER MUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa774", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER NUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa775", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER RUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa776", 
+                "description": "", 
+                "title": "LATIN LETTER SMALL CAPITAL RUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa777", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa778", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER UM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa779", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER INSULAR D"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa77a", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER INSULAR D"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa77b", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER INSULAR F"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa77c", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER INSULAR F"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa77d", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER INSULAR G"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa77e", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER TURNED INSULAR G"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa77f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TURNED INSULAR G"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa780", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER TURNED L"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa781", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TURNED L"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa782", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER INSULAR R"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa783", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER INSULAR R"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa784", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER INSULAR S"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa785", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER INSULAR S"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa786", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER INSULAR T"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa787", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER INSULAR T"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa788", 
+                "description": "", 
+                "title": "MODIFIER LETTER LOW CIRCUMFLEX ACCENT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa789", 
+                "description": "", 
+                "title": "MODIFIER LETTER COLON"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa78a", 
+                "description": "", 
+                "title": "MODIFIER LETTER SHORT EQUALS SIGN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa78b", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER SALTILLO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa78c", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER SALTILLO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa78d", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER TURNED H"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa78e", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER L WITH RETROFLEX HOOK AND BELT"
+            }, 
+            {
+                "charcode": "0xa78f", 
+                "description": "", 
+                "title": "LATIN LETTER SINOLOGICAL DOT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa790", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER N WITH DESCENDER"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa791", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER N WITH DESCENDER"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa792", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER C WITH BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa793", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER C WITH BAR"
+            }, 
+            {
+                "charcode": "0xa794", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER C WITH PALATAL HOOK"
+            }, 
+            {
+                "charcode": "0xa795", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER H WITH PALATAL HOOK"
+            }, 
+            {
+                "charcode": "0xa796", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER B WITH FLOURISH"
+            }, 
+            {
+                "charcode": "0xa797", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER B WITH FLOURISH"
+            }, 
+            {
+                "charcode": "0xa798", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER F WITH STROKE"
+            }, 
+            {
+                "charcode": "0xa799", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER F WITH STROKE"
+            }, 
+            {
+                "charcode": "0xa79a", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER VOLAPUK AE"
+            }, 
+            {
+                "charcode": "0xa79b", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER VOLAPUK AE"
+            }, 
+            {
+                "charcode": "0xa79c", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER VOLAPUK OE"
+            }, 
+            {
+                "charcode": "0xa79d", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER VOLAPUK OE"
+            }, 
+            {
+                "charcode": "0xa79e", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER VOLAPUK UE"
+            }, 
+            {
+                "charcode": "0xa79f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER VOLAPUK UE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7a0", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER G WITH OBLIQUE STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7a1", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER G WITH OBLIQUE STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7a2", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER K WITH OBLIQUE STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7a3", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER K WITH OBLIQUE STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7a4", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER N WITH OBLIQUE STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7a5", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER N WITH OBLIQUE STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7a6", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER R WITH OBLIQUE STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7a7", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER R WITH OBLIQUE STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7a8", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER S WITH OBLIQUE STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7a9", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER S WITH OBLIQUE STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7aa", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER H WITH HOOK"
+            }, 
+            {
+                "charcode": "0xa7ab", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER REVERSED OPEN E"
+            }, 
+            {
+                "charcode": "0xa7ac", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER SCRIPT G"
+            }, 
+            {
+                "charcode": "0xa7ad", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER L WITH BELT"
+            }, 
+            {
+                "charcode": "0xa7b0", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER TURNED K"
+            }, 
+            {
+                "charcode": "0xa7b1", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER TURNED T"
+            }, 
+            {
+                "charcode": "0xa7b2", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER J WITH CROSSED-TAIL"
+            }, 
+            {
+                "charcode": "0xa7b3", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER CHI"
+            }, 
+            {
+                "charcode": "0xa7b4", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER BETA"
+            }, 
+            {
+                "charcode": "0xa7b5", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER BETA"
+            }, 
+            {
+                "charcode": "0xa7b6", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER OMEGA"
+            }, 
+            {
+                "charcode": "0xa7b7", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER OMEGA"
+            }, 
+            {
+                "charcode": "0xa7f7", 
+                "description": "", 
+                "title": "LATIN EPIGRAPHIC LETTER SIDEWAYS I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7f8", 
+                "description": "", 
+                "title": "MODIFIER LETTER CAPITAL H WITH STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7f9", 
+                "description": "", 
+                "title": "MODIFIER LETTER SMALL LIGATURE OE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
+                "charcode": "0xa7fa", 
+                "description": "", 
+                "title": "LATIN LETTER SMALL CAPITAL TURNED M"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7fb", 
+                "description": "", 
+                "title": "LATIN EPIGRAPHIC LETTER REVERSED F"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7fc", 
+                "description": "", 
+                "title": "LATIN EPIGRAPHIC LETTER REVERSED P"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7fd", 
+                "description": "", 
+                "title": "LATIN EPIGRAPHIC LETTER INVERTED M"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7fe", 
+                "description": "", 
+                "title": "LATIN EPIGRAPHIC LETTER I LONGA"
+            }
+        ], 
+        "name": "Latin Extended-D"
+    }
+]

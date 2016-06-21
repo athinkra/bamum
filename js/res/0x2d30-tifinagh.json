@@ -1,0 +1,529 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d30", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d31", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAB"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d32", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YABH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d33", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d34", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAGHH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d35", 
+                "description": "", 
+                "title": "TIFINAGH LETTER BERBER ACADEMY YAJ"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d36", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAJ"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d37", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAD"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d38", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YADH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d39", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YADD"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d3a", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YADDH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d3b", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YEY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d3c", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAF"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d3d", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d3e", 
+                "description": "", 
+                "title": "TIFINAGH LETTER TUAREG YAK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d3f", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAKHH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d40", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d41", 
+                "description": "", 
+                "title": "TIFINAGH LETTER BERBER ACADEMY YAH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d42", 
+                "description": "", 
+                "title": "TIFINAGH LETTER TUAREG YAH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d43", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAHH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d44", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d45", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAKH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d46", 
+                "description": "", 
+                "title": "TIFINAGH LETTER TUAREG YAKH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d47", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAQ"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d48", 
+                "description": "", 
+                "title": "TIFINAGH LETTER TUAREG YAQ"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d49", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d4a", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAZH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d4b", 
+                "description": "", 
+                "title": "TIFINAGH LETTER AHAGGAR YAZH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d4c", 
+                "description": "", 
+                "title": "TIFINAGH LETTER TUAREG YAZH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d4d", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d4e", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d4f", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d50", 
+                "description": "", 
+                "title": "TIFINAGH LETTER TUAREG YAGN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d51", 
+                "description": "", 
+                "title": "TIFINAGH LETTER TUAREG YANG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d52", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d53", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d54", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d55", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YARR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d56", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAGH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d57", 
+                "description": "", 
+                "title": "TIFINAGH LETTER TUAREG YAGH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d58", 
+                "description": "", 
+                "title": "TIFINAGH LETTER AYER YAGH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d59", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d5a", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YASS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d5b", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YASH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d5c", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d5d", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YATH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d5e", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YACH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d5f", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YATT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d60", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAV"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d61", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d62", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d63", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAZ"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d64", 
+                "description": "", 
+                "title": "TIFINAGH LETTER TAWELLEMET YAZ"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d65", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YAZZ"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d66", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d67", 
+                "description": "", 
+                "title": "TIFINAGH LETTER YO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d6f", 
+                "description": "", 
+                "title": "TIFINAGH MODIFIER LETTER LABIALIZATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d70", 
+                "description": "", 
+                "title": "TIFINAGH SEPARATOR MARK"
+            }
+        ], 
+        "name": "Tifinagh"
+    }
+]

@@ -1,0 +1,241 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1380", 
+                "description": "", 
+                "title": "ETHIOPIC SYLLABLE SEBATBEIT MWA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1381", 
+                "description": "", 
+                "title": "ETHIOPIC SYLLABLE MWI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1382", 
+                "description": "", 
+                "title": "ETHIOPIC SYLLABLE MWEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1383", 
+                "description": "", 
+                "title": "ETHIOPIC SYLLABLE MWE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1384", 
+                "description": "", 
+                "title": "ETHIOPIC SYLLABLE SEBATBEIT BWA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1385", 
+                "description": "", 
+                "title": "ETHIOPIC SYLLABLE BWI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1386", 
+                "description": "", 
+                "title": "ETHIOPIC SYLLABLE BWEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1387", 
+                "description": "", 
+                "title": "ETHIOPIC SYLLABLE BWE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1388", 
+                "description": "", 
+                "title": "ETHIOPIC SYLLABLE SEBATBEIT FWA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1389", 
+                "description": "", 
+                "title": "ETHIOPIC SYLLABLE FWI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x138a", 
+                "description": "", 
+                "title": "ETHIOPIC SYLLABLE FWEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x138b", 
+                "description": "", 
+                "title": "ETHIOPIC SYLLABLE FWE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x138c", 
+                "description": "", 
+                "title": "ETHIOPIC SYLLABLE SEBATBEIT PWA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x138d", 
+                "description": "", 
+                "title": "ETHIOPIC SYLLABLE PWI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x138e", 
+                "description": "", 
+                "title": "ETHIOPIC SYLLABLE PWEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x138f", 
+                "description": "", 
+                "title": "ETHIOPIC SYLLABLE PWE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1390", 
+                "description": "", 
+                "title": "ETHIOPIC TONAL MARK YIZET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1391", 
+                "description": "", 
+                "title": "ETHIOPIC TONAL MARK DERET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1392", 
+                "description": "", 
+                "title": "ETHIOPIC TONAL MARK RIKRIK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1393", 
+                "description": "", 
+                "title": "ETHIOPIC TONAL MARK SHORT RIKRIK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1394", 
+                "description": "", 
+                "title": "ETHIOPIC TONAL MARK DIFAT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1395", 
+                "description": "", 
+                "title": "ETHIOPIC TONAL MARK KENAT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1396", 
+                "description": "", 
+                "title": "ETHIOPIC TONAL MARK CHIRET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1397", 
+                "description": "", 
+                "title": "ETHIOPIC TONAL MARK HIDET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1398", 
+                "description": "", 
+                "title": "ETHIOPIC TONAL MARK DERET-HIDET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1399", 
+                "description": "", 
+                "title": "ETHIOPIC TONAL MARK KURT"
+            }
+        ], 
+        "name": "Ethiopic Supplement"
+    }
+]

@@ -1,0 +1,582 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Editorial", 
+                "cat3": "Biblical", 
+                "cat4": "", 
+                "charcode": "0x2e00", 
+                "description": "", 
+                "title": "RIGHT ANGLE SUBSTITUTION MARKER"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Editorial", 
+                "cat3": "Biblical", 
+                "cat4": "", 
+                "charcode": "0x2e01", 
+                "description": "", 
+                "title": "RIGHT ANGLE DOTTED SUBSTITUTION MARKER"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Editorial", 
+                "cat3": "Biblical", 
+                "cat4": "", 
+                "charcode": "0x2e02", 
+                "description": "", 
+                "title": "LEFT SUBSTITUTION BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Editorial", 
+                "cat3": "Biblical", 
+                "cat4": "", 
+                "charcode": "0x2e03", 
+                "description": "", 
+                "title": "RIGHT SUBSTITUTION BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Editorial", 
+                "cat3": "Biblical", 
+                "cat4": "", 
+                "charcode": "0x2e04", 
+                "description": "", 
+                "title": "LEFT DOTTED SUBSTITUTION BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Editorial", 
+                "cat3": "Biblical", 
+                "cat4": "", 
+                "charcode": "0x2e05", 
+                "description": "", 
+                "title": "RIGHT DOTTED SUBSTITUTION BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Editorial", 
+                "cat3": "Biblical", 
+                "cat4": "", 
+                "charcode": "0x2e06", 
+                "description": "", 
+                "title": "RAISED INTERPOLATION MARKER"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Editorial", 
+                "cat3": "Biblical", 
+                "cat4": "", 
+                "charcode": "0x2e07", 
+                "description": "", 
+                "title": "RAISED DOTTED INTERPOLATION MARKER"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Editorial", 
+                "cat3": "Biblical", 
+                "cat4": "", 
+                "charcode": "0x2e08", 
+                "description": "", 
+                "title": "DOTTED TRANSPOSITION MARKER"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Editorial", 
+                "cat3": "Biblical", 
+                "cat4": "", 
+                "charcode": "0x2e09", 
+                "description": "", 
+                "title": "LEFT TRANSPOSITION BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Editorial", 
+                "cat3": "Biblical", 
+                "cat4": "", 
+                "charcode": "0x2e0a", 
+                "description": "", 
+                "title": "RIGHT TRANSPOSITION BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Editorial", 
+                "cat3": "Biblical", 
+                "cat4": "", 
+                "charcode": "0x2e0b", 
+                "description": "", 
+                "title": "RAISED SQUARE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Editorial", 
+                "cat3": "Biblical", 
+                "cat4": "", 
+                "charcode": "0x2e0c", 
+                "description": "", 
+                "title": "LEFT RAISED OMISSION BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Editorial", 
+                "cat3": "Biblical", 
+                "cat4": "", 
+                "charcode": "0x2e0d", 
+                "description": "", 
+                "title": "RIGHT RAISED OMISSION BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e0e", 
+                "description": "", 
+                "title": "EDITORIAL CORONIS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e0f", 
+                "description": "", 
+                "title": "PARAGRAPHOS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e10", 
+                "description": "", 
+                "title": "FORKED PARAGRAPHOS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e11", 
+                "description": "", 
+                "title": "REVERSED FORKED PARAGRAPHOS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e12", 
+                "description": "", 
+                "title": "HYPODIASTOLE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e13", 
+                "description": "", 
+                "title": "DOTTED OBELOS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e14", 
+                "description": "", 
+                "title": "DOWNWARDS ANCORA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e15", 
+                "description": "", 
+                "title": "UPWARDS ANCORA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e16", 
+                "description": "", 
+                "title": "DOTTED RIGHT-POINTING ANGLE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Dash", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e17", 
+                "description": "", 
+                "title": "DOUBLE OBLIQUE HYPHEN"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e18", 
+                "description": "", 
+                "title": "INVERTED INTERROBANG"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e19", 
+                "description": "", 
+                "title": "PALM BRANCH"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Dictionary", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e1a", 
+                "description": "", 
+                "title": "HYPHEN WITH DIAERESIS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Dictionary", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e1b", 
+                "description": "", 
+                "title": "TILDE WITH RING ABOVE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e1c", 
+                "description": "", 
+                "title": "LEFT LOW PARAPHRASE BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e1d", 
+                "description": "", 
+                "title": "RIGHT LOW PARAPHRASE BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Dictionary", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e1e", 
+                "description": "", 
+                "title": "TILDE WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Dictionary", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e1f", 
+                "description": "", 
+                "title": "TILDE WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e20", 
+                "description": "", 
+                "title": "LEFT VERTICAL BAR WITH QUILL"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e21", 
+                "description": "", 
+                "title": "RIGHT VERTICAL BAR WITH QUILL"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e22", 
+                "description": "", 
+                "title": "TOP LEFT HALF BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e23", 
+                "description": "", 
+                "title": "TOP RIGHT HALF BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e24", 
+                "description": "", 
+                "title": "BOTTOM LEFT HALF BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e25", 
+                "description": "", 
+                "title": "BOTTOM RIGHT HALF BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e26", 
+                "description": "", 
+                "title": "LEFT SIDEWAYS U BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e27", 
+                "description": "", 
+                "title": "RIGHT SIDEWAYS U BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e28", 
+                "description": "", 
+                "title": "LEFT DOUBLE PARENTHESIS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e29", 
+                "description": "", 
+                "title": "RIGHT DOUBLE PARENTHESIS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e2a", 
+                "description": "", 
+                "title": "TWO DOTS OVER ONE DOT PUNCTUATION"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e2b", 
+                "description": "", 
+                "title": "ONE DOT OVER TWO DOTS PUNCTUATION"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e2c", 
+                "description": "", 
+                "title": "SQUARED FOUR DOT PUNCTUATION"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e2d", 
+                "description": "", 
+                "title": "FIVE DOT MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e2e", 
+                "description": "", 
+                "title": "REVERSED QUESTION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e2f", 
+                "description": "", 
+                "title": "VERTICAL TILDE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e30", 
+                "description": "", 
+                "title": "RING POINT"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e31", 
+                "description": "", 
+                "title": "WORD SEPARATOR MIDDLE DOT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Transliteration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e32", 
+                "description": "", 
+                "title": "TURNED COMMA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e33", 
+                "description": "", 
+                "title": "RAISED DOT"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e34", 
+                "description": "", 
+                "title": "RAISED COMMA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Transliteration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e35", 
+                "description": "", 
+                "title": "TURNED SEMICOLON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Transliteration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e36", 
+                "description": "", 
+                "title": "DAGGER WITH LEFT GUARD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Transliteration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e37", 
+                "description": "", 
+                "title": "DAGGER WITH RIGHT GUARD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Transliteration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e38", 
+                "description": "", 
+                "title": "TURNED DAGGER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Transliteration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e39", 
+                "description": "", 
+                "title": "TOP HALF SECTION SIGN"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Dash", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e3a", 
+                "description": "", 
+                "title": "TWO-EM DASH"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Dash", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2e3b", 
+                "description": "", 
+                "title": "THREE-EM DASH"
+            }, 
+            {
+                "charcode": "0x2e3c", 
+                "description": "", 
+                "title": "STENOGRAPHIC FULL STOP"
+            }, 
+            {
+                "charcode": "0x2e3d", 
+                "description": "", 
+                "title": "VERTICAL SIX DOTS"
+            }, 
+            {
+                "charcode": "0x2e3e", 
+                "description": "", 
+                "title": "WIGGLY VERTICAL LINE"
+            }, 
+            {
+                "charcode": "0x2e3f", 
+                "description": "", 
+                "title": "CAPITULUM"
+            }, 
+            {
+                "charcode": "0x2e40", 
+                "description": "", 
+                "title": "DOUBLE HYPHEN"
+            }, 
+            {
+                "charcode": "0x2e41", 
+                "description": "", 
+                "title": "REVERSED COMMA"
+            }, 
+            {
+                "charcode": "0x2e42", 
+                "description": "", 
+                "title": "DOUBLE LOW-REVERSED-9 QUOTATION MARK"
+            }
+        ], 
+        "name": "Supplemental Punctuation"
+    }
+]

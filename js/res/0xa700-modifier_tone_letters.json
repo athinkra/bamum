@@ -1,0 +1,286 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa700", 
+                "description": "", 
+                "title": "MODIFIER LETTER CHINESE TONE YIN PING"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa701", 
+                "description": "", 
+                "title": "MODIFIER LETTER CHINESE TONE YANG PING"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa702", 
+                "description": "", 
+                "title": "MODIFIER LETTER CHINESE TONE YIN SHANG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa703", 
+                "description": "", 
+                "title": "MODIFIER LETTER CHINESE TONE YANG SHANG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa704", 
+                "description": "", 
+                "title": "MODIFIER LETTER CHINESE TONE YIN QU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa705", 
+                "description": "", 
+                "title": "MODIFIER LETTER CHINESE TONE YANG QU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa706", 
+                "description": "", 
+                "title": "MODIFIER LETTER CHINESE TONE YIN RU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa707", 
+                "description": "", 
+                "title": "MODIFIER LETTER CHINESE TONE YANG RU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa708", 
+                "description": "", 
+                "title": "MODIFIER LETTER EXTRA-HIGH DOTTED TONE BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa709", 
+                "description": "", 
+                "title": "MODIFIER LETTER HIGH DOTTED TONE BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa70a", 
+                "description": "", 
+                "title": "MODIFIER LETTER MID DOTTED TONE BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa70b", 
+                "description": "", 
+                "title": "MODIFIER LETTER LOW DOTTED TONE BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa70c", 
+                "description": "", 
+                "title": "MODIFIER LETTER EXTRA-LOW DOTTED TONE BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa70d", 
+                "description": "", 
+                "title": "MODIFIER LETTER EXTRA-HIGH DOTTED LEFT-STEM TONE BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa70e", 
+                "description": "", 
+                "title": "MODIFIER LETTER HIGH DOTTED LEFT-STEM TONE BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa70f", 
+                "description": "", 
+                "title": "MODIFIER LETTER MID DOTTED LEFT-STEM TONE BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa710", 
+                "description": "", 
+                "title": "MODIFIER LETTER LOW DOTTED LEFT-STEM TONE BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa711", 
+                "description": "", 
+                "title": "MODIFIER LETTER EXTRA-LOW DOTTED LEFT-STEM TONE BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa712", 
+                "description": "", 
+                "title": "MODIFIER LETTER EXTRA-HIGH LEFT-STEM TONE BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa713", 
+                "description": "", 
+                "title": "MODIFIER LETTER HIGH LEFT-STEM TONE BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa714", 
+                "description": "", 
+                "title": "MODIFIER LETTER MID LEFT-STEM TONE BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa715", 
+                "description": "", 
+                "title": "MODIFIER LETTER LOW LEFT-STEM TONE BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa716", 
+                "description": "", 
+                "title": "MODIFIER LETTER EXTRA-LOW LEFT-STEM TONE BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa717", 
+                "description": "", 
+                "title": "MODIFIER LETTER DOT VERTICAL BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa718", 
+                "description": "", 
+                "title": "MODIFIER LETTER DOT SLASH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa719", 
+                "description": "", 
+                "title": "MODIFIER LETTER DOT HORIZONTAL BAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa71a", 
+                "description": "", 
+                "title": "MODIFIER LETTER LOWER RIGHT CORNER ANGLE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa71b", 
+                "description": "", 
+                "title": "MODIFIER LETTER RAISED UP ARROW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa71c", 
+                "description": "", 
+                "title": "MODIFIER LETTER RAISED DOWN ARROW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa71d", 
+                "description": "", 
+                "title": "MODIFIER LETTER RAISED EXCLAMATION MARK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa71e", 
+                "description": "", 
+                "title": "MODIFIER LETTER RAISED INVERTED EXCLAMATION MARK"
+            }
+        ], 
+        "name": "Modifier Tone Letters"
+    }
+]

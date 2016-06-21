@@ -1,0 +1,2302 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e00", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER A WITH RING BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e01", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER A WITH RING BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e02", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER B WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e03", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER B WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e04", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER B WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e05", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER B WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e06", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER B WITH LINE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e07", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER B WITH LINE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e08", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER C WITH CEDILLA AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e09", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER C WITH CEDILLA AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e0a", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER D WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e0b", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER D WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e0c", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER D WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e0d", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER D WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e0e", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER D WITH LINE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e0f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER D WITH LINE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e10", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER D WITH CEDILLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e11", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER D WITH CEDILLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e12", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER D WITH CIRCUMFLEX BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e13", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER D WITH CIRCUMFLEX BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e14", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER E WITH MACRON AND GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e15", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER E WITH MACRON AND GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e16", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER E WITH MACRON AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e17", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER E WITH MACRON AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e18", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e19", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER E WITH CIRCUMFLEX BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e1a", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER E WITH TILDE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e1b", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER E WITH TILDE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e1c", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e1d", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER E WITH CEDILLA AND BREVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e1e", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER F WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e1f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER F WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e20", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER G WITH MACRON"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e21", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER G WITH MACRON"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e22", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER H WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e23", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER H WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e24", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER H WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e25", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER H WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e26", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER H WITH DIAERESIS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e27", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER H WITH DIAERESIS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e28", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER H WITH CEDILLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e29", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER H WITH CEDILLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e2a", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER H WITH BREVE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e2b", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER H WITH BREVE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e2c", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER I WITH TILDE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e2d", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER I WITH TILDE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e2e", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER I WITH DIAERESIS AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e2f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER I WITH DIAERESIS AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e30", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER K WITH ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e31", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER K WITH ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e32", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER K WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e33", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER K WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e34", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER K WITH LINE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e35", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER K WITH LINE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e36", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER L WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e37", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER L WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e38", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER L WITH DOT BELOW AND MACRON"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e39", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER L WITH DOT BELOW AND MACRON"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e3a", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER L WITH LINE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e3b", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER L WITH LINE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e3c", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER L WITH CIRCUMFLEX BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e3d", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER L WITH CIRCUMFLEX BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e3e", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER M WITH ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e3f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER M WITH ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e40", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER M WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e41", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER M WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e42", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER M WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e43", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER M WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e44", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER N WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e45", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER N WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e46", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER N WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e47", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER N WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e48", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER N WITH LINE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e49", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER N WITH LINE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e4a", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER N WITH CIRCUMFLEX BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e4b", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER N WITH CIRCUMFLEX BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e4c", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH TILDE AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e4d", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH TILDE AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e4e", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH TILDE AND DIAERESIS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e4f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH TILDE AND DIAERESIS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e50", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH MACRON AND GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e51", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH MACRON AND GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e52", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH MACRON AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e53", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH MACRON AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e54", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER P WITH ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e55", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER P WITH ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e56", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER P WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e57", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER P WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e58", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER R WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e59", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER R WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e5a", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER R WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e5b", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER R WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e5c", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER R WITH DOT BELOW AND MACRON"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e5d", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER R WITH DOT BELOW AND MACRON"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e5e", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER R WITH LINE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e5f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER R WITH LINE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e60", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER S WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e61", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER S WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e62", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER S WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e63", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER S WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e64", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER S WITH ACUTE AND DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e65", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER S WITH ACUTE AND DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e66", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER S WITH CARON AND DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e67", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER S WITH CARON AND DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e68", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER S WITH DOT BELOW AND DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e69", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER S WITH DOT BELOW AND DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e6a", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER T WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e6b", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER T WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e6c", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER T WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e6d", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER T WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e6e", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER T WITH LINE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e6f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER T WITH LINE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e70", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER T WITH CIRCUMFLEX BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e71", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER T WITH CIRCUMFLEX BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e72", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER U WITH DIAERESIS BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e73", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER U WITH DIAERESIS BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e74", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER U WITH TILDE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e75", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER U WITH TILDE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e76", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER U WITH CIRCUMFLEX BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e77", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER U WITH CIRCUMFLEX BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e78", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER U WITH TILDE AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e79", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER U WITH TILDE AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e7a", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER U WITH MACRON AND DIAERESIS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e7b", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER U WITH MACRON AND DIAERESIS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e7c", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER V WITH TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e7d", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER V WITH TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e7e", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER V WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e7f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER V WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e80", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER W WITH GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e81", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER W WITH GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e82", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER W WITH ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e83", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER W WITH ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e84", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER W WITH DIAERESIS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e85", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER W WITH DIAERESIS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e86", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER W WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e87", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER W WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e88", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER W WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e89", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER W WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e8a", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER X WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e8b", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER X WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e8c", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER X WITH DIAERESIS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e8d", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER X WITH DIAERESIS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e8e", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER Y WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e8f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER Y WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e90", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER Z WITH CIRCUMFLEX"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e91", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER Z WITH CIRCUMFLEX"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e92", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER Z WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e93", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER Z WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e94", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER Z WITH LINE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e95", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER Z WITH LINE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e96", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER H WITH LINE BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e97", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER T WITH DIAERESIS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e98", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER W WITH RING ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e99", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER Y WITH RING ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e9a", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER A WITH RIGHT HALF RING"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e9b", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER LONG S WITH DOT ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e9c", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER LONG S WITH DIAGONAL STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e9d", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER LONG S WITH HIGH STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e9e", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER SHARP S"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1e9f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER DELTA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ea0", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER A WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ea1", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER A WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ea2", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER A WITH HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ea3", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER A WITH HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ea4", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ea5", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ea6", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ea7", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ea8", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ea9", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eaa", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eab", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eac", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ead", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eae", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER A WITH BREVE AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eaf", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER A WITH BREVE AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eb0", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER A WITH BREVE AND GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eb1", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER A WITH BREVE AND GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eb2", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER A WITH BREVE AND HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eb3", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER A WITH BREVE AND HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eb4", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER A WITH BREVE AND TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eb5", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER A WITH BREVE AND TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eb6", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER A WITH BREVE AND DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eb7", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER A WITH BREVE AND DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eb8", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER E WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eb9", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER E WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eba", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER E WITH HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ebb", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER E WITH HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ebc", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER E WITH TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ebd", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER E WITH TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ebe", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ebf", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ec0", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ec1", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ec2", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ec3", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ec4", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ec5", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ec6", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ec7", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ec8", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER I WITH HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ec9", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER I WITH HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eca", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER I WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ecb", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER I WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ecc", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ecd", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ece", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ecf", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ed0", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ed1", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ed2", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ed3", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ed4", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ed5", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ed6", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ed7", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ed8", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ed9", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eda", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH HORN AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1edb", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH HORN AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1edc", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH HORN AND GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1edd", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH HORN AND GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ede", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH HORN AND HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1edf", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH HORN AND HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ee0", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH HORN AND TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ee1", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH HORN AND TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ee2", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER O WITH HORN AND DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ee3", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER O WITH HORN AND DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ee4", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER U WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ee5", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER U WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ee6", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER U WITH HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ee7", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER U WITH HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ee8", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER U WITH HORN AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ee9", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER U WITH HORN AND ACUTE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eea", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER U WITH HORN AND GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eeb", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER U WITH HORN AND GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eec", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER U WITH HORN AND HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eed", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER U WITH HORN AND HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eee", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER U WITH HORN AND TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eef", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER U WITH HORN AND TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ef0", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER U WITH HORN AND DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ef1", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER U WITH HORN AND DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ef2", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER Y WITH GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ef3", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER Y WITH GRAVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ef4", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER Y WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ef5", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER Y WITH DOT BELOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ef6", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER Y WITH HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ef7", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER Y WITH HOOK ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ef8", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER Y WITH TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ef9", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER Y WITH TILDE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1efa", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER MIDDLE-WELSH LL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1efb", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER MIDDLE-WELSH LL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1efc", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER MIDDLE-WELSH V"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1efd", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER MIDDLE-WELSH V"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1efe", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER Y WITH LOOP"
+            }
+        ], 
+        "name": "Latin Extended Additional"
+    }
+]

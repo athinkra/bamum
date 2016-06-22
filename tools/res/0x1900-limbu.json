@@ -1,0 +1,602 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1900", 
+                "description": "", 
+                "title": "LIMBU VOWEL-CARRIER LETTER"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1901", 
+                "description": "", 
+                "title": "LIMBU LETTER KA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1902", 
+                "description": "", 
+                "title": "LIMBU LETTER KHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1903", 
+                "description": "", 
+                "title": "LIMBU LETTER GA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1904", 
+                "description": "", 
+                "title": "LIMBU LETTER GHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1905", 
+                "description": "", 
+                "title": "LIMBU LETTER NGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1906", 
+                "description": "", 
+                "title": "LIMBU LETTER CA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1907", 
+                "description": "", 
+                "title": "LIMBU LETTER CHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1908", 
+                "description": "", 
+                "title": "LIMBU LETTER JA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1909", 
+                "description": "", 
+                "title": "LIMBU LETTER JHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x190a", 
+                "description": "", 
+                "title": "LIMBU LETTER YAN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x190b", 
+                "description": "", 
+                "title": "LIMBU LETTER TA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x190c", 
+                "description": "", 
+                "title": "LIMBU LETTER THA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x190d", 
+                "description": "", 
+                "title": "LIMBU LETTER DA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x190e", 
+                "description": "", 
+                "title": "LIMBU LETTER DHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x190f", 
+                "description": "", 
+                "title": "LIMBU LETTER NA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1910", 
+                "description": "", 
+                "title": "LIMBU LETTER PA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1911", 
+                "description": "", 
+                "title": "LIMBU LETTER PHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1912", 
+                "description": "", 
+                "title": "LIMBU LETTER BA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1913", 
+                "description": "", 
+                "title": "LIMBU LETTER BHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1914", 
+                "description": "", 
+                "title": "LIMBU LETTER MA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1915", 
+                "description": "", 
+                "title": "LIMBU LETTER YA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1916", 
+                "description": "", 
+                "title": "LIMBU LETTER RA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1917", 
+                "description": "", 
+                "title": "LIMBU LETTER LA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1918", 
+                "description": "", 
+                "title": "LIMBU LETTER WA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1919", 
+                "description": "", 
+                "title": "LIMBU LETTER SHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x191a", 
+                "description": "", 
+                "title": "LIMBU LETTER SSA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x191b", 
+                "description": "", 
+                "title": "LIMBU LETTER SA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x191c", 
+                "description": "", 
+                "title": "LIMBU LETTER HA"
+            }, 
+            {
+                "charcode": "0x191d", 
+                "description": "", 
+                "title": "LIMBU LETTER GYAN"
+            }, 
+            {
+                "charcode": "0x191e", 
+                "description": "", 
+                "title": "LIMBU LETTER TRA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1920", 
+                "description": "", 
+                "title": "LIMBU VOWEL SIGN A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1921", 
+                "description": "", 
+                "title": "LIMBU VOWEL SIGN I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1922", 
+                "description": "", 
+                "title": "LIMBU VOWEL SIGN U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1923", 
+                "description": "", 
+                "title": "LIMBU VOWEL SIGN EE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1924", 
+                "description": "", 
+                "title": "LIMBU VOWEL SIGN AI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1925", 
+                "description": "", 
+                "title": "LIMBU VOWEL SIGN OO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1926", 
+                "description": "", 
+                "title": "LIMBU VOWEL SIGN AU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1927", 
+                "description": "", 
+                "title": "LIMBU VOWEL SIGN E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1928", 
+                "description": "", 
+                "title": "LIMBU VOWEL SIGN O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Dependent", 
+                "cat4": "Subjoined", 
+                "charcode": "0x1929", 
+                "description": "", 
+                "title": "LIMBU SUBJOINED LETTER YA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Dependent", 
+                "cat4": "Subjoined", 
+                "charcode": "0x192a", 
+                "description": "", 
+                "title": "LIMBU SUBJOINED LETTER RA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Dependent", 
+                "cat4": "Subjoined", 
+                "charcode": "0x192b", 
+                "description": "", 
+                "title": "LIMBU SUBJOINED LETTER WA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0x1930", 
+                "description": "", 
+                "title": "LIMBU SMALL LETTER KA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0x1931", 
+                "description": "", 
+                "title": "LIMBU SMALL LETTER NGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0x1932", 
+                "description": "", 
+                "title": "LIMBU SMALL LETTER ANUSVARA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0x1933", 
+                "description": "", 
+                "title": "LIMBU SMALL LETTER TA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0x1934", 
+                "description": "", 
+                "title": "LIMBU SMALL LETTER NA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0x1935", 
+                "description": "", 
+                "title": "LIMBU SMALL LETTER PA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0x1936", 
+                "description": "", 
+                "title": "LIMBU SMALL LETTER MA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0x1937", 
+                "description": "", 
+                "title": "LIMBU SMALL LETTER RA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0x1938", 
+                "description": "", 
+                "title": "LIMBU SMALL LETTER LA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1939", 
+                "description": "", 
+                "title": "LIMBU SIGN MUKPHRENG"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x193a", 
+                "description": "", 
+                "title": "LIMBU SIGN KEMPHRENG"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x193b", 
+                "description": "", 
+                "title": "LIMBU SIGN SA-I"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1940", 
+                "description": "", 
+                "title": "LIMBU SIGN LOO"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1944", 
+                "description": "", 
+                "title": "LIMBU EXCLAMATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1945", 
+                "description": "", 
+                "title": "LIMBU QUESTION MARK"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1946", 
+                "description": "", 
+                "title": "LIMBU DIGIT ZERO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1947", 
+                "description": "", 
+                "title": "LIMBU DIGIT ONE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1948", 
+                "description": "", 
+                "title": "LIMBU DIGIT TWO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1949", 
+                "description": "", 
+                "title": "LIMBU DIGIT THREE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x194a", 
+                "description": "", 
+                "title": "LIMBU DIGIT FOUR"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x194b", 
+                "description": "", 
+                "title": "LIMBU DIGIT FIVE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x194c", 
+                "description": "", 
+                "title": "LIMBU DIGIT SIX"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x194d", 
+                "description": "", 
+                "title": "LIMBU DIGIT SEVEN"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x194e", 
+                "description": "", 
+                "title": "LIMBU DIGIT EIGHT"
+            }
+        ], 
+        "name": "Limbu"
+    }
+]

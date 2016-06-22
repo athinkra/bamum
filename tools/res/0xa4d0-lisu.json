@@ -1,0 +1,430 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4d0", 
+                "description": "", 
+                "title": "LISU LETTER BA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4d1", 
+                "description": "", 
+                "title": "LISU LETTER PA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4d2", 
+                "description": "", 
+                "title": "LISU LETTER PHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4d3", 
+                "description": "", 
+                "title": "LISU LETTER DA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4d4", 
+                "description": "", 
+                "title": "LISU LETTER TA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4d5", 
+                "description": "", 
+                "title": "LISU LETTER THA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4d6", 
+                "description": "", 
+                "title": "LISU LETTER GA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4d7", 
+                "description": "", 
+                "title": "LISU LETTER KA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4d8", 
+                "description": "", 
+                "title": "LISU LETTER KHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4d9", 
+                "description": "", 
+                "title": "LISU LETTER JA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4da", 
+                "description": "", 
+                "title": "LISU LETTER CA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4db", 
+                "description": "", 
+                "title": "LISU LETTER CHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4dc", 
+                "description": "", 
+                "title": "LISU LETTER DZA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4dd", 
+                "description": "", 
+                "title": "LISU LETTER TSA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4de", 
+                "description": "", 
+                "title": "LISU LETTER TSHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4df", 
+                "description": "", 
+                "title": "LISU LETTER MA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4e0", 
+                "description": "", 
+                "title": "LISU LETTER NA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4e1", 
+                "description": "", 
+                "title": "LISU LETTER LA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4e2", 
+                "description": "", 
+                "title": "LISU LETTER SA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4e3", 
+                "description": "", 
+                "title": "LISU LETTER ZHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4e4", 
+                "description": "", 
+                "title": "LISU LETTER ZA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4e5", 
+                "description": "", 
+                "title": "LISU LETTER NGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4e6", 
+                "description": "", 
+                "title": "LISU LETTER HA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4e7", 
+                "description": "", 
+                "title": "LISU LETTER XA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4e8", 
+                "description": "", 
+                "title": "LISU LETTER HHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4e9", 
+                "description": "", 
+                "title": "LISU LETTER FA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4ea", 
+                "description": "", 
+                "title": "LISU LETTER WA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4eb", 
+                "description": "", 
+                "title": "LISU LETTER SHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4ec", 
+                "description": "", 
+                "title": "LISU LETTER YA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4ed", 
+                "description": "", 
+                "title": "LISU LETTER GHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4ee", 
+                "description": "", 
+                "title": "LISU LETTER A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4ef", 
+                "description": "", 
+                "title": "LISU LETTER AE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4f0", 
+                "description": "", 
+                "title": "LISU LETTER E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4f1", 
+                "description": "", 
+                "title": "LISU LETTER EU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4f2", 
+                "description": "", 
+                "title": "LISU LETTER I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4f3", 
+                "description": "", 
+                "title": "LISU LETTER O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4f4", 
+                "description": "", 
+                "title": "LISU LETTER U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4f5", 
+                "description": "", 
+                "title": "LISU LETTER UE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4f6", 
+                "description": "", 
+                "title": "LISU LETTER UH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4f7", 
+                "description": "", 
+                "title": "LISU LETTER OE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4f8", 
+                "description": "", 
+                "title": "LISU LETTER TONE MYA TI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4f9", 
+                "description": "", 
+                "title": "LISU LETTER TONE NA PO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4fa", 
+                "description": "", 
+                "title": "LISU LETTER TONE MYA CYA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4fb", 
+                "description": "", 
+                "title": "LISU LETTER TONE MYA BO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4fc", 
+                "description": "", 
+                "title": "LISU LETTER TONE MYA NA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4fd", 
+                "description": "", 
+                "title": "LISU LETTER TONE MYA JEU"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4fe", 
+                "description": "", 
+                "title": "LISU PUNCTUATION COMMA"
+            }
+        ], 
+        "name": "Lisu"
+    }
+]

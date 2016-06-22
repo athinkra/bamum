@@ -1,0 +1,1096 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b00", 
+                "description": "", 
+                "title": "BALINESE SIGN ULU RICEM"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b01", 
+                "description": "", 
+                "title": "BALINESE SIGN ULU CANDRA"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b02", 
+                "description": "", 
+                "title": "BALINESE SIGN CECEK"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b03", 
+                "description": "", 
+                "title": "BALINESE SIGN SURANG"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b04", 
+                "description": "", 
+                "title": "BALINESE SIGN BISAH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1b05", 
+                "description": "", 
+                "title": "BALINESE LETTER AKARA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1b06", 
+                "description": "", 
+                "title": "BALINESE LETTER AKARA TEDUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1b07", 
+                "description": "", 
+                "title": "BALINESE LETTER IKARA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1b08", 
+                "description": "", 
+                "title": "BALINESE LETTER IKARA TEDUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1b09", 
+                "description": "", 
+                "title": "BALINESE LETTER UKARA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1b0a", 
+                "description": "", 
+                "title": "BALINESE LETTER UKARA TEDUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1b0b", 
+                "description": "", 
+                "title": "BALINESE LETTER RA REPA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1b0c", 
+                "description": "", 
+                "title": "BALINESE LETTER RA REPA TEDUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1b0d", 
+                "description": "", 
+                "title": "BALINESE LETTER LA LENGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1b0e", 
+                "description": "", 
+                "title": "BALINESE LETTER LA LENGA TEDUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1b0f", 
+                "description": "", 
+                "title": "BALINESE LETTER EKARA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1b10", 
+                "description": "", 
+                "title": "BALINESE LETTER AIKARA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1b11", 
+                "description": "", 
+                "title": "BALINESE LETTER OKARA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1b12", 
+                "description": "", 
+                "title": "BALINESE LETTER OKARA TEDUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b13", 
+                "description": "", 
+                "title": "BALINESE LETTER KA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b14", 
+                "description": "", 
+                "title": "BALINESE LETTER KA MAHAPRANA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b15", 
+                "description": "", 
+                "title": "BALINESE LETTER GA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b16", 
+                "description": "", 
+                "title": "BALINESE LETTER GA GORA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b17", 
+                "description": "", 
+                "title": "BALINESE LETTER NGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b18", 
+                "description": "", 
+                "title": "BALINESE LETTER CA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b19", 
+                "description": "", 
+                "title": "BALINESE LETTER CA LACA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b1a", 
+                "description": "", 
+                "title": "BALINESE LETTER JA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b1b", 
+                "description": "", 
+                "title": "BALINESE LETTER JA JERA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b1c", 
+                "description": "", 
+                "title": "BALINESE LETTER NYA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b1d", 
+                "description": "", 
+                "title": "BALINESE LETTER TA LATIK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b1e", 
+                "description": "", 
+                "title": "BALINESE LETTER TA MURDA MAHAPRANA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b1f", 
+                "description": "", 
+                "title": "BALINESE LETTER DA MURDA ALPAPRANA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b20", 
+                "description": "", 
+                "title": "BALINESE LETTER DA MURDA MAHAPRANA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b21", 
+                "description": "", 
+                "title": "BALINESE LETTER NA RAMBAT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b22", 
+                "description": "", 
+                "title": "BALINESE LETTER TA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b23", 
+                "description": "", 
+                "title": "BALINESE LETTER TA TAWA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b24", 
+                "description": "", 
+                "title": "BALINESE LETTER DA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b25", 
+                "description": "", 
+                "title": "BALINESE LETTER DA MADU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b26", 
+                "description": "", 
+                "title": "BALINESE LETTER NA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b27", 
+                "description": "", 
+                "title": "BALINESE LETTER PA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b28", 
+                "description": "", 
+                "title": "BALINESE LETTER PA KAPAL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b29", 
+                "description": "", 
+                "title": "BALINESE LETTER BA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b2a", 
+                "description": "", 
+                "title": "BALINESE LETTER BA KEMBANG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b2b", 
+                "description": "", 
+                "title": "BALINESE LETTER MA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b2c", 
+                "description": "", 
+                "title": "BALINESE LETTER YA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b2d", 
+                "description": "", 
+                "title": "BALINESE LETTER RA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b2e", 
+                "description": "", 
+                "title": "BALINESE LETTER LA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b2f", 
+                "description": "", 
+                "title": "BALINESE LETTER WA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b30", 
+                "description": "", 
+                "title": "BALINESE LETTER SA SAGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b31", 
+                "description": "", 
+                "title": "BALINESE LETTER SA SAPA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b32", 
+                "description": "", 
+                "title": "BALINESE LETTER SA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b33", 
+                "description": "", 
+                "title": "BALINESE LETTER HA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b34", 
+                "description": "", 
+                "title": "BALINESE SIGN REREKAN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1b35", 
+                "description": "", 
+                "title": "BALINESE VOWEL SIGN TEDUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1b36", 
+                "description": "", 
+                "title": "BALINESE VOWEL SIGN ULU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1b37", 
+                "description": "", 
+                "title": "BALINESE VOWEL SIGN ULU SARI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1b38", 
+                "description": "", 
+                "title": "BALINESE VOWEL SIGN SUKU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1b39", 
+                "description": "", 
+                "title": "BALINESE VOWEL SIGN SUKU ILUT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1b3a", 
+                "description": "", 
+                "title": "BALINESE VOWEL SIGN RA REPA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1b3b", 
+                "description": "", 
+                "title": "BALINESE VOWEL SIGN RA REPA TEDUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1b3c", 
+                "description": "", 
+                "title": "BALINESE VOWEL SIGN LA LENGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1b3d", 
+                "description": "", 
+                "title": "BALINESE VOWEL SIGN LA LENGA TEDUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1b3e", 
+                "description": "", 
+                "title": "BALINESE VOWEL SIGN TALING"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1b3f", 
+                "description": "", 
+                "title": "BALINESE VOWEL SIGN TALING REPA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1b40", 
+                "description": "", 
+                "title": "BALINESE VOWEL SIGN TALING TEDUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1b41", 
+                "description": "", 
+                "title": "BALINESE VOWEL SIGN TALING REPA TEDUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1b42", 
+                "description": "", 
+                "title": "BALINESE VOWEL SIGN PEPET"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1b43", 
+                "description": "", 
+                "title": "BALINESE VOWEL SIGN PEPET TEDUNG"
+            }, 
+            {
+                "cat1": "Virama", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b44", 
+                "description": "", 
+                "title": "BALINESE ADEG ADEG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b45", 
+                "description": "", 
+                "title": "BALINESE LETTER KAF SASAK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b46", 
+                "description": "", 
+                "title": "BALINESE LETTER KHOT SASAK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b47", 
+                "description": "", 
+                "title": "BALINESE LETTER TZIR SASAK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b48", 
+                "description": "", 
+                "title": "BALINESE LETTER EF SASAK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b49", 
+                "description": "", 
+                "title": "BALINESE LETTER VE SASAK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b4a", 
+                "description": "", 
+                "title": "BALINESE LETTER ZAL SASAK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b4b", 
+                "description": "", 
+                "title": "BALINESE LETTER ASYURA SASAK"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b50", 
+                "description": "", 
+                "title": "BALINESE DIGIT ZERO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b51", 
+                "description": "", 
+                "title": "BALINESE DIGIT ONE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b52", 
+                "description": "", 
+                "title": "BALINESE DIGIT TWO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b53", 
+                "description": "", 
+                "title": "BALINESE DIGIT THREE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b54", 
+                "description": "", 
+                "title": "BALINESE DIGIT FOUR"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b55", 
+                "description": "", 
+                "title": "BALINESE DIGIT FIVE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b56", 
+                "description": "", 
+                "title": "BALINESE DIGIT SIX"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b57", 
+                "description": "", 
+                "title": "BALINESE DIGIT SEVEN"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b58", 
+                "description": "", 
+                "title": "BALINESE DIGIT EIGHT"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b59", 
+                "description": "", 
+                "title": "BALINESE DIGIT NINE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b5a", 
+                "description": "", 
+                "title": "BALINESE PANTI"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b5b", 
+                "description": "", 
+                "title": "BALINESE PAMADA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b5c", 
+                "description": "", 
+                "title": "BALINESE WINDU"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b5d", 
+                "description": "", 
+                "title": "BALINESE CARIK PAMUNGKAH"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b5e", 
+                "description": "", 
+                "title": "BALINESE CARIK SIKI"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b5f", 
+                "description": "", 
+                "title": "BALINESE CARIK PAREREN"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1b60", 
+                "description": "", 
+                "title": "BALINESE PAMENENG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "Note", 
+                "charcode": "0x1b61", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL DONG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "Note", 
+                "charcode": "0x1b62", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL DENG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "Note", 
+                "charcode": "0x1b63", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL DUNG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "Note", 
+                "charcode": "0x1b64", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL DANG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "Note", 
+                "charcode": "0x1b65", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL DANG SURANG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "Note", 
+                "charcode": "0x1b66", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL DING"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "Note", 
+                "charcode": "0x1b67", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL DAENG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "Note", 
+                "charcode": "0x1b68", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL DEUNG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "Note", 
+                "charcode": "0x1b69", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL DAING"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "Note", 
+                "charcode": "0x1b6a", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL DANG GEDE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b6b", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING TEGEH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b6c", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING ENDEP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b6d", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING KEMPUL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b6e", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING KEMPLI"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b6f", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING JEGOGAN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b70", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING KEMPUL WITH JEGOGAN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b71", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING KEMPLI WITH JEGOGAN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b72", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING BENDE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b73", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING GONG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b74", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL RIGHT-HAND OPEN DUG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b75", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL RIGHT-HAND OPEN DAG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b76", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL RIGHT-HAND CLOSED TUK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b77", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL RIGHT-HAND CLOSED TAK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b78", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PANG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b79", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PUNG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b7a", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL LEFT-HAND CLOSED PLAK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b7b", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL LEFT-HAND CLOSED PLUK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Musical", 
+                "cat3": "Balinese", 
+                "cat4": "", 
+                "charcode": "0x1b7c", 
+                "description": "", 
+                "title": "BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PING"
+            }
+        ], 
+        "name": "Balinese"
+    }
+]

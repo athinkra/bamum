@@ -1,0 +1,511 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabc0", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER KOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabc1", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER SAM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabc2", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER LAI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabc3", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER MIT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabc4", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER PA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabc5", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER NA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabc6", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER CHIL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabc7", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER TIL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabc8", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER KHOU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabc9", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER NGOU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabca", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER THOU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabcb", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER WAI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabcc", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER YANG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabcd", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER HUK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabce", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER UN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabcf", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabd0", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER PHAM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabd1", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER ATIYA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabd2", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER GOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabd3", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER JHAM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabd4", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER RAI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabd5", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER BA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabd6", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER JIL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabd7", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER DIL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabd8", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER GHOU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabd9", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER DHOU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabda", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER BHAM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xabdb", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER KOK LONSUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xabdc", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER LAI LONSUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xabdd", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER MIT LONSUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xabde", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER PA LONSUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xabdf", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER NA LONSUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xabe0", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER TIL LONSUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xabe1", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER NGOU LONSUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xabe2", 
+                "description": "", 
+                "title": "MEETEI MAYEK LETTER I LONSUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xabe3", 
+                "description": "", 
+                "title": "MEETEI MAYEK VOWEL SIGN ONAP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xabe4", 
+                "description": "", 
+                "title": "MEETEI MAYEK VOWEL SIGN INAP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xabe5", 
+                "description": "", 
+                "title": "MEETEI MAYEK VOWEL SIGN ANAP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xabe6", 
+                "description": "", 
+                "title": "MEETEI MAYEK VOWEL SIGN YENAP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xabe7", 
+                "description": "", 
+                "title": "MEETEI MAYEK VOWEL SIGN SOUNAP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xabe8", 
+                "description": "", 
+                "title": "MEETEI MAYEK VOWEL SIGN UNAP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xabe9", 
+                "description": "", 
+                "title": "MEETEI MAYEK VOWEL SIGN CHEINAP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xabea", 
+                "description": "", 
+                "title": "MEETEI MAYEK VOWEL SIGN NUNG"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabeb", 
+                "description": "", 
+                "title": "MEETEI MAYEK CHEIKHEI"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabec", 
+                "description": "", 
+                "title": "MEETEI MAYEK LUM IYEK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabed", 
+                "description": "", 
+                "title": "MEETEI MAYEK APUN IYEK"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabf0", 
+                "description": "", 
+                "title": "MEETEI MAYEK DIGIT ZERO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabf1", 
+                "description": "", 
+                "title": "MEETEI MAYEK DIGIT ONE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabf2", 
+                "description": "", 
+                "title": "MEETEI MAYEK DIGIT TWO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabf3", 
+                "description": "", 
+                "title": "MEETEI MAYEK DIGIT THREE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabf4", 
+                "description": "", 
+                "title": "MEETEI MAYEK DIGIT FOUR"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabf5", 
+                "description": "", 
+                "title": "MEETEI MAYEK DIGIT FIVE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabf6", 
+                "description": "", 
+                "title": "MEETEI MAYEK DIGIT SIX"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabf7", 
+                "description": "", 
+                "title": "MEETEI MAYEK DIGIT SEVEN"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabf8", 
+                "description": "", 
+                "title": "MEETEI MAYEK DIGIT EIGHT"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xabf9", 
+                "description": "", 
+                "title": "MEETEI MAYEK DIGIT NINE"
+            }
+        ], 
+        "name": "Meetei Mayek"
+    }
+]

@@ -1,0 +1,1150 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2900", 
+                "description": "", 
+                "title": "RIGHTWARDS TWO-HEADED ARROW WITH VERTICAL STROKE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2901", 
+                "description": "", 
+                "title": "RIGHTWARDS TWO-HEADED ARROW WITH DOUBLE VERTICAL STROKE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2902", 
+                "description": "", 
+                "title": "LEFTWARDS DOUBLE ARROW WITH VERTICAL STROKE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2903", 
+                "description": "", 
+                "title": "RIGHTWARDS DOUBLE ARROW WITH VERTICAL STROKE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2904", 
+                "description": "", 
+                "title": "LEFT RIGHT DOUBLE ARROW WITH VERTICAL STROKE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2905", 
+                "description": "", 
+                "title": "RIGHTWARDS TWO-HEADED ARROW FROM BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2906", 
+                "description": "", 
+                "title": "LEFTWARDS DOUBLE ARROW FROM BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2907", 
+                "description": "", 
+                "title": "RIGHTWARDS DOUBLE ARROW FROM BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2908", 
+                "description": "", 
+                "title": "DOWNWARDS ARROW WITH HORIZONTAL STROKE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2909", 
+                "description": "", 
+                "title": "UPWARDS ARROW WITH HORIZONTAL STROKE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x290a", 
+                "description": "", 
+                "title": "UPWARDS TRIPLE ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x290b", 
+                "description": "", 
+                "title": "DOWNWARDS TRIPLE ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x290c", 
+                "description": "", 
+                "title": "LEFTWARDS DOUBLE DASH ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x290d", 
+                "description": "", 
+                "title": "RIGHTWARDS DOUBLE DASH ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x290e", 
+                "description": "", 
+                "title": "LEFTWARDS TRIPLE DASH ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x290f", 
+                "description": "", 
+                "title": "RIGHTWARDS TRIPLE DASH ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2910", 
+                "description": "", 
+                "title": "RIGHTWARDS TWO-HEADED TRIPLE DASH ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2911", 
+                "description": "", 
+                "title": "RIGHTWARDS ARROW WITH DOTTED STEM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2912", 
+                "description": "", 
+                "title": "UPWARDS ARROW TO BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2913", 
+                "description": "", 
+                "title": "DOWNWARDS ARROW TO BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2914", 
+                "description": "", 
+                "title": "RIGHTWARDS ARROW WITH TAIL WITH VERTICAL STROKE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2915", 
+                "description": "", 
+                "title": "RIGHTWARDS ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2916", 
+                "description": "", 
+                "title": "RIGHTWARDS TWO-HEADED ARROW WITH TAIL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2917", 
+                "description": "", 
+                "title": "RIGHTWARDS TWO-HEADED ARROW WITH TAIL WITH VERTICAL STROKE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2918", 
+                "description": "", 
+                "title": "RIGHTWARDS TWO-HEADED ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Tail", 
+                "cat4": "", 
+                "charcode": "0x2919", 
+                "description": "", 
+                "title": "LEFTWARDS ARROW-TAIL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Tail", 
+                "cat4": "", 
+                "charcode": "0x291a", 
+                "description": "", 
+                "title": "RIGHTWARDS ARROW-TAIL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Tail", 
+                "cat4": "", 
+                "charcode": "0x291b", 
+                "description": "", 
+                "title": "LEFTWARDS DOUBLE ARROW-TAIL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Tail", 
+                "cat4": "", 
+                "charcode": "0x291c", 
+                "description": "", 
+                "title": "RIGHTWARDS DOUBLE ARROW-TAIL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x291d", 
+                "description": "", 
+                "title": "LEFTWARDS ARROW TO BLACK DIAMOND"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x291e", 
+                "description": "", 
+                "title": "RIGHTWARDS ARROW TO BLACK DIAMOND"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x291f", 
+                "description": "", 
+                "title": "LEFTWARDS ARROW FROM BAR TO BLACK DIAMOND"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2920", 
+                "description": "", 
+                "title": "RIGHTWARDS ARROW FROM BAR TO BLACK DIAMOND"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2921", 
+                "description": "", 
+                "title": "NORTH WEST AND SOUTH EAST ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2922", 
+                "description": "", 
+                "title": "NORTH EAST AND SOUTH WEST ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2923", 
+                "description": "", 
+                "title": "NORTH WEST ARROW WITH HOOK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2924", 
+                "description": "", 
+                "title": "NORTH EAST ARROW WITH HOOK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2925", 
+                "description": "", 
+                "title": "SOUTH EAST ARROW WITH HOOK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2926", 
+                "description": "", 
+                "title": "SOUTH WEST ARROW WITH HOOK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Crossing", 
+                "cat4": "Knot theory", 
+                "charcode": "0x2927", 
+                "description": "", 
+                "title": "NORTH WEST ARROW AND NORTH EAST ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Crossing", 
+                "cat4": "Knot theory", 
+                "charcode": "0x2928", 
+                "description": "", 
+                "title": "NORTH EAST ARROW AND SOUTH EAST ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Crossing", 
+                "cat4": "Knot theory", 
+                "charcode": "0x2929", 
+                "description": "", 
+                "title": "SOUTH EAST ARROW AND SOUTH WEST ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Crossing", 
+                "cat4": "Knot theory", 
+                "charcode": "0x292a", 
+                "description": "", 
+                "title": "SOUTH WEST ARROW AND NORTH WEST ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Crossing", 
+                "cat4": "Knot theory", 
+                "charcode": "0x292b", 
+                "description": "", 
+                "title": "RISING DIAGONAL CROSSING FALLING DIAGONAL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Crossing", 
+                "cat4": "Knot theory", 
+                "charcode": "0x292c", 
+                "description": "", 
+                "title": "FALLING DIAGONAL CROSSING RISING DIAGONAL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Crossing", 
+                "cat4": "Knot theory", 
+                "charcode": "0x292d", 
+                "description": "", 
+                "title": "SOUTH EAST ARROW CROSSING NORTH EAST ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Crossing", 
+                "cat4": "Knot theory", 
+                "charcode": "0x292e", 
+                "description": "", 
+                "title": "NORTH EAST ARROW CROSSING SOUTH EAST ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Crossing", 
+                "cat4": "Knot theory", 
+                "charcode": "0x292f", 
+                "description": "", 
+                "title": "FALLING DIAGONAL CROSSING NORTH EAST ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Crossing", 
+                "cat4": "Knot theory", 
+                "charcode": "0x2930", 
+                "description": "", 
+                "title": "RISING DIAGONAL CROSSING SOUTH EAST ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Crossing", 
+                "cat4": "Knot theory", 
+                "charcode": "0x2931", 
+                "description": "", 
+                "title": "NORTH EAST ARROW CROSSING NORTH WEST ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Crossing", 
+                "cat4": "Knot theory", 
+                "charcode": "0x2932", 
+                "description": "", 
+                "title": "NORTH WEST ARROW CROSSING NORTH EAST ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2933", 
+                "description": "", 
+                "title": "WAVE ARROW POINTING DIRECTLY RIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2934", 
+                "description": "", 
+                "title": "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2935", 
+                "description": "", 
+                "title": "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2936", 
+                "description": "", 
+                "title": "ARROW POINTING DOWNWARDS THEN CURVING LEFTWARDS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2937", 
+                "description": "", 
+                "title": "ARROW POINTING DOWNWARDS THEN CURVING RIGHTWARDS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2938", 
+                "description": "", 
+                "title": "RIGHT-SIDE ARC CLOCKWISE ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2939", 
+                "description": "", 
+                "title": "LEFT-SIDE ARC ANTICLOCKWISE ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x293a", 
+                "description": "", 
+                "title": "TOP ARC ANTICLOCKWISE ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x293b", 
+                "description": "", 
+                "title": "BOTTOM ARC ANTICLOCKWISE ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x293c", 
+                "description": "", 
+                "title": "TOP ARC CLOCKWISE ARROW WITH MINUS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x293d", 
+                "description": "", 
+                "title": "TOP ARC ANTICLOCKWISE ARROW WITH PLUS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x293e", 
+                "description": "", 
+                "title": "LOWER RIGHT SEMICIRCULAR CLOCKWISE ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x293f", 
+                "description": "", 
+                "title": "LOWER LEFT SEMICIRCULAR ANTICLOCKWISE ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2940", 
+                "description": "", 
+                "title": "ANTICLOCKWISE CLOSED CIRCLE ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2941", 
+                "description": "", 
+                "title": "CLOCKWISE CLOSED CIRCLE ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2942", 
+                "description": "", 
+                "title": "RIGHTWARDS ARROW ABOVE SHORT LEFTWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2943", 
+                "description": "", 
+                "title": "LEFTWARDS ARROW ABOVE SHORT RIGHTWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2944", 
+                "description": "", 
+                "title": "SHORT RIGHTWARDS ARROW ABOVE LEFTWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2945", 
+                "description": "", 
+                "title": "RIGHTWARDS ARROW WITH PLUS BELOW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2946", 
+                "description": "", 
+                "title": "LEFTWARDS ARROW WITH PLUS BELOW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2947", 
+                "description": "", 
+                "title": "RIGHTWARDS ARROW THROUGH X"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2948", 
+                "description": "", 
+                "title": "LEFT RIGHT ARROW THROUGH SMALL CIRCLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2949", 
+                "description": "", 
+                "title": "UPWARDS TWO-HEADED ARROW FROM SMALL CIRCLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x294a", 
+                "description": "", 
+                "title": "LEFT BARB UP RIGHT BARB DOWN HARPOON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x294b", 
+                "description": "", 
+                "title": "LEFT BARB DOWN RIGHT BARB UP HARPOON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x294c", 
+                "description": "", 
+                "title": "UP BARB RIGHT DOWN BARB LEFT HARPOON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x294d", 
+                "description": "", 
+                "title": "UP BARB LEFT DOWN BARB RIGHT HARPOON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x294e", 
+                "description": "", 
+                "title": "LEFT BARB UP RIGHT BARB UP HARPOON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x294f", 
+                "description": "", 
+                "title": "UP BARB RIGHT DOWN BARB RIGHT HARPOON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2950", 
+                "description": "", 
+                "title": "LEFT BARB DOWN RIGHT BARB DOWN HARPOON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2951", 
+                "description": "", 
+                "title": "UP BARB LEFT DOWN BARB LEFT HARPOON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2952", 
+                "description": "", 
+                "title": "LEFTWARDS HARPOON WITH BARB UP TO BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2953", 
+                "description": "", 
+                "title": "RIGHTWARDS HARPOON WITH BARB UP TO BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2954", 
+                "description": "", 
+                "title": "UPWARDS HARPOON WITH BARB RIGHT TO BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2955", 
+                "description": "", 
+                "title": "DOWNWARDS HARPOON WITH BARB RIGHT TO BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2956", 
+                "description": "", 
+                "title": "LEFTWARDS HARPOON WITH BARB DOWN TO BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2957", 
+                "description": "", 
+                "title": "RIGHTWARDS HARPOON WITH BARB DOWN TO BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2958", 
+                "description": "", 
+                "title": "UPWARDS HARPOON WITH BARB LEFT TO BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2959", 
+                "description": "", 
+                "title": "DOWNWARDS HARPOON WITH BARB LEFT TO BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x295a", 
+                "description": "", 
+                "title": "LEFTWARDS HARPOON WITH BARB UP FROM BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x295b", 
+                "description": "", 
+                "title": "RIGHTWARDS HARPOON WITH BARB UP FROM BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x295c", 
+                "description": "", 
+                "title": "UPWARDS HARPOON WITH BARB RIGHT FROM BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x295d", 
+                "description": "", 
+                "title": "DOWNWARDS HARPOON WITH BARB RIGHT FROM BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x295e", 
+                "description": "", 
+                "title": "LEFTWARDS HARPOON WITH BARB DOWN FROM BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x295f", 
+                "description": "", 
+                "title": "RIGHTWARDS HARPOON WITH BARB DOWN FROM BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2960", 
+                "description": "", 
+                "title": "UPWARDS HARPOON WITH BARB LEFT FROM BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2961", 
+                "description": "", 
+                "title": "DOWNWARDS HARPOON WITH BARB LEFT FROM BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2962", 
+                "description": "", 
+                "title": "LEFTWARDS HARPOON WITH BARB UP ABOVE LEFTWARDS HARPOON WITH BARB DOWN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2963", 
+                "description": "", 
+                "title": "UPWARDS HARPOON WITH BARB LEFT BESIDE UPWARDS HARPOON WITH BARB RIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2964", 
+                "description": "", 
+                "title": "RIGHTWARDS HARPOON WITH BARB UP ABOVE RIGHTWARDS HARPOON WITH BARB DOWN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2965", 
+                "description": "", 
+                "title": "DOWNWARDS HARPOON WITH BARB LEFT BESIDE DOWNWARDS HARPOON WITH BARB RIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2966", 
+                "description": "", 
+                "title": "LEFTWARDS HARPOON WITH BARB UP ABOVE RIGHTWARDS HARPOON WITH BARB UP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2967", 
+                "description": "", 
+                "title": "LEFTWARDS HARPOON WITH BARB DOWN ABOVE RIGHTWARDS HARPOON WITH BARB DOWN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2968", 
+                "description": "", 
+                "title": "RIGHTWARDS HARPOON WITH BARB UP ABOVE LEFTWARDS HARPOON WITH BARB UP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x2969", 
+                "description": "", 
+                "title": "RIGHTWARDS HARPOON WITH BARB DOWN ABOVE LEFTWARDS HARPOON WITH BARB DOWN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x296a", 
+                "description": "", 
+                "title": "LEFTWARDS HARPOON WITH BARB UP ABOVE LONG DASH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x296b", 
+                "description": "", 
+                "title": "LEFTWARDS HARPOON WITH BARB DOWN BELOW LONG DASH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x296c", 
+                "description": "", 
+                "title": "RIGHTWARDS HARPOON WITH BARB UP ABOVE LONG DASH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x296d", 
+                "description": "", 
+                "title": "RIGHTWARDS HARPOON WITH BARB DOWN BELOW LONG DASH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x296e", 
+                "description": "", 
+                "title": "UPWARDS HARPOON WITH BARB LEFT BESIDE DOWNWARDS HARPOON WITH BARB RIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Harpoon", 
+                "cat4": "", 
+                "charcode": "0x296f", 
+                "description": "", 
+                "title": "DOWNWARDS HARPOON WITH BARB LEFT BESIDE UPWARDS HARPOON WITH BARB RIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2970", 
+                "description": "", 
+                "title": "RIGHT DOUBLE ARROW WITH ROUNDED HEAD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2971", 
+                "description": "", 
+                "title": "EQUALS SIGN ABOVE RIGHTWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2972", 
+                "description": "", 
+                "title": "TILDE OPERATOR ABOVE RIGHTWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2973", 
+                "description": "", 
+                "title": "LEFTWARDS ARROW ABOVE TILDE OPERATOR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2974", 
+                "description": "", 
+                "title": "RIGHTWARDS ARROW ABOVE TILDE OPERATOR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2975", 
+                "description": "", 
+                "title": "RIGHTWARDS ARROW ABOVE ALMOST EQUAL TO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2976", 
+                "description": "", 
+                "title": "LESS-THAN ABOVE LEFTWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2977", 
+                "description": "", 
+                "title": "LEFTWARDS ARROW THROUGH LESS-THAN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2978", 
+                "description": "", 
+                "title": "GREATER-THAN ABOVE RIGHTWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2979", 
+                "description": "", 
+                "title": "SUBSET ABOVE RIGHTWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x297a", 
+                "description": "", 
+                "title": "LEFTWARDS ARROW THROUGH SUBSET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x297b", 
+                "description": "", 
+                "title": "SUPERSET ABOVE LEFTWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Tail", 
+                "cat4": "", 
+                "charcode": "0x297c", 
+                "description": "", 
+                "title": "LEFT FISH TAIL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Tail", 
+                "cat4": "", 
+                "charcode": "0x297d", 
+                "description": "", 
+                "title": "RIGHT FISH TAIL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Tail", 
+                "cat4": "", 
+                "charcode": "0x297e", 
+                "description": "", 
+                "title": "UP FISH TAIL"
+            }
+        ], 
+        "name": "Supplemental Arrows-B"
+    }
+]

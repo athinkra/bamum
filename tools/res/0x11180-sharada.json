@@ -1,0 +1,804 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11180", 
+                "description": "", 
+                "title": "SHARADA SIGN CANDRABINDU"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11181", 
+                "description": "", 
+                "title": "SHARADA SIGN ANUSVARA"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11182", 
+                "description": "", 
+                "title": "SHARADA SIGN VISARGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x11183", 
+                "description": "", 
+                "title": "SHARADA LETTER A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x11184", 
+                "description": "", 
+                "title": "SHARADA LETTER AA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x11185", 
+                "description": "", 
+                "title": "SHARADA LETTER I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x11186", 
+                "description": "", 
+                "title": "SHARADA LETTER II"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x11187", 
+                "description": "", 
+                "title": "SHARADA LETTER U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x11188", 
+                "description": "", 
+                "title": "SHARADA LETTER UU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x11189", 
+                "description": "", 
+                "title": "SHARADA LETTER VOCALIC R"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1118a", 
+                "description": "", 
+                "title": "SHARADA LETTER VOCALIC RR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1118b", 
+                "description": "", 
+                "title": "SHARADA LETTER VOCALIC L"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1118c", 
+                "description": "", 
+                "title": "SHARADA LETTER VOCALIC LL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1118d", 
+                "description": "", 
+                "title": "SHARADA LETTER E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1118e", 
+                "description": "", 
+                "title": "SHARADA LETTER AI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x1118f", 
+                "description": "", 
+                "title": "SHARADA LETTER O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x11190", 
+                "description": "", 
+                "title": "SHARADA LETTER AU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11191", 
+                "description": "", 
+                "title": "SHARADA LETTER KA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11192", 
+                "description": "", 
+                "title": "SHARADA LETTER KHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11193", 
+                "description": "", 
+                "title": "SHARADA LETTER GA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11194", 
+                "description": "", 
+                "title": "SHARADA LETTER GHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11195", 
+                "description": "", 
+                "title": "SHARADA LETTER NGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11196", 
+                "description": "", 
+                "title": "SHARADA LETTER CA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11197", 
+                "description": "", 
+                "title": "SHARADA LETTER CHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11198", 
+                "description": "", 
+                "title": "SHARADA LETTER JA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11199", 
+                "description": "", 
+                "title": "SHARADA LETTER JHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1119a", 
+                "description": "", 
+                "title": "SHARADA LETTER NYA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1119b", 
+                "description": "", 
+                "title": "SHARADA LETTER TTA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1119c", 
+                "description": "", 
+                "title": "SHARADA LETTER TTHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1119d", 
+                "description": "", 
+                "title": "SHARADA LETTER DDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1119e", 
+                "description": "", 
+                "title": "SHARADA LETTER DDHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1119f", 
+                "description": "", 
+                "title": "SHARADA LETTER NNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111a0", 
+                "description": "", 
+                "title": "SHARADA LETTER TA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111a1", 
+                "description": "", 
+                "title": "SHARADA LETTER THA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111a2", 
+                "description": "", 
+                "title": "SHARADA LETTER DA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111a3", 
+                "description": "", 
+                "title": "SHARADA LETTER DHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111a4", 
+                "description": "", 
+                "title": "SHARADA LETTER NA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111a5", 
+                "description": "", 
+                "title": "SHARADA LETTER PA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111a6", 
+                "description": "", 
+                "title": "SHARADA LETTER PHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111a7", 
+                "description": "", 
+                "title": "SHARADA LETTER BA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111a8", 
+                "description": "", 
+                "title": "SHARADA LETTER BHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111a9", 
+                "description": "", 
+                "title": "SHARADA LETTER MA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111aa", 
+                "description": "", 
+                "title": "SHARADA LETTER YA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111ab", 
+                "description": "", 
+                "title": "SHARADA LETTER RA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111ac", 
+                "description": "", 
+                "title": "SHARADA LETTER LA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111ad", 
+                "description": "", 
+                "title": "SHARADA LETTER LLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111ae", 
+                "description": "", 
+                "title": "SHARADA LETTER VA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111af", 
+                "description": "", 
+                "title": "SHARADA LETTER SHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111b0", 
+                "description": "", 
+                "title": "SHARADA LETTER SSA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111b1", 
+                "description": "", 
+                "title": "SHARADA LETTER SA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111b2", 
+                "description": "", 
+                "title": "SHARADA LETTER HA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x111b3", 
+                "description": "", 
+                "title": "SHARADA VOWEL SIGN AA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x111b4", 
+                "description": "", 
+                "title": "SHARADA VOWEL SIGN I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x111b5", 
+                "description": "", 
+                "title": "SHARADA VOWEL SIGN II"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x111b6", 
+                "description": "", 
+                "title": "SHARADA VOWEL SIGN U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x111b7", 
+                "description": "", 
+                "title": "SHARADA VOWEL SIGN UU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x111b8", 
+                "description": "", 
+                "title": "SHARADA VOWEL SIGN VOCALIC R"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x111b9", 
+                "description": "", 
+                "title": "SHARADA VOWEL SIGN VOCALIC RR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x111ba", 
+                "description": "", 
+                "title": "SHARADA VOWEL SIGN VOCALIC L"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x111bb", 
+                "description": "", 
+                "title": "SHARADA VOWEL SIGN VOCALIC LL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x111bc", 
+                "description": "", 
+                "title": "SHARADA VOWEL SIGN E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x111bd", 
+                "description": "", 
+                "title": "SHARADA VOWEL SIGN AI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x111be", 
+                "description": "", 
+                "title": "SHARADA VOWEL SIGN O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x111bf", 
+                "description": "", 
+                "title": "SHARADA VOWEL SIGN AU"
+            }, 
+            {
+                "cat1": "Virama", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111c0", 
+                "description": "", 
+                "title": "SHARADA SIGN VIRAMA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111c1", 
+                "description": "", 
+                "title": "SHARADA SIGN AVAGRAHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111c2", 
+                "description": "", 
+                "title": "SHARADA SIGN JIHVAMULIYA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111c3", 
+                "description": "", 
+                "title": "SHARADA SIGN UPADHMANIYA"
+            }, 
+            {
+                "cat1": "Logograph", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111c4", 
+                "description": "", 
+                "title": "SHARADA OM"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111c5", 
+                "description": "", 
+                "title": "SHARADA DANDA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111c6", 
+                "description": "", 
+                "title": "SHARADA DOUBLE DANDA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111c7", 
+                "description": "", 
+                "title": "SHARADA ABBREVIATION SIGN"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111c8", 
+                "description": "", 
+                "title": "SHARADA SEPARATOR"
+            }, 
+            {
+                "charcode": "0x111c9", 
+                "description": "", 
+                "title": "SHARADA SANDHI MARK"
+            }, 
+            {
+                "charcode": "0x111ca", 
+                "description": "", 
+                "title": "SHARADA SIGN NUKTA"
+            }, 
+            {
+                "charcode": "0x111cb", 
+                "description": "", 
+                "title": "SHARADA VOWEL MODIFIER MARK"
+            }, 
+            {
+                "charcode": "0x111cc", 
+                "description": "", 
+                "title": "SHARADA EXTRA SHORT VOWEL MARK"
+            }, 
+            {
+                "charcode": "0x111cd", 
+                "description": "", 
+                "title": "SHARADA SUTRA MARK"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111d0", 
+                "description": "", 
+                "title": "SHARADA DIGIT ZERO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111d1", 
+                "description": "", 
+                "title": "SHARADA DIGIT ONE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111d2", 
+                "description": "", 
+                "title": "SHARADA DIGIT TWO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111d3", 
+                "description": "", 
+                "title": "SHARADA DIGIT THREE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111d4", 
+                "description": "", 
+                "title": "SHARADA DIGIT FOUR"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111d5", 
+                "description": "", 
+                "title": "SHARADA DIGIT FIVE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111d6", 
+                "description": "", 
+                "title": "SHARADA DIGIT SIX"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111d7", 
+                "description": "", 
+                "title": "SHARADA DIGIT SEVEN"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111d8", 
+                "description": "", 
+                "title": "SHARADA DIGIT EIGHT"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x111d9", 
+                "description": "", 
+                "title": "SHARADA DIGIT NINE"
+            }, 
+            {
+                "charcode": "0x111da", 
+                "description": "", 
+                "title": "SHARADA EKAM"
+            }, 
+            {
+                "charcode": "0x111db", 
+                "description": "", 
+                "title": "SHARADA SIGN SIDDHAM"
+            }, 
+            {
+                "charcode": "0x111dc", 
+                "description": "", 
+                "title": "SHARADA HEADSTROKE"
+            }, 
+            {
+                "charcode": "0x111dd", 
+                "description": "", 
+                "title": "SHARADA CONTINUATION SIGN"
+            }, 
+            {
+                "charcode": "0x111de", 
+                "description": "", 
+                "title": "SHARADA SECTION MARK-1"
+            }
+        ], 
+        "name": "Sharada"
+    }
+]

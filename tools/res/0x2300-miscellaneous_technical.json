@@ -1,0 +1,2238 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2300", 
+                "description": "", 
+                "title": "DIAMETER SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2301", 
+                "description": "", 
+                "title": "ELECTRIC ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2302", 
+                "description": "", 
+                "title": "HOUSE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2303", 
+                "description": "", 
+                "title": "UP ARROWHEAD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2304", 
+                "description": "", 
+                "title": "DOWN ARROWHEAD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2305", 
+                "description": "", 
+                "title": "PROJECTIVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2306", 
+                "description": "", 
+                "title": "PERSPECTIVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2307", 
+                "description": "", 
+                "title": "WAVY LINE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2308", 
+                "description": "", 
+                "title": "LEFT CEILING"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2309", 
+                "description": "", 
+                "title": "RIGHT CEILING"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x230a", 
+                "description": "", 
+                "title": "LEFT FLOOR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x230b", 
+                "description": "", 
+                "title": "RIGHT FLOOR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Crop", 
+                "cat4": "", 
+                "charcode": "0x230c", 
+                "description": "", 
+                "title": "BOTTOM RIGHT CROP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Crop", 
+                "cat4": "", 
+                "charcode": "0x230d", 
+                "description": "", 
+                "title": "BOTTOM LEFT CROP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Crop", 
+                "cat4": "", 
+                "charcode": "0x230e", 
+                "description": "", 
+                "title": "TOP RIGHT CROP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Crop", 
+                "cat4": "", 
+                "charcode": "0x230f", 
+                "description": "", 
+                "title": "TOP LEFT CROP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2310", 
+                "description": "", 
+                "title": "REVERSED NOT SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2311", 
+                "description": "", 
+                "title": "SQUARE LOZENGE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2312", 
+                "description": "", 
+                "title": "ARC"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2313", 
+                "description": "", 
+                "title": "SEGMENT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2314", 
+                "description": "", 
+                "title": "SECTOR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2315", 
+                "description": "", 
+                "title": "TELEPHONE RECORDER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2316", 
+                "description": "", 
+                "title": "POSITION INDICATOR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2317", 
+                "description": "", 
+                "title": "VIEWDATA SQUARE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2318", 
+                "description": "COMMAND KEY", 
+                "title": "PLACE OF INTEREST SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2319", 
+                "description": "", 
+                "title": "TURNED NOT SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x231a", 
+                "description": "", 
+                "title": "WATCH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x231b", 
+                "description": "", 
+                "title": "HOURGLASS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Quine corner", 
+                "cat4": "", 
+                "charcode": "0x231c", 
+                "description": "", 
+                "title": "TOP LEFT CORNER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Quine corner", 
+                "cat4": "", 
+                "charcode": "0x231d", 
+                "description": "", 
+                "title": "TOP RIGHT CORNER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Quine corner", 
+                "cat4": "", 
+                "charcode": "0x231e", 
+                "description": "", 
+                "title": "BOTTOM LEFT CORNER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Quine corner", 
+                "cat4": "", 
+                "charcode": "0x231f", 
+                "description": "", 
+                "title": "BOTTOM RIGHT CORNER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Integral", 
+                "cat4": "Fragment", 
+                "charcode": "0x2320", 
+                "description": "", 
+                "title": "TOP HALF INTEGRAL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Integral", 
+                "cat4": "Fragment", 
+                "charcode": "0x2321", 
+                "description": "", 
+                "title": "BOTTOM HALF INTEGRAL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2322", 
+                "description": "", 
+                "title": "FROWN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2323", 
+                "description": "", 
+                "title": "SMILE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2324", 
+                "description": "ENTER KEY", 
+                "title": "UP ARROWHEAD BETWEEN TWO HORIZONTAL BARS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2325", 
+                "description": "", 
+                "title": "OPTION KEY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2326", 
+                "description": "DELETE TO THE RIGHT KEY", 
+                "title": "ERASE TO THE RIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2327", 
+                "description": "CLEAR KEY", 
+                "title": "X IN A RECTANGLE BOX"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2328", 
+                "description": "", 
+                "title": "KEYBOARD"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2329", 
+                "description": "BRA", 
+                "title": "LEFT-POINTING ANGLE BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x232a", 
+                "description": "KET", 
+                "title": "RIGHT-POINTING ANGLE BRACKET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x232b", 
+                "description": "DELETE TO THE LEFT KEY", 
+                "title": "ERASE TO THE LEFT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Chemistry", 
+                "cat4": "", 
+                "charcode": "0x232c", 
+                "description": "", 
+                "title": "BENZENE RING"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Drafting", 
+                "cat4": "", 
+                "charcode": "0x232d", 
+                "description": "", 
+                "title": "CYLINDRICITY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Drafting", 
+                "cat4": "", 
+                "charcode": "0x232e", 
+                "description": "", 
+                "title": "ALL AROUND-PROFILE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Drafting", 
+                "cat4": "", 
+                "charcode": "0x232f", 
+                "description": "", 
+                "title": "SYMMETRY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Drafting", 
+                "cat4": "", 
+                "charcode": "0x2330", 
+                "description": "", 
+                "title": "TOTAL RUNOUT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Drafting", 
+                "cat4": "", 
+                "charcode": "0x2331", 
+                "description": "", 
+                "title": "DIMENSION ORIGIN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Drafting", 
+                "cat4": "", 
+                "charcode": "0x2332", 
+                "description": "", 
+                "title": "CONICAL TAPER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Drafting", 
+                "cat4": "", 
+                "charcode": "0x2333", 
+                "description": "", 
+                "title": "SLOPE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Drafting", 
+                "cat4": "", 
+                "charcode": "0x2334", 
+                "description": "", 
+                "title": "COUNTERBORE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Drafting", 
+                "cat4": "", 
+                "charcode": "0x2335", 
+                "description": "", 
+                "title": "COUNTERSINK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2336", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL I-BEAM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2337", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL SQUISH QUAD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2338", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD EQUAL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2339", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD DIVIDE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x233a", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD DIAMOND"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x233b", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD JOT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x233c", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD CIRCLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x233d", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL CIRCLE STILE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x233e", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL CIRCLE JOT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x233f", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL SLASH BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2340", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL BACKSLASH BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2341", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD SLASH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2342", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD BACKSLASH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2343", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD LESS-THAN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2344", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD GREATER-THAN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2345", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL LEFTWARDS VANE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2346", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL RIGHTWARDS VANE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2347", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD LEFTWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2348", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD RIGHTWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2349", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL CIRCLE BACKSLASH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x234a", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL DOWN TACK UNDERBAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x234b", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL DELTA STILE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x234c", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD DOWN CARET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x234d", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD DELTA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x234e", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL DOWN TACK JOT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x234f", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL UPWARDS VANE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2350", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD UPWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2351", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL UP TACK OVERBAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2352", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL DEL STILE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2353", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD UP CARET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2354", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD DEL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2355", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL UP TACK JOT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2356", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL DOWNWARDS VANE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2357", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD DOWNWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2358", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUOTE UNDERBAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2359", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL DELTA UNDERBAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x235a", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL DIAMOND UNDERBAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x235b", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL JOT UNDERBAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x235c", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL CIRCLE UNDERBAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x235d", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL UP SHOE JOT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x235e", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUOTE QUAD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x235f", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL CIRCLE STAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2360", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD COLON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2361", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL UP TACK DIAERESIS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2362", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL DEL DIAERESIS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2363", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL STAR DIAERESIS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2364", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL JOT DIAERESIS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2365", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL CIRCLE DIAERESIS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2366", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL DOWN SHOE STILE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2367", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL LEFT SHOE STILE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2368", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL TILDE DIAERESIS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2369", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL GREATER-THAN DIAERESIS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x236a", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL COMMA BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x236b", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL DEL TILDE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x236c", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL ZILDE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x236d", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL STILE TILDE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x236e", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL SEMICOLON UNDERBAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x236f", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD NOT EQUAL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2370", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD QUESTION"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2371", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL DOWN CARET TILDE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2372", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL UP CARET TILDE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2373", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL IOTA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2374", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL RHO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2375", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL OMEGA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2376", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL ALPHA UNDERBAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2377", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL EPSILON UNDERBAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2378", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL IOTA UNDERBAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2379", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL OMEGA UNDERBAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x237a", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL ALPHA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Control code", 
+                "cat4": "", 
+                "charcode": "0x237b", 
+                "description": "", 
+                "title": "NOT CHECK MARK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x237c", 
+                "description": "", 
+                "title": "RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Control code", 
+                "cat4": "", 
+                "charcode": "0x237d", 
+                "description": "", 
+                "title": "SHOULDERED OPEN BOX"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Control code", 
+                "cat4": "", 
+                "charcode": "0x237e", 
+                "description": "", 
+                "title": "BELL SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Control code", 
+                "cat4": "", 
+                "charcode": "0x237f", 
+                "description": "", 
+                "title": "VERTICAL LINE WITH MIDDLE DOT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2380", 
+                "description": "", 
+                "title": "INSERTION SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2381", 
+                "description": "", 
+                "title": "CONTINUOUS UNDERLINE SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2382", 
+                "description": "", 
+                "title": "DISCONTINUOUS UNDERLINE SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2383", 
+                "description": "", 
+                "title": "EMPHASIS SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2384", 
+                "description": "", 
+                "title": "COMPOSITION SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2385", 
+                "description": "", 
+                "title": "WHITE SQUARE WITH CENTRE VERTICAL LINE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2386", 
+                "description": "", 
+                "title": "ENTER SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2387", 
+                "description": "", 
+                "title": "ALTERNATIVE KEY SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2388", 
+                "description": "", 
+                "title": "HELM SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2389", 
+                "description": "", 
+                "title": "CIRCLED HORIZONTAL BAR WITH NOTCH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x238a", 
+                "description": "", 
+                "title": "CIRCLED TRIANGLE DOWN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x238b", 
+                "description": "", 
+                "title": "BROKEN CIRCLE WITH NORTHWEST ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x238c", 
+                "description": "", 
+                "title": "UNDO SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x238d", 
+                "description": "", 
+                "title": "MONOSTABLE SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x238e", 
+                "description": "", 
+                "title": "HYSTERESIS SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x238f", 
+                "description": "", 
+                "title": "OPEN-CIRCUIT-OUTPUT H-TYPE SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2390", 
+                "description": "", 
+                "title": "OPEN-CIRCUIT-OUTPUT L-TYPE SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2391", 
+                "description": "", 
+                "title": "PASSIVE-PULL-DOWN-OUTPUT SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2392", 
+                "description": "", 
+                "title": "PASSIVE-PULL-UP-OUTPUT SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2393", 
+                "description": "", 
+                "title": "DIRECT CURRENT SYMBOL FORM TWO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2394", 
+                "description": "", 
+                "title": "SOFTWARE-FUNCTION SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "APL", 
+                "cat4": "", 
+                "charcode": "0x2395", 
+                "description": "", 
+                "title": "APL FUNCTIONAL SYMBOL QUAD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2396", 
+                "description": "", 
+                "title": "DECIMAL SEPARATOR KEY SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2397", 
+                "description": "", 
+                "title": "PREVIOUS PAGE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2398", 
+                "description": "", 
+                "title": "NEXT PAGE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x2399", 
+                "description": "", 
+                "title": "PRINT SCREEN SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x239a", 
+                "description": "", 
+                "title": "CLEAR SCREEN SYMBOL"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x239b", 
+                "description": "", 
+                "title": "LEFT PARENTHESIS UPPER HOOK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x239c", 
+                "description": "", 
+                "title": "LEFT PARENTHESIS EXTENSION"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x239d", 
+                "description": "", 
+                "title": "LEFT PARENTHESIS LOWER HOOK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x239e", 
+                "description": "", 
+                "title": "RIGHT PARENTHESIS UPPER HOOK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x239f", 
+                "description": "", 
+                "title": "RIGHT PARENTHESIS EXTENSION"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23a0", 
+                "description": "", 
+                "title": "RIGHT PARENTHESIS LOWER HOOK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23a1", 
+                "description": "", 
+                "title": "LEFT SQUARE BRACKET UPPER CORNER"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23a2", 
+                "description": "", 
+                "title": "LEFT SQUARE BRACKET EXTENSION"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23a3", 
+                "description": "", 
+                "title": "LEFT SQUARE BRACKET LOWER CORNER"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23a4", 
+                "description": "", 
+                "title": "RIGHT SQUARE BRACKET UPPER CORNER"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23a5", 
+                "description": "", 
+                "title": "RIGHT SQUARE BRACKET EXTENSION"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23a6", 
+                "description": "", 
+                "title": "RIGHT SQUARE BRACKET LOWER CORNER"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23a7", 
+                "description": "", 
+                "title": "LEFT CURLY BRACKET UPPER HOOK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23a8", 
+                "description": "", 
+                "title": "LEFT CURLY BRACKET MIDDLE PIECE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23a9", 
+                "description": "", 
+                "title": "LEFT CURLY BRACKET LOWER HOOK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23aa", 
+                "description": "", 
+                "title": "CURLY BRACKET EXTENSION"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23ab", 
+                "description": "", 
+                "title": "RIGHT CURLY BRACKET UPPER HOOK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23ac", 
+                "description": "", 
+                "title": "RIGHT CURLY BRACKET MIDDLE PIECE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23ad", 
+                "description": "", 
+                "title": "RIGHT CURLY BRACKET LOWER HOOK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23ae", 
+                "description": "", 
+                "title": "INTEGRAL EXTENSION"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23af", 
+                "description": "", 
+                "title": "HORIZONTAL LINE EXTENSION"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23b0", 
+                "description": "", 
+                "title": "UPPER LEFT OR LOWER RIGHT CURLY BRACKET SECTION"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23b1", 
+                "description": "", 
+                "title": "UPPER RIGHT OR LOWER LEFT CURLY BRACKET SECTION"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Fragment", 
+                "charcode": "0x23b2", 
+                "description": "", 
+                "title": "SUMMATION TOP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Fragment", 
+                "charcode": "0x23b3", 
+                "description": "", 
+                "title": "SUMMATION BOTTOM"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Horizontal", 
+                "cat4": "", 
+                "charcode": "0x23b4", 
+                "description": "", 
+                "title": "TOP SQUARE BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Horizontal", 
+                "cat4": "", 
+                "charcode": "0x23b5", 
+                "description": "", 
+                "title": "BOTTOM SQUARE BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Horizontal", 
+                "cat4": "", 
+                "charcode": "0x23b6", 
+                "description": "", 
+                "title": "BOTTOM SQUARE BRACKET OVER TOP SQUARE BRACKET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Terminal", 
+                "cat4": "", 
+                "charcode": "0x23b7", 
+                "description": "", 
+                "title": "RADICAL SYMBOL BOTTOM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Terminal", 
+                "cat4": "", 
+                "charcode": "0x23b8", 
+                "description": "", 
+                "title": "LEFT VERTICAL BOX LINE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Terminal", 
+                "cat4": "", 
+                "charcode": "0x23b9", 
+                "description": "", 
+                "title": "RIGHT VERTICAL BOX LINE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Terminal", 
+                "cat4": "", 
+                "charcode": "0x23ba", 
+                "description": "", 
+                "title": "HORIZONTAL SCAN LINE-1"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Terminal", 
+                "cat4": "", 
+                "charcode": "0x23bb", 
+                "description": "", 
+                "title": "HORIZONTAL SCAN LINE-3"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Terminal", 
+                "cat4": "", 
+                "charcode": "0x23bc", 
+                "description": "", 
+                "title": "HORIZONTAL SCAN LINE-7"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Terminal", 
+                "cat4": "", 
+                "charcode": "0x23bd", 
+                "description": "", 
+                "title": "HORIZONTAL SCAN LINE-9"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Dentistry", 
+                "cat4": "", 
+                "charcode": "0x23be", 
+                "description": "", 
+                "title": "DENTISTRY SYMBOL LIGHT VERTICAL AND TOP RIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Dentistry", 
+                "cat4": "", 
+                "charcode": "0x23bf", 
+                "description": "", 
+                "title": "DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM RIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Dentistry", 
+                "cat4": "", 
+                "charcode": "0x23c0", 
+                "description": "", 
+                "title": "DENTISTRY SYMBOL LIGHT VERTICAL WITH CIRCLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Dentistry", 
+                "cat4": "", 
+                "charcode": "0x23c1", 
+                "description": "", 
+                "title": "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH CIRCLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Dentistry", 
+                "cat4": "", 
+                "charcode": "0x23c2", 
+                "description": "", 
+                "title": "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH CIRCLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Dentistry", 
+                "cat4": "", 
+                "charcode": "0x23c3", 
+                "description": "", 
+                "title": "DENTISTRY SYMBOL LIGHT VERTICAL WITH TRIANGLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Dentistry", 
+                "cat4": "", 
+                "charcode": "0x23c4", 
+                "description": "", 
+                "title": "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH TRIANGLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Dentistry", 
+                "cat4": "", 
+                "charcode": "0x23c5", 
+                "description": "", 
+                "title": "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH TRIANGLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Dentistry", 
+                "cat4": "", 
+                "charcode": "0x23c6", 
+                "description": "", 
+                "title": "DENTISTRY SYMBOL LIGHT VERTICAL AND WAVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Dentistry", 
+                "cat4": "", 
+                "charcode": "0x23c7", 
+                "description": "", 
+                "title": "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH WAVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Dentistry", 
+                "cat4": "", 
+                "charcode": "0x23c8", 
+                "description": "", 
+                "title": "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH WAVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Dentistry", 
+                "cat4": "", 
+                "charcode": "0x23c9", 
+                "description": "", 
+                "title": "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Dentistry", 
+                "cat4": "", 
+                "charcode": "0x23ca", 
+                "description": "", 
+                "title": "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Dentistry", 
+                "cat4": "", 
+                "charcode": "0x23cb", 
+                "description": "", 
+                "title": "DENTISTRY SYMBOL LIGHT VERTICAL AND TOP LEFT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Dentistry", 
+                "cat4": "", 
+                "charcode": "0x23cc", 
+                "description": "", 
+                "title": "DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM LEFT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23cd", 
+                "description": "", 
+                "title": "SQUARE FOOT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x23ce", 
+                "description": "", 
+                "title": "RETURN SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x23cf", 
+                "description": "", 
+                "title": "EJECT SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Fragment", 
+                "cat4": "", 
+                "charcode": "0x23d0", 
+                "description": "", 
+                "title": "VERTICAL LINE EXTENSION"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Metrical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23d1", 
+                "description": "", 
+                "title": "METRICAL BREVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Metrical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23d2", 
+                "description": "", 
+                "title": "METRICAL LONG OVER SHORT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Metrical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23d3", 
+                "description": "", 
+                "title": "METRICAL SHORT OVER LONG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Metrical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23d4", 
+                "description": "", 
+                "title": "METRICAL LONG OVER TWO SHORTS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Metrical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23d5", 
+                "description": "", 
+                "title": "METRICAL TWO SHORTS OVER LONG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Metrical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23d6", 
+                "description": "", 
+                "title": "METRICAL TWO SHORTS JOINED"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Metrical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23d7", 
+                "description": "", 
+                "title": "METRICAL TRISEME"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Metrical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23d8", 
+                "description": "", 
+                "title": "METRICAL TETRASEME"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Metrical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23d9", 
+                "description": "", 
+                "title": "METRICAL PENTASEME"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23da", 
+                "description": "", 
+                "title": "EARTH GROUND"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23db", 
+                "description": "", 
+                "title": "FUSE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Horizontal", 
+                "cat4": "", 
+                "charcode": "0x23dc", 
+                "description": "", 
+                "title": "TOP PARENTHESIS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Horizontal", 
+                "cat4": "", 
+                "charcode": "0x23dd", 
+                "description": "", 
+                "title": "BOTTOM PARENTHESIS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Horizontal", 
+                "cat4": "", 
+                "charcode": "0x23de", 
+                "description": "", 
+                "title": "TOP CURLY BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Horizontal", 
+                "cat4": "", 
+                "charcode": "0x23df", 
+                "description": "", 
+                "title": "BOTTOM CURLY BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Horizontal", 
+                "cat4": "", 
+                "charcode": "0x23e0", 
+                "description": "", 
+                "title": "TOP TORTOISE SHELL BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Horizontal", 
+                "cat4": "", 
+                "charcode": "0x23e1", 
+                "description": "", 
+                "title": "BOTTOM TORTOISE SHELL BRACKET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23e2", 
+                "description": "", 
+                "title": "WHITE TRAPEZIUM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Chemistry", 
+                "cat4": "", 
+                "charcode": "0x23e3", 
+                "description": "", 
+                "title": "BENZENE RING WITH CIRCLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23e4", 
+                "description": "", 
+                "title": "STRAIGHTNESS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23e5", 
+                "description": "", 
+                "title": "FLATNESS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23e6", 
+                "description": "", 
+                "title": "AC CURRENT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23e7", 
+                "description": "", 
+                "title": "ELECTRICAL INTERSECTION"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x23e8", 
+                "description": "", 
+                "title": "DECIMAL EXPONENT SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x23e9", 
+                "description": "", 
+                "title": "BLACK RIGHT-POINTING DOUBLE TRIANGLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x23ea", 
+                "description": "", 
+                "title": "BLACK LEFT-POINTING DOUBLE TRIANGLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x23eb", 
+                "description": "", 
+                "title": "BLACK UP-POINTING DOUBLE TRIANGLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x23ec", 
+                "description": "", 
+                "title": "BLACK DOWN-POINTING DOUBLE TRIANGLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x23ed", 
+                "description": "", 
+                "title": "BLACK RIGHT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x23ee", 
+                "description": "", 
+                "title": "BLACK LEFT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x23ef", 
+                "description": "", 
+                "title": "BLACK RIGHT-POINTING TRIANGLE WITH DOUBLE VERTICAL BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x23f0", 
+                "description": "", 
+                "title": "ALARM CLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x23f1", 
+                "description": "", 
+                "title": "STOPWATCH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x23f2", 
+                "description": "", 
+                "title": "TIMER CLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x23f3", 
+                "description": "", 
+                "title": "HOURGLASS WITH FLOWING SAND"
+            }, 
+            {
+                "charcode": "0x23f4", 
+                "description": "", 
+                "title": "BLACK MEDIUM LEFT-POINTING TRIANGLE"
+            }, 
+            {
+                "charcode": "0x23f5", 
+                "description": "", 
+                "title": "BLACK MEDIUM RIGHT-POINTING TRIANGLE"
+            }, 
+            {
+                "charcode": "0x23f6", 
+                "description": "", 
+                "title": "BLACK MEDIUM UP-POINTING TRIANGLE"
+            }, 
+            {
+                "charcode": "0x23f7", 
+                "description": "", 
+                "title": "BLACK MEDIUM DOWN-POINTING TRIANGLE"
+            }, 
+            {
+                "charcode": "0x23f8", 
+                "description": "", 
+                "title": "DOUBLE VERTICAL BAR"
+            }, 
+            {
+                "charcode": "0x23f9", 
+                "description": "", 
+                "title": "BLACK SQUARE FOR STOP"
+            }, 
+            {
+                "charcode": "0x23fa", 
+                "description": "", 
+                "title": "BLACK CIRCLE FOR RECORD"
+            }
+        ], 
+        "name": "Miscellaneous Technical"
+    }
+]

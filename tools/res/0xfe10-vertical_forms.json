@@ -1,0 +1,97 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe10", 
+                "description": "", 
+                "title": "PRESENTATION FORM FOR VERTICAL COMMA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe11", 
+                "description": "", 
+                "title": "PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC COMMA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe12", 
+                "description": "", 
+                "title": "PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC FULL STOP"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe13", 
+                "description": "", 
+                "title": "PRESENTATION FORM FOR VERTICAL COLON"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe14", 
+                "description": "", 
+                "title": "PRESENTATION FORM FOR VERTICAL SEMICOLON"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe15", 
+                "description": "", 
+                "title": "PRESENTATION FORM FOR VERTICAL EXCLAMATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe16", 
+                "description": "", 
+                "title": "PRESENTATION FORM FOR VERTICAL QUESTION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe17", 
+                "description": "", 
+                "title": "PRESENTATION FORM FOR VERTICAL LEFT WHITE LENTICULAR BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe18", 
+                "description": "", 
+                "title": "PRESENTATION FORM FOR VERTICAL RIGHT WHITE LENTICULAR BRAKCET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe19", 
+                "description": "", 
+                "title": "PRESENTATION FORM FOR VERTICAL HORIZONTAL ELLIPSIS"
+            }
+        ], 
+        "name": "Vertical Forms"
+    }
+]

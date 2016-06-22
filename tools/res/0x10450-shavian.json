@@ -1,0 +1,430 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10450", 
+                "description": "", 
+                "title": "SHAVIAN LETTER PEEP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10451", 
+                "description": "", 
+                "title": "SHAVIAN LETTER TOT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10452", 
+                "description": "", 
+                "title": "SHAVIAN LETTER KICK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10453", 
+                "description": "", 
+                "title": "SHAVIAN LETTER FEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10454", 
+                "description": "", 
+                "title": "SHAVIAN LETTER THIGH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10455", 
+                "description": "", 
+                "title": "SHAVIAN LETTER SO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10456", 
+                "description": "", 
+                "title": "SHAVIAN LETTER SURE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10457", 
+                "description": "", 
+                "title": "SHAVIAN LETTER CHURCH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10458", 
+                "description": "", 
+                "title": "SHAVIAN LETTER YEA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10459", 
+                "description": "", 
+                "title": "SHAVIAN LETTER HUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1045a", 
+                "description": "", 
+                "title": "SHAVIAN LETTER BIB"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1045b", 
+                "description": "", 
+                "title": "SHAVIAN LETTER DEAD"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1045c", 
+                "description": "", 
+                "title": "SHAVIAN LETTER GAG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1045d", 
+                "description": "", 
+                "title": "SHAVIAN LETTER VOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1045e", 
+                "description": "", 
+                "title": "SHAVIAN LETTER THEY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1045f", 
+                "description": "", 
+                "title": "SHAVIAN LETTER ZOO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10460", 
+                "description": "", 
+                "title": "SHAVIAN LETTER MEASURE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10461", 
+                "description": "", 
+                "title": "SHAVIAN LETTER JUDGE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10462", 
+                "description": "", 
+                "title": "SHAVIAN LETTER WOE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10463", 
+                "description": "", 
+                "title": "SHAVIAN LETTER HA-HA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10464", 
+                "description": "", 
+                "title": "SHAVIAN LETTER LOLL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10465", 
+                "description": "", 
+                "title": "SHAVIAN LETTER MIME"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10466", 
+                "description": "", 
+                "title": "SHAVIAN LETTER IF"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10467", 
+                "description": "", 
+                "title": "SHAVIAN LETTER EGG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10468", 
+                "description": "", 
+                "title": "SHAVIAN LETTER ASH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10469", 
+                "description": "", 
+                "title": "SHAVIAN LETTER ADO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1046a", 
+                "description": "", 
+                "title": "SHAVIAN LETTER ON"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1046b", 
+                "description": "", 
+                "title": "SHAVIAN LETTER WOOL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1046c", 
+                "description": "", 
+                "title": "SHAVIAN LETTER OUT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1046d", 
+                "description": "", 
+                "title": "SHAVIAN LETTER AH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1046e", 
+                "description": "", 
+                "title": "SHAVIAN LETTER ROAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1046f", 
+                "description": "", 
+                "title": "SHAVIAN LETTER NUN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10470", 
+                "description": "", 
+                "title": "SHAVIAN LETTER EAT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10471", 
+                "description": "", 
+                "title": "SHAVIAN LETTER AGE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10472", 
+                "description": "", 
+                "title": "SHAVIAN LETTER ICE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10473", 
+                "description": "", 
+                "title": "SHAVIAN LETTER UP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10474", 
+                "description": "", 
+                "title": "SHAVIAN LETTER OAK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10475", 
+                "description": "", 
+                "title": "SHAVIAN LETTER OOZE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10476", 
+                "description": "", 
+                "title": "SHAVIAN LETTER OIL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10477", 
+                "description": "", 
+                "title": "SHAVIAN LETTER AWE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10478", 
+                "description": "", 
+                "title": "SHAVIAN LETTER ARE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10479", 
+                "description": "", 
+                "title": "SHAVIAN LETTER OR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1047a", 
+                "description": "", 
+                "title": "SHAVIAN LETTER AIR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1047b", 
+                "description": "", 
+                "title": "SHAVIAN LETTER ERR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1047c", 
+                "description": "", 
+                "title": "SHAVIAN LETTER ARRAY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1047d", 
+                "description": "", 
+                "title": "SHAVIAN LETTER EAR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1047e", 
+                "description": "", 
+                "title": "SHAVIAN LETTER IAN"
+            }
+        ], 
+        "name": "Shavian"
+    }
+]

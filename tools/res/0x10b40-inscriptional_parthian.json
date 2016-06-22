@@ -1,0 +1,268 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b40", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER ALEPH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b41", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER BETH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b42", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER GIMEL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b43", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER DALETH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b44", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER HE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b45", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER WAW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b46", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER ZAYIN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b47", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER HETH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b48", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER TETH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b49", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER YODH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b4a", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER KAPH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b4b", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER LAMEDH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b4c", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER MEM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b4d", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER NUN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b4e", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER SAMEKH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b4f", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER AYIN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b50", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER PE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b51", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER SADHE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b52", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER QOPH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b53", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER RESH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b54", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER SHIN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b55", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN LETTER TAW"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b58", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN NUMBER ONE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b59", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN NUMBER TWO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b5a", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN NUMBER THREE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b5b", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN NUMBER FOUR"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b5c", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN NUMBER TEN"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b5d", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN NUMBER TWENTY"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b5e", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PARTHIAN NUMBER ONE HUNDRED"
+            }
+        ], 
+        "name": "Inscriptional Parthian"
+    }
+]

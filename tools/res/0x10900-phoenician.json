@@ -1,0 +1,259 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10900", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER ALF"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10901", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER BET"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10902", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER GAML"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10903", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER DELT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10904", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER HE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10905", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER WAU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10906", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER ZAI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10907", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER HET"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10908", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER TET"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10909", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER YOD"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1090a", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER KAF"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1090b", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER LAMD"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1090c", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER MEM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1090d", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER NUN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1090e", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER SEMK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1090f", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER AIN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10910", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER PE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10911", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER SADE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10912", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER QOF"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10913", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER ROSH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10914", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER SHIN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10915", 
+                "description": "", 
+                "title": "PHOENICIAN LETTER TAU"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10916", 
+                "description": "", 
+                "title": "PHOENICIAN NUMBER ONE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10917", 
+                "description": "", 
+                "title": "PHOENICIAN NUMBER TEN"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10918", 
+                "description": "", 
+                "title": "PHOENICIAN NUMBER TWENTY"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10919", 
+                "description": "", 
+                "title": "PHOENICIAN NUMBER ONE HUNDRED"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1091a", 
+                "description": "", 
+                "title": "PHOENICIAN NUMBER TWO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1091b", 
+                "description": "", 
+                "title": "PHOENICIAN NUMBER THREE"
+            }
+        ], 
+        "name": "Phoenician"
+    }
+]

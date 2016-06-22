@@ -1,0 +1,592 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a00", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x10a01", 
+                "description": "", 
+                "title": "KHAROSHTHI VOWEL SIGN I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x10a02", 
+                "description": "", 
+                "title": "KHAROSHTHI VOWEL SIGN U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x10a03", 
+                "description": "", 
+                "title": "KHAROSHTHI VOWEL SIGN VOCALIC R"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x10a05", 
+                "description": "", 
+                "title": "KHAROSHTHI VOWEL SIGN E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x10a06", 
+                "description": "", 
+                "title": "KHAROSHTHI VOWEL SIGN O"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Length", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a0c", 
+                "description": "", 
+                "title": "KHAROSHTHI VOWEL LENGTH MARK"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a0d", 
+                "description": "", 
+                "title": "KHAROSHTHI SIGN DOUBLE RING BELOW"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a0e", 
+                "description": "", 
+                "title": "KHAROSHTHI SIGN ANUSVARA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a0f", 
+                "description": "", 
+                "title": "KHAROSHTHI SIGN VISARGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a10", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER KA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a11", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER KHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a12", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER GA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a13", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER GHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a15", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER CA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a16", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER CHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a17", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER JA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a19", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER NYA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a1a", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER TTA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a1b", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER TTHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a1c", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER DDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a1d", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER DDHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a1e", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER NNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a1f", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER TA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a20", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER THA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a21", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER DA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a22", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER DHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a23", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER NA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a24", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER PA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a25", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER PHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a26", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER BA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a27", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER BHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a28", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER MA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a29", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER YA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a2a", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER RA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a2b", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER LA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a2c", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER VA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a2d", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER SHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a2e", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER SSA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a2f", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER SA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a30", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER ZA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a31", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER HA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a32", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER KKA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a33", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER TTTHA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a38", 
+                "description": "", 
+                "title": "KHAROSHTHI SIGN BAR ABOVE"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a39", 
+                "description": "", 
+                "title": "KHAROSHTHI SIGN CAUDA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a3a", 
+                "description": "", 
+                "title": "KHAROSHTHI SIGN DOT BELOW"
+            }, 
+            {
+                "cat1": "Virama", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a3f", 
+                "description": "", 
+                "title": "KHAROSHTHI VIRAMA"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a40", 
+                "description": "", 
+                "title": "KHAROSHTHI DIGIT ONE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a41", 
+                "description": "", 
+                "title": "KHAROSHTHI DIGIT TWO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a42", 
+                "description": "", 
+                "title": "KHAROSHTHI DIGIT THREE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a43", 
+                "description": "", 
+                "title": "KHAROSHTHI DIGIT FOUR"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a44", 
+                "description": "", 
+                "title": "KHAROSHTHI NUMBER TEN"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a45", 
+                "description": "", 
+                "title": "KHAROSHTHI NUMBER TWENTY"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a46", 
+                "description": "", 
+                "title": "KHAROSHTHI NUMBER ONE HUNDRED"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a47", 
+                "description": "", 
+                "title": "KHAROSHTHI NUMBER ONE THOUSAND"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a50", 
+                "description": "", 
+                "title": "KHAROSHTHI PUNCTUATION DOT"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a51", 
+                "description": "", 
+                "title": "KHAROSHTHI PUNCTUATION SMALL CIRCLE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a52", 
+                "description": "", 
+                "title": "KHAROSHTHI PUNCTUATION CIRCLE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a53", 
+                "description": "", 
+                "title": "KHAROSHTHI PUNCTUATION CRESCENT BAR"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a54", 
+                "description": "", 
+                "title": "KHAROSHTHI PUNCTUATION MANGALAM"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a55", 
+                "description": "", 
+                "title": "KHAROSHTHI PUNCTUATION LOTUS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a56", 
+                "description": "", 
+                "title": "KHAROSHTHI PUNCTUATION DANDA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a57", 
+                "description": "", 
+                "title": "KHAROSHTHI PUNCTUATION DOUBLE DANDA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10a58", 
+                "description": "", 
+                "title": "KHAROSHTHI PUNCTUATION LINES"
+            }
+        ], 
+        "name": "Kharoshthi"
+    }
+]

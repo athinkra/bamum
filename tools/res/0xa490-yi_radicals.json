@@ -1,0 +1,502 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa490", 
+                "description": "", 
+                "title": "YI RADICAL QOT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa491", 
+                "description": "", 
+                "title": "YI RADICAL LI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa492", 
+                "description": "", 
+                "title": "YI RADICAL KIT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa493", 
+                "description": "", 
+                "title": "YI RADICAL NYIP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa494", 
+                "description": "", 
+                "title": "YI RADICAL CYP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa495", 
+                "description": "", 
+                "title": "YI RADICAL SSI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa496", 
+                "description": "", 
+                "title": "YI RADICAL GGOP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa497", 
+                "description": "", 
+                "title": "YI RADICAL GEP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa498", 
+                "description": "", 
+                "title": "YI RADICAL MI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa499", 
+                "description": "", 
+                "title": "YI RADICAL HXIT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa49a", 
+                "description": "", 
+                "title": "YI RADICAL LYR"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa49b", 
+                "description": "", 
+                "title": "YI RADICAL BBUT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa49c", 
+                "description": "", 
+                "title": "YI RADICAL MOP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa49d", 
+                "description": "", 
+                "title": "YI RADICAL YO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa49e", 
+                "description": "", 
+                "title": "YI RADICAL PUT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa49f", 
+                "description": "", 
+                "title": "YI RADICAL HXUO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4a0", 
+                "description": "", 
+                "title": "YI RADICAL TAT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4a1", 
+                "description": "", 
+                "title": "YI RADICAL GA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4a2", 
+                "description": "", 
+                "title": "YI RADICAL ZUP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4a3", 
+                "description": "", 
+                "title": "YI RADICAL CYT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4a4", 
+                "description": "", 
+                "title": "YI RADICAL DDUR"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4a5", 
+                "description": "", 
+                "title": "YI RADICAL BUR"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4a6", 
+                "description": "", 
+                "title": "YI RADICAL GGUO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4a7", 
+                "description": "", 
+                "title": "YI RADICAL NYOP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4a8", 
+                "description": "", 
+                "title": "YI RADICAL TU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4a9", 
+                "description": "", 
+                "title": "YI RADICAL OP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4aa", 
+                "description": "", 
+                "title": "YI RADICAL JJUT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4ab", 
+                "description": "", 
+                "title": "YI RADICAL ZOT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4ac", 
+                "description": "", 
+                "title": "YI RADICAL PYT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4ad", 
+                "description": "", 
+                "title": "YI RADICAL HMO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4ae", 
+                "description": "", 
+                "title": "YI RADICAL YIT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4af", 
+                "description": "", 
+                "title": "YI RADICAL VUR"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4b0", 
+                "description": "", 
+                "title": "YI RADICAL SHY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4b1", 
+                "description": "", 
+                "title": "YI RADICAL VEP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4b2", 
+                "description": "", 
+                "title": "YI RADICAL ZA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4b3", 
+                "description": "", 
+                "title": "YI RADICAL JO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4b4", 
+                "description": "", 
+                "title": "YI RADICAL NZUP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4b5", 
+                "description": "", 
+                "title": "YI RADICAL JJY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4b6", 
+                "description": "", 
+                "title": "YI RADICAL GOT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4b7", 
+                "description": "", 
+                "title": "YI RADICAL JJIE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4b8", 
+                "description": "", 
+                "title": "YI RADICAL WO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4b9", 
+                "description": "", 
+                "title": "YI RADICAL DU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4ba", 
+                "description": "", 
+                "title": "YI RADICAL SHUR"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4bb", 
+                "description": "", 
+                "title": "YI RADICAL LIE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4bc", 
+                "description": "", 
+                "title": "YI RADICAL CY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4bd", 
+                "description": "", 
+                "title": "YI RADICAL CUOP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4be", 
+                "description": "", 
+                "title": "YI RADICAL CIP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4bf", 
+                "description": "", 
+                "title": "YI RADICAL HXOP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4c0", 
+                "description": "", 
+                "title": "YI RADICAL SHAT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4c1", 
+                "description": "", 
+                "title": "YI RADICAL ZUR"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4c2", 
+                "description": "", 
+                "title": "YI RADICAL SHOP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4c3", 
+                "description": "", 
+                "title": "YI RADICAL CHE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4c4", 
+                "description": "", 
+                "title": "YI RADICAL ZZIET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4c5", 
+                "description": "", 
+                "title": "YI RADICAL NBIE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Radical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4c6", 
+                "description": "", 
+                "title": "YI RADICAL KE"
+            }
+        ], 
+        "name": "Yi Radicals"
+    }
+]

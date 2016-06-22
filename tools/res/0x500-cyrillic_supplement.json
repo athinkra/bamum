@@ -1,0 +1,402 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x500", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER KOMI DE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x501", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER KOMI DE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x502", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER KOMI DJE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x503", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER KOMI DJE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x504", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER KOMI ZJE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x505", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER KOMI ZJE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x506", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER KOMI DZJE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x507", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER KOMI DZJE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x508", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER KOMI LJE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x509", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER KOMI LJE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x50a", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER KOMI NJE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x50b", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER KOMI NJE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x50c", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER KOMI SJE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x50d", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER KOMI SJE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x50e", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER KOMI TJE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x50f", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER KOMI TJE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x510", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER REVERSED ZE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x511", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER REVERSED ZE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x512", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER EL WITH HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x513", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER EL WITH HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x514", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER LHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x515", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER LHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x516", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER RHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x517", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER RHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x518", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER YAE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x519", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER YAE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x51a", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER QA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x51b", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER QA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x51c", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER WE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x51d", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER WE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x51e", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER ALEUT KA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x51f", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER ALEUT KA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x520", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER EL WITH MIDDLE HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x521", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER EL WITH MIDDLE HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x522", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER EN WITH MIDDLE HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x523", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER EN WITH MIDDLE HOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x524", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER PE WITH DESCENDER"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x525", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER PE WITH DESCENDER"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x526", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER SHHA WITH DESCENDER"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x527", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER SHHA WITH DESCENDER"
+            }, 
+            {
+                "charcode": "0x528", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER EN WITH LEFT HOOK"
+            }, 
+            {
+                "charcode": "0x529", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER EN WITH LEFT HOOK"
+            }, 
+            {
+                "charcode": "0x52a", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER DZZHE"
+            }, 
+            {
+                "charcode": "0x52b", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER DZZHE"
+            }, 
+            {
+                "charcode": "0x52c", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER DCHE"
+            }, 
+            {
+                "charcode": "0x52d", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER DCHE"
+            }, 
+            {
+                "charcode": "0x52e", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER EL WITH DESCENDER"
+            }
+        ], 
+        "name": "Cyrillic Supplement"
+    }
+]

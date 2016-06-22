@@ -1,0 +1,286 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10980", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10981", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10982", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10983", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10984", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER YA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10985", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER WA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10986", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER BA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10987", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER BA-2"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10988", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER PA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10989", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER MA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1098a", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER NA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1098b", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER NA-2"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1098c", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER NE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1098d", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER NE-2"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1098e", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER RA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1098f", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER RA-2"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10990", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER LA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10991", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER KHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10992", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER HHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10993", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER SA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10994", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER SA-2"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10995", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER SE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10996", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER KA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10997", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER QA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10998", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER TA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10999", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER TA-2"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1099a", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER TE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1099b", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER TE-2"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1099c", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER TO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1099d", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC LETTER DA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1099e", 
+                "description": "", 
+                "title": "MEROITIC HIEROGLYPHIC SYMBOL VIDJ"
+            }
+        ], 
+        "name": "Meroitic Hieroglyphs"
+    }
+]

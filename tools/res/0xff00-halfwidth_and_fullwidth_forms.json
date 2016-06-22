@@ -1,0 +1,2032 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff01", 
+                "description": "", 
+                "title": "FULLWIDTH EXCLAMATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff02", 
+                "description": "", 
+                "title": "FULLWIDTH QUOTATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff03", 
+                "description": "", 
+                "title": "FULLWIDTH NUMBER SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff04", 
+                "description": "", 
+                "title": "FULLWIDTH DOLLAR SIGN"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff05", 
+                "description": "", 
+                "title": "FULLWIDTH PERCENT SIGN"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff06", 
+                "description": "", 
+                "title": "FULLWIDTH AMPERSAND"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff07", 
+                "description": "", 
+                "title": "FULLWIDTH APOSTROPHE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff08", 
+                "description": "FULLWIDTH OPENING PARENTHESIS", 
+                "title": "FULLWIDTH LEFT PARENTHESIS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff09", 
+                "description": "FULLWIDTH CLOSING PARENTHESIS", 
+                "title": "FULLWIDTH RIGHT PARENTHESIS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff0a", 
+                "description": "", 
+                "title": "FULLWIDTH ASTERISK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
+                "charcode": "0xff0b", 
+                "description": "", 
+                "title": "FULLWIDTH PLUS SIGN"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff0c", 
+                "description": "", 
+                "title": "FULLWIDTH COMMA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Dash", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff0d", 
+                "description": "", 
+                "title": "FULLWIDTH HYPHEN-MINUS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff0e", 
+                "description": "FULLWIDTH PERIOD", 
+                "title": "FULLWIDTH FULL STOP"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff0f", 
+                "description": "FULLWIDTH SLASH", 
+                "title": "FULLWIDTH SOLIDUS"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff10", 
+                "description": "", 
+                "title": "FULLWIDTH DIGIT ZERO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff11", 
+                "description": "", 
+                "title": "FULLWIDTH DIGIT ONE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff12", 
+                "description": "", 
+                "title": "FULLWIDTH DIGIT TWO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff13", 
+                "description": "", 
+                "title": "FULLWIDTH DIGIT THREE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff14", 
+                "description": "", 
+                "title": "FULLWIDTH DIGIT FOUR"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff15", 
+                "description": "", 
+                "title": "FULLWIDTH DIGIT FIVE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff16", 
+                "description": "", 
+                "title": "FULLWIDTH DIGIT SIX"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff17", 
+                "description": "", 
+                "title": "FULLWIDTH DIGIT SEVEN"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff18", 
+                "description": "", 
+                "title": "FULLWIDTH DIGIT EIGHT"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff19", 
+                "description": "", 
+                "title": "FULLWIDTH DIGIT NINE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff1a", 
+                "description": "", 
+                "title": "FULLWIDTH COLON"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff1b", 
+                "description": "", 
+                "title": "FULLWIDTH SEMICOLON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
+                "charcode": "0xff1c", 
+                "description": "", 
+                "title": "FULLWIDTH LESS-THAN SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
+                "charcode": "0xff1d", 
+                "description": "", 
+                "title": "FULLWIDTH EQUALS SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
+                "charcode": "0xff1e", 
+                "description": "", 
+                "title": "FULLWIDTH GREATER-THAN SIGN"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff1f", 
+                "description": "", 
+                "title": "FULLWIDTH QUESTION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff20", 
+                "description": "", 
+                "title": "FULLWIDTH COMMERCIAL AT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff21", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff22", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER B"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff23", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER C"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff24", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER D"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff25", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff26", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER F"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff27", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER G"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff28", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER H"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff29", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff2a", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER J"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff2b", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER K"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff2c", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER L"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff2d", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER M"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff2e", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER N"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff2f", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff30", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER P"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff31", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER Q"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff32", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER R"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff33", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER S"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff34", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER T"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff35", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff36", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER V"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff37", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER W"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff38", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER X"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff39", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER Y"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff3a", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN CAPITAL LETTER Z"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff3b", 
+                "description": "FULLWIDTH OPENING SQUARE BRACKET", 
+                "title": "FULLWIDTH LEFT SQUARE BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff3c", 
+                "description": "FULLWIDTH BACKSLASH", 
+                "title": "FULLWIDTH REVERSE SOLIDUS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff3d", 
+                "description": "FULLWIDTH CLOSING SQUARE BRACKET", 
+                "title": "FULLWIDTH RIGHT SQUARE BRACKET"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Spacing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff3e", 
+                "description": "FULLWIDTH SPACING CIRCUMFLEX", 
+                "title": "FULLWIDTH CIRCUMFLEX ACCENT"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff3f", 
+                "description": "FULLWIDTH SPACING UNDERSCORE", 
+                "title": "FULLWIDTH LOW LINE"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Spacing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff40", 
+                "description": "FULLWIDTH SPACING GRAVE", 
+                "title": "FULLWIDTH GRAVE ACCENT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff41", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff42", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER B"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff43", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER C"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff44", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER D"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff45", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff46", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER F"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff47", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER G"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff48", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER H"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff49", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff4a", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER J"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff4b", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER K"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff4c", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER L"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff4d", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER M"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff4e", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER N"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff4f", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff50", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER P"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff51", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER Q"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff52", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER R"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff53", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER S"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff54", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER T"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff55", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff56", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER V"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff57", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER W"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff58", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER X"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff59", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER Y"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff5a", 
+                "description": "", 
+                "title": "FULLWIDTH LATIN SMALL LETTER Z"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff5b", 
+                "description": "FULLWIDTH OPENING CURLY BRACKET", 
+                "title": "FULLWIDTH LEFT CURLY BRACKET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff5c", 
+                "description": "FULLWIDTH VERTICAL BAR", 
+                "title": "FULLWIDTH VERTICAL LINE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff5d", 
+                "description": "FULLWIDTH CLOSING CURLY BRACKET", 
+                "title": "FULLWIDTH RIGHT CURLY BRACKET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff5e", 
+                "description": "FULLWIDTH SPACING TILDE", 
+                "title": "FULLWIDTH TILDE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "", 
+                "charcode": "0xff5f", 
+                "description": "", 
+                "title": "FULLWIDTH LEFT WHITE PARENTHESIS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "", 
+                "charcode": "0xff60", 
+                "description": "", 
+                "title": "FULLWIDTH RIGHT WHITE PARENTHESIS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff61", 
+                "description": "HALFWIDTH IDEOGRAPHIC PERIOD", 
+                "title": "HALFWIDTH IDEOGRAPHIC FULL STOP"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "Corner", 
+                "charcode": "0xff62", 
+                "description": "HALFWIDTH OPENING CORNER BRACKET", 
+                "title": "HALFWIDTH LEFT CORNER BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "Corner", 
+                "charcode": "0xff63", 
+                "description": "HALFWIDTH CLOSING CORNER BRACKET", 
+                "title": "HALFWIDTH RIGHT CORNER BRACKET"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff64", 
+                "description": "", 
+                "title": "HALFWIDTH IDEOGRAPHIC COMMA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff65", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA MIDDLE DOT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff66", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER WO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff67", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER SMALL A"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff68", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER SMALL I"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff69", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER SMALL U"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff6a", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER SMALL E"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff6b", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER SMALL O"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff6c", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER SMALL YA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff6d", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER SMALL YU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff6e", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER SMALL YO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff6f", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER SMALL TU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Modifier", 
+                "cat3": "Length", 
+                "cat4": "", 
+                "charcode": "0xff70", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA-HIRAGANA PROLONGED SOUND MARK"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff71", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER A"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff72", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER I"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff73", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER U"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff74", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER E"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff75", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER O"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff76", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER KA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff77", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER KI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff78", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER KU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff79", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER KE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff7a", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER KO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff7b", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER SA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff7c", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER SI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff7d", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER SU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff7e", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER SE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff7f", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER SO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff80", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER TA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff81", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER TI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff82", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER TU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff83", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER TE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff84", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER TO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff85", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER NA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff86", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER NI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff87", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER NU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff88", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER NE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff89", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER NO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff8a", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER HA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff8b", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER HI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff8c", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER HU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff8d", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER HE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff8e", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER HO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff8f", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER MA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff90", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER MI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff91", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER MU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff92", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER ME"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff93", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER MO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff94", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER YA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff95", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER YU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff96", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER YO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff97", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER RA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff98", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER RI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff99", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER RU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff9a", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER RE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff9b", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER RO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff9c", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER WA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff9d", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA LETTER N"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff9e", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA VOICED SOUND MARK"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff9f", 
+                "description": "", 
+                "title": "HALFWIDTH KATAKANA SEMI-VOICED SOUND MARK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Filler", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffa0", 
+                "description": "HALFWIDTH HANGUL CAE OM", 
+                "title": "HALFWIDTH HANGUL FILLER"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffa1", 
+                "description": "HALFWIDTH HANGUL LETTER GIYEOG", 
+                "title": "HALFWIDTH HANGUL LETTER KIYEOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffa2", 
+                "description": "HALFWIDTH HANGUL LETTER SSANG GIYEOG", 
+                "title": "HALFWIDTH HANGUL LETTER SSANGKIYEOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffa3", 
+                "description": "HALFWIDTH HANGUL LETTER GIYEOG SIOS", 
+                "title": "HALFWIDTH HANGUL LETTER KIYEOK-SIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffa4", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER NIEUN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffa5", 
+                "description": "HALFWIDTH HANGUL LETTER NIEUN JIEUJ", 
+                "title": "HALFWIDTH HANGUL LETTER NIEUN-CIEUC"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffa6", 
+                "description": "HALFWIDTH HANGUL LETTER NIEUN HIEUH", 
+                "title": "HALFWIDTH HANGUL LETTER NIEUN-HIEUH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffa7", 
+                "description": "HALFWIDTH HANGUL LETTER DIGEUD", 
+                "title": "HALFWIDTH HANGUL LETTER TIKEUT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffa8", 
+                "description": "HALFWIDTH HANGUL LETTER SSANG DIGEUD", 
+                "title": "HALFWIDTH HANGUL LETTER SSANGTIKEUT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffa9", 
+                "description": "HALFWIDTH HANGUL LETTER LIEUL", 
+                "title": "HALFWIDTH HANGUL LETTER RIEUL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffaa", 
+                "description": "HALFWIDTH HANGUL LETTER LIEUL GIYEOG", 
+                "title": "HALFWIDTH HANGUL LETTER RIEUL-KIYEOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffab", 
+                "description": "HALFWIDTH HANGUL LETTER LIEUL MIEUM", 
+                "title": "HALFWIDTH HANGUL LETTER RIEUL-MIEUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffac", 
+                "description": "HALFWIDTH HANGUL LETTER LIEUL BIEUB", 
+                "title": "HALFWIDTH HANGUL LETTER RIEUL-PIEUP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffad", 
+                "description": "HALFWIDTH HANGUL LETTER LIEUL SIOS", 
+                "title": "HALFWIDTH HANGUL LETTER RIEUL-SIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffae", 
+                "description": "HALFWIDTH HANGUL LETTER LIEUL TIEUT", 
+                "title": "HALFWIDTH HANGUL LETTER RIEUL-THIEUTH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffaf", 
+                "description": "HALFWIDTH HANGUL LETTER LIEUL PIEUP", 
+                "title": "HALFWIDTH HANGUL LETTER RIEUL-PHIEUPH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffb0", 
+                "description": "HALFWIDTH HANGUL LETTER LIEUL HIEUH", 
+                "title": "HALFWIDTH HANGUL LETTER RIEUL-HIEUH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffb1", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER MIEUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffb2", 
+                "description": "HALFWIDTH HANGUL LETTER BIEUB", 
+                "title": "HALFWIDTH HANGUL LETTER PIEUP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffb3", 
+                "description": "HALFWIDTH HANGUL LETTER SSANG BIEUB", 
+                "title": "HALFWIDTH HANGUL LETTER SSANGPIEUP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffb4", 
+                "description": "HALFWIDTH HANGUL LETTER BIEUB SIOS", 
+                "title": "HALFWIDTH HANGUL LETTER PIEUP-SIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffb5", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER SIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffb6", 
+                "description": "HALFWIDTH HANGUL LETTER SSANG SIOS", 
+                "title": "HALFWIDTH HANGUL LETTER SSANGSIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffb7", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER IEUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffb8", 
+                "description": "HALFWIDTH HANGUL LETTER JIEUJ", 
+                "title": "HALFWIDTH HANGUL LETTER CIEUC"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffb9", 
+                "description": "HALFWIDTH HANGUL LETTER SSANG JIEUJ", 
+                "title": "HALFWIDTH HANGUL LETTER SSANGCIEUC"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffba", 
+                "description": "HALFWIDTH HANGUL LETTER CIEUC", 
+                "title": "HALFWIDTH HANGUL LETTER CHIEUCH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffbb", 
+                "description": "HALFWIDTH HANGUL LETTER KIYEOK", 
+                "title": "HALFWIDTH HANGUL LETTER KHIEUKH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffbc", 
+                "description": "HALFWIDTH HANGUL LETTER TIEUT", 
+                "title": "HALFWIDTH HANGUL LETTER THIEUTH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffbd", 
+                "description": "HALFWIDTH HANGUL LETTER PIEUP", 
+                "title": "HALFWIDTH HANGUL LETTER PHIEUPH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffbe", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER HIEUH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffc2", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffc3", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER AE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffc4", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER YA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffc5", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER YAE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffc6", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER EO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffc7", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffca", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER YEO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffcb", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER YE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffcc", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffcd", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER WA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffce", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER WAE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffcf", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER OE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffd2", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER YO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffd3", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffd4", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER WEO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffd5", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER WE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffd6", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER WI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffd7", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER YU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffda", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER EU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffdb", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER YI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0xffdc", 
+                "description": "", 
+                "title": "HALFWIDTH HANGUL LETTER I"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffe0", 
+                "description": "", 
+                "title": "FULLWIDTH CENT SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffe1", 
+                "description": "", 
+                "title": "FULLWIDTH POUND SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffe2", 
+                "description": "", 
+                "title": "FULLWIDTH NOT SIGN"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Spacing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffe3", 
+                "description": "FULLWIDTH SPACING MACRON", 
+                "title": "FULLWIDTH MACRON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffe4", 
+                "description": "FULLWIDTH BROKEN VERTICAL BAR", 
+                "title": "FULLWIDTH BROKEN BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffe5", 
+                "description": "", 
+                "title": "FULLWIDTH YEN SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffe6", 
+                "description": "", 
+                "title": "FULLWIDTH WON SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
+                "charcode": "0xffe8", 
+                "description": "", 
+                "title": "HALFWIDTH FORMS LIGHT VERTICAL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffe9", 
+                "description": "", 
+                "title": "HALFWIDTH LEFTWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffea", 
+                "description": "", 
+                "title": "HALFWIDTH UPWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffeb", 
+                "description": "", 
+                "title": "HALFWIDTH RIGHTWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffec", 
+                "description": "", 
+                "title": "HALFWIDTH DOWNWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffed", 
+                "description": "", 
+                "title": "HALFWIDTH BLACK SQUARE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xffee", 
+                "description": "", 
+                "title": "HALFWIDTH WHITE CIRCLE"
+            }
+        ], 
+        "name": "Halfwidth and Fullwidth Forms"
+    }
+]

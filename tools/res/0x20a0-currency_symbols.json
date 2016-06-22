@@ -1,0 +1,266 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20a0", 
+                "description": "", 
+                "title": "EURO-CURRENCY SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20a1", 
+                "description": "", 
+                "title": "COLON SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20a2", 
+                "description": "", 
+                "title": "CRUZEIRO SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20a3", 
+                "description": "", 
+                "title": "FRENCH FRANC SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20a4", 
+                "description": "", 
+                "title": "LIRA SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20a5", 
+                "description": "", 
+                "title": "MILL SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20a6", 
+                "description": "", 
+                "title": "NAIRA SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20a7", 
+                "description": "", 
+                "title": "PESETA SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20a8", 
+                "description": "", 
+                "title": "RUPEE SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20a9", 
+                "description": "", 
+                "title": "WON SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20aa", 
+                "description": "", 
+                "title": "NEW SHEQEL SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20ab", 
+                "description": "", 
+                "title": "DONG SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20ac", 
+                "description": "", 
+                "title": "EURO SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20ad", 
+                "description": "", 
+                "title": "KIP SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20ae", 
+                "description": "", 
+                "title": "TUGRIK SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20af", 
+                "description": "", 
+                "title": "DRACHMA SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20b0", 
+                "description": "", 
+                "title": "GERMAN PENNY SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20b1", 
+                "description": "", 
+                "title": "PESO SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20b2", 
+                "description": "", 
+                "title": "GUARANI SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20b3", 
+                "description": "", 
+                "title": "AUSTRAL SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20b4", 
+                "description": "", 
+                "title": "HRYVNIA SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20b5", 
+                "description": "", 
+                "title": "CEDI SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20b6", 
+                "description": "", 
+                "title": "LIVRE TOURNOIS SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20b7", 
+                "description": "", 
+                "title": "SPESMILO SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20b8", 
+                "description": "", 
+                "title": "TENGE SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x20b9", 
+                "description": "", 
+                "title": "INDIAN RUPEE SIGN"
+            }, 
+            {
+                "charcode": "0x20ba", 
+                "description": "", 
+                "title": "TURKISH LIRA SIGN"
+            }, 
+            {
+                "charcode": "0x20bb", 
+                "description": "", 
+                "title": "NORDIC MARK SIGN"
+            }, 
+            {
+                "charcode": "0x20bc", 
+                "description": "", 
+                "title": "MANAT SIGN"
+            }, 
+            {
+                "charcode": "0x20bd", 
+                "description": "", 
+                "title": "RUBLE SIGN"
+            }, 
+            {
+                "charcode": "0x20be", 
+                "description": "", 
+                "title": "LARI SIGN"
+            }
+        ], 
+        "name": "Currency Symbols"
+    }
+]

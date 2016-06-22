@@ -1,0 +1,286 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x2580", 
+                "description": "", 
+                "title": "UPPER HALF BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x2581", 
+                "description": "", 
+                "title": "LOWER ONE EIGHTH BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x2582", 
+                "description": "", 
+                "title": "LOWER ONE QUARTER BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x2583", 
+                "description": "", 
+                "title": "LOWER THREE EIGHTHS BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x2584", 
+                "description": "", 
+                "title": "LOWER HALF BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x2585", 
+                "description": "", 
+                "title": "LOWER FIVE EIGHTHS BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x2586", 
+                "description": "LOWER THREE QUARTER BLOCK", 
+                "title": "LOWER THREE QUARTERS BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x2587", 
+                "description": "", 
+                "title": "LOWER SEVEN EIGHTHS BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x2588", 
+                "description": "", 
+                "title": "FULL BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x2589", 
+                "description": "", 
+                "title": "LEFT SEVEN EIGHTHS BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x258a", 
+                "description": "LEFT THREE QUARTER BLOCK", 
+                "title": "LEFT THREE QUARTERS BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x258b", 
+                "description": "", 
+                "title": "LEFT FIVE EIGHTHS BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x258c", 
+                "description": "", 
+                "title": "LEFT HALF BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x258d", 
+                "description": "", 
+                "title": "LEFT THREE EIGHTHS BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x258e", 
+                "description": "", 
+                "title": "LEFT ONE QUARTER BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x258f", 
+                "description": "", 
+                "title": "LEFT ONE EIGHTH BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x2590", 
+                "description": "", 
+                "title": "RIGHT HALF BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Shade", 
+                "cat4": "", 
+                "charcode": "0x2591", 
+                "description": "", 
+                "title": "LIGHT SHADE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Shade", 
+                "cat4": "", 
+                "charcode": "0x2592", 
+                "description": "", 
+                "title": "MEDIUM SHADE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Shade", 
+                "cat4": "", 
+                "charcode": "0x2593", 
+                "description": "", 
+                "title": "DARK SHADE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x2594", 
+                "description": "", 
+                "title": "UPPER ONE EIGHTH BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Block", 
+                "cat4": "", 
+                "charcode": "0x2595", 
+                "description": "", 
+                "title": "RIGHT ONE EIGHTH BLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Terminal", 
+                "cat4": "", 
+                "charcode": "0x2596", 
+                "description": "", 
+                "title": "QUADRANT LOWER LEFT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Terminal", 
+                "cat4": "", 
+                "charcode": "0x2597", 
+                "description": "", 
+                "title": "QUADRANT LOWER RIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Terminal", 
+                "cat4": "", 
+                "charcode": "0x2598", 
+                "description": "", 
+                "title": "QUADRANT UPPER LEFT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Terminal", 
+                "cat4": "", 
+                "charcode": "0x2599", 
+                "description": "", 
+                "title": "QUADRANT UPPER LEFT AND LOWER LEFT AND LOWER RIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Terminal", 
+                "cat4": "", 
+                "charcode": "0x259a", 
+                "description": "", 
+                "title": "QUADRANT UPPER LEFT AND LOWER RIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Terminal", 
+                "cat4": "", 
+                "charcode": "0x259b", 
+                "description": "", 
+                "title": "QUADRANT UPPER LEFT AND UPPER RIGHT AND LOWER LEFT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Terminal", 
+                "cat4": "", 
+                "charcode": "0x259c", 
+                "description": "", 
+                "title": "QUADRANT UPPER LEFT AND UPPER RIGHT AND LOWER RIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Terminal", 
+                "cat4": "", 
+                "charcode": "0x259d", 
+                "description": "", 
+                "title": "QUADRANT UPPER RIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Terminal", 
+                "cat4": "", 
+                "charcode": "0x259e", 
+                "description": "", 
+                "title": "QUADRANT UPPER RIGHT AND LOWER LEFT"
+            }
+        ], 
+        "name": "Block Elements"
+    }
+]

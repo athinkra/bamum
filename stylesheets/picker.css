@@ -18,7 +18,8 @@ html {overflow-y: scroll;}  */
   width:100%;
 }
 
-#buttons button { font-size: 130%; background: none; border: none; min-width: 4.5ex}
+#buttons button { font-size: 130%; background: none; border: none; min-width: 4.5ex; min-height: 3ex;}
+#buttons button[title^="SPACE"] { padding-top: 1.5ex; }
 div.big { font-size: 200%; text-align: center; }
 #buttons h2 { 
 	text-shadow: 2px 2px 2px silver;
@@ -38,7 +39,7 @@ div.big { font-size: 200%; text-align: center; }
   background: #ddf;
 }
 
-#buttons.list button:after {content: " – " attr(title); font-size: 25%;}
+#buttons.list button:after {content: " – " attr(title); font-size: 100%;}
 #buttons.list button {display: block; border-bottom: 1px solid silver; width: 100%; text-align: start}
 
 #input.fixed { position: fixed; top: 10px; left: 10px; right: 10px; opacity: 0.9; width: 90%; margin: auto; }

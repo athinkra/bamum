@@ -1,0 +1,702 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f600", 
+                "description": "", 
+                "title": "GRINNING FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f601", 
+                "description": "", 
+                "title": "GRINNING FACE WITH SMILING EYES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f602", 
+                "description": "", 
+                "title": "FACE WITH TEARS OF JOY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f603", 
+                "description": "", 
+                "title": "SMILING FACE WITH OPEN MOUTH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f604", 
+                "description": "", 
+                "title": "SMILING FACE WITH OPEN MOUTH AND SMILING EYES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f605", 
+                "description": "", 
+                "title": "SMILING FACE WITH OPEN MOUTH AND COLD SWEAT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f606", 
+                "description": "", 
+                "title": "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f607", 
+                "description": "", 
+                "title": "SMILING FACE WITH HALO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f608", 
+                "description": "", 
+                "title": "SMILING FACE WITH HORNS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f609", 
+                "description": "", 
+                "title": "WINKING FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f60a", 
+                "description": "", 
+                "title": "SMILING FACE WITH SMILING EYES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f60b", 
+                "description": "", 
+                "title": "FACE SAVOURING DELICIOUS FOOD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f60c", 
+                "description": "", 
+                "title": "RELIEVED FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f60d", 
+                "description": "", 
+                "title": "SMILING FACE WITH HEART-SHAPED EYES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f60e", 
+                "description": "", 
+                "title": "SMILING FACE WITH SUNGLASSES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f60f", 
+                "description": "", 
+                "title": "SMIRKING FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f610", 
+                "description": "", 
+                "title": "NEUTRAL FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f611", 
+                "description": "", 
+                "title": "EXPRESSIONLESS FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f612", 
+                "description": "", 
+                "title": "UNAMUSED FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f613", 
+                "description": "", 
+                "title": "FACE WITH COLD SWEAT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f614", 
+                "description": "", 
+                "title": "PENSIVE FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f615", 
+                "description": "", 
+                "title": "CONFUSED FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f616", 
+                "description": "", 
+                "title": "CONFOUNDED FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f617", 
+                "description": "", 
+                "title": "KISSING FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f618", 
+                "description": "", 
+                "title": "FACE THROWING A KISS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f619", 
+                "description": "", 
+                "title": "KISSING FACE WITH SMILING EYES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f61a", 
+                "description": "", 
+                "title": "KISSING FACE WITH CLOSED EYES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f61b", 
+                "description": "", 
+                "title": "FACE WITH STUCK-OUT TONGUE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f61c", 
+                "description": "", 
+                "title": "FACE WITH STUCK-OUT TONGUE AND WINKING EYE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f61d", 
+                "description": "", 
+                "title": "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f61e", 
+                "description": "", 
+                "title": "DISAPPOINTED FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f61f", 
+                "description": "", 
+                "title": "WORRIED FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f620", 
+                "description": "", 
+                "title": "ANGRY FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f621", 
+                "description": "", 
+                "title": "POUTING FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f622", 
+                "description": "", 
+                "title": "CRYING FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f623", 
+                "description": "", 
+                "title": "PERSEVERING FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f624", 
+                "description": "", 
+                "title": "FACE WITH LOOK OF TRIUMPH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f625", 
+                "description": "", 
+                "title": "DISAPPOINTED BUT RELIEVED FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f626", 
+                "description": "", 
+                "title": "FROWNING FACE WITH OPEN MOUTH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f627", 
+                "description": "", 
+                "title": "ANGUISHED FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f628", 
+                "description": "", 
+                "title": "FEARFUL FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f629", 
+                "description": "", 
+                "title": "WEARY FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f62a", 
+                "description": "", 
+                "title": "SLEEPY FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f62b", 
+                "description": "", 
+                "title": "TIRED FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f62c", 
+                "description": "", 
+                "title": "GRIMACING FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f62d", 
+                "description": "", 
+                "title": "LOUDLY CRYING FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f62e", 
+                "description": "", 
+                "title": "FACE WITH OPEN MOUTH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f62f", 
+                "description": "", 
+                "title": "HUSHED FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f630", 
+                "description": "", 
+                "title": "FACE WITH OPEN MOUTH AND COLD SWEAT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f631", 
+                "description": "", 
+                "title": "FACE SCREAMING IN FEAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f632", 
+                "description": "", 
+                "title": "ASTONISHED FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f633", 
+                "description": "", 
+                "title": "FLUSHED FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f634", 
+                "description": "", 
+                "title": "SLEEPING FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f635", 
+                "description": "", 
+                "title": "DIZZY FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f636", 
+                "description": "", 
+                "title": "FACE WITHOUT MOUTH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f637", 
+                "description": "", 
+                "title": "FACE WITH MEDICAL MASK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "Cat", 
+                "charcode": "0x1f638", 
+                "description": "", 
+                "title": "GRINNING CAT FACE WITH SMILING EYES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "Cat", 
+                "charcode": "0x1f639", 
+                "description": "", 
+                "title": "CAT FACE WITH TEARS OF JOY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "Cat", 
+                "charcode": "0x1f63a", 
+                "description": "", 
+                "title": "SMILING CAT FACE WITH OPEN MOUTH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "Cat", 
+                "charcode": "0x1f63b", 
+                "description": "", 
+                "title": "SMILING CAT FACE WITH HEART-SHAPED EYES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "Cat", 
+                "charcode": "0x1f63c", 
+                "description": "", 
+                "title": "CAT FACE WITH WRY SMILE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "Cat", 
+                "charcode": "0x1f63d", 
+                "description": "", 
+                "title": "KISSING CAT FACE WITH CLOSED EYES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "Cat", 
+                "charcode": "0x1f63e", 
+                "description": "", 
+                "title": "POUTING CAT FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "Cat", 
+                "charcode": "0x1f63f", 
+                "description": "", 
+                "title": "CRYING CAT FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Face", 
+                "cat4": "Cat", 
+                "charcode": "0x1f640", 
+                "description": "", 
+                "title": "WEARY CAT FACE"
+            }, 
+            {
+                "charcode": "0x1f641", 
+                "description": "", 
+                "title": "SLIGHTLY FROWNING FACE"
+            }, 
+            {
+                "charcode": "0x1f642", 
+                "description": "", 
+                "title": "SLIGHTLY SMILING FACE"
+            }, 
+            {
+                "charcode": "0x1f643", 
+                "description": "", 
+                "title": "UPSIDE-DOWN FACE"
+            }, 
+            {
+                "charcode": "0x1f644", 
+                "description": "", 
+                "title": "FACE WITH ROLLING EYES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Gesture", 
+                "cat4": "", 
+                "charcode": "0x1f645", 
+                "description": "", 
+                "title": "FACE WITH NO GOOD GESTURE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Gesture", 
+                "cat4": "", 
+                "charcode": "0x1f646", 
+                "description": "", 
+                "title": "FACE WITH OK GESTURE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Gesture", 
+                "cat4": "", 
+                "charcode": "0x1f647", 
+                "description": "", 
+                "title": "PERSON BOWING DEEPLY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Gesture", 
+                "cat4": "", 
+                "charcode": "0x1f648", 
+                "description": "", 
+                "title": "SEE-NO-EVIL MONKEY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Gesture", 
+                "cat4": "", 
+                "charcode": "0x1f649", 
+                "description": "", 
+                "title": "HEAR-NO-EVIL MONKEY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Gesture", 
+                "cat4": "", 
+                "charcode": "0x1f64a", 
+                "description": "", 
+                "title": "SPEAK-NO-EVIL MONKEY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Gesture", 
+                "cat4": "", 
+                "charcode": "0x1f64b", 
+                "description": "", 
+                "title": "HAPPY PERSON RAISING ONE HAND"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Gesture", 
+                "cat4": "", 
+                "charcode": "0x1f64c", 
+                "description": "", 
+                "title": "PERSON RAISING BOTH HANDS IN CELEBRATION"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Gesture", 
+                "cat4": "", 
+                "charcode": "0x1f64d", 
+                "description": "", 
+                "title": "PERSON FROWNING"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Gesture", 
+                "cat4": "", 
+                "charcode": "0x1f64e", 
+                "description": "", 
+                "title": "PERSON WITH POUTING FACE"
+            }
+        ], 
+        "name": "Emoticons"
+    }
+]

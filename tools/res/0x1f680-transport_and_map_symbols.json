@@ -1,0 +1,777 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f680", 
+                "description": "", 
+                "title": "ROCKET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f681", 
+                "description": "", 
+                "title": "HELICOPTER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f682", 
+                "description": "", 
+                "title": "STEAM LOCOMOTIVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f683", 
+                "description": "", 
+                "title": "RAILWAY CAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f684", 
+                "description": "", 
+                "title": "HIGH-SPEED TRAIN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f685", 
+                "description": "", 
+                "title": "HIGH-SPEED TRAIN WITH BULLET NOSE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f686", 
+                "description": "", 
+                "title": "TRAIN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f687", 
+                "description": "", 
+                "title": "METRO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f688", 
+                "description": "", 
+                "title": "LIGHT RAIL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f689", 
+                "description": "", 
+                "title": "STATION"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f68a", 
+                "description": "", 
+                "title": "TRAM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f68b", 
+                "description": "", 
+                "title": "TRAM CAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f68c", 
+                "description": "", 
+                "title": "BUS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f68d", 
+                "description": "", 
+                "title": "ONCOMING BUS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f68e", 
+                "description": "", 
+                "title": "TROLLEYBUS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f68f", 
+                "description": "", 
+                "title": "BUS STOP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f690", 
+                "description": "", 
+                "title": "MINIBUS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f691", 
+                "description": "", 
+                "title": "AMBULANCE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f692", 
+                "description": "", 
+                "title": "FIRE ENGINE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f693", 
+                "description": "", 
+                "title": "POLICE CAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f694", 
+                "description": "", 
+                "title": "ONCOMING POLICE CAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f695", 
+                "description": "", 
+                "title": "TAXI"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f696", 
+                "description": "", 
+                "title": "ONCOMING TAXI"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f697", 
+                "description": "", 
+                "title": "AUTOMOBILE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f698", 
+                "description": "", 
+                "title": "ONCOMING AUTOMOBILE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f699", 
+                "description": "", 
+                "title": "RECREATIONAL VEHICLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f69a", 
+                "description": "", 
+                "title": "DELIVERY TRUCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f69b", 
+                "description": "", 
+                "title": "ARTICULATED LORRY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f69c", 
+                "description": "", 
+                "title": "TRACTOR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f69d", 
+                "description": "", 
+                "title": "MONORAIL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f69e", 
+                "description": "", 
+                "title": "MOUNTAIN RAILWAY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f69f", 
+                "description": "", 
+                "title": "SUSPENSION RAILWAY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6a0", 
+                "description": "", 
+                "title": "MOUNTAIN CABLEWAY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6a1", 
+                "description": "", 
+                "title": "AERIAL TRAMWAY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6a2", 
+                "description": "", 
+                "title": "SHIP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6a3", 
+                "description": "", 
+                "title": "ROWBOAT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Vehicle", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6a4", 
+                "description": "", 
+                "title": "SPEEDBOAT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6a5", 
+                "description": "", 
+                "title": "HORIZONTAL TRAFFIC LIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6a6", 
+                "description": "", 
+                "title": "VERTICAL TRAFFIC LIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6a7", 
+                "description": "", 
+                "title": "CONSTRUCTION SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6a8", 
+                "description": "", 
+                "title": "POLICE CARS REVOLVING LIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6a9", 
+                "description": "", 
+                "title": "TRIANGULAR FLAG ON POST"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6aa", 
+                "description": "", 
+                "title": "DOOR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6ab", 
+                "description": "", 
+                "title": "NO ENTRY SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6ac", 
+                "description": "", 
+                "title": "SMOKING SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6ad", 
+                "description": "", 
+                "title": "NO SMOKING SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6ae", 
+                "description": "", 
+                "title": "PUT LITTER IN ITS PLACE SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6af", 
+                "description": "", 
+                "title": "DO NOT LITTER SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6b0", 
+                "description": "", 
+                "title": "POTABLE WATER SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6b1", 
+                "description": "", 
+                "title": "NON-POTABLE WATER SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6b2", 
+                "description": "", 
+                "title": "BICYCLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6b3", 
+                "description": "", 
+                "title": "NO BICYCLES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6b4", 
+                "description": "", 
+                "title": "BICYCLIST"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6b5", 
+                "description": "", 
+                "title": "MOUNTAIN BICYCLIST"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6b6", 
+                "description": "", 
+                "title": "PEDESTRIAN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6b7", 
+                "description": "", 
+                "title": "NO PEDESTRIANS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6b8", 
+                "description": "", 
+                "title": "CHILDREN CROSSING"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6b9", 
+                "description": "", 
+                "title": "MENS SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6ba", 
+                "description": "", 
+                "title": "WOMENS SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6bb", 
+                "description": "", 
+                "title": "RESTROOM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6bc", 
+                "description": "", 
+                "title": "BABY SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6bd", 
+                "description": "", 
+                "title": "TOILET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6be", 
+                "description": "", 
+                "title": "WATER CLOSET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6bf", 
+                "description": "", 
+                "title": "SHOWER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6c0", 
+                "description": "", 
+                "title": "BATH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6c1", 
+                "description": "", 
+                "title": "BATHTUB"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6c2", 
+                "description": "", 
+                "title": "PASSPORT CONTROL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6c3", 
+                "description": "", 
+                "title": "CUSTOMS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6c4", 
+                "description": "", 
+                "title": "BAGGAGE CLAIM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f6c5", 
+                "description": "", 
+                "title": "LEFT LUGGAGE"
+            }, 
+            {
+                "charcode": "0x1f6c6", 
+                "description": "", 
+                "title": "TRIANGLE WITH ROUNDED CORNERS"
+            }, 
+            {
+                "charcode": "0x1f6c7", 
+                "description": "", 
+                "title": "PROHIBITED SIGN"
+            }, 
+            {
+                "charcode": "0x1f6c8", 
+                "description": "", 
+                "title": "CIRCLED INFORMATION SOURCE"
+            }, 
+            {
+                "charcode": "0x1f6c9", 
+                "description": "", 
+                "title": "BOYS SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f6ca", 
+                "description": "", 
+                "title": "GIRLS SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f6cb", 
+                "description": "", 
+                "title": "COUCH AND LAMP"
+            }, 
+            {
+                "charcode": "0x1f6cc", 
+                "description": "", 
+                "title": "SLEEPING ACCOMMODATION"
+            }, 
+            {
+                "charcode": "0x1f6cd", 
+                "description": "", 
+                "title": "SHOPPING BAGS"
+            }, 
+            {
+                "charcode": "0x1f6ce", 
+                "description": "", 
+                "title": "BELLHOP BELL"
+            }, 
+            {
+                "charcode": "0x1f6cf", 
+                "description": "", 
+                "title": "BED"
+            }, 
+            {
+                "charcode": "0x1f6d0", 
+                "description": "", 
+                "title": "PLACE OF WORSHIP"
+            }, 
+            {
+                "charcode": "0x1f6e0", 
+                "description": "", 
+                "title": "HAMMER AND WRENCH"
+            }, 
+            {
+                "charcode": "0x1f6e1", 
+                "description": "", 
+                "title": "SHIELD"
+            }, 
+            {
+                "charcode": "0x1f6e2", 
+                "description": "", 
+                "title": "OIL DRUM"
+            }, 
+            {
+                "charcode": "0x1f6e3", 
+                "description": "", 
+                "title": "MOTORWAY"
+            }, 
+            {
+                "charcode": "0x1f6e4", 
+                "description": "", 
+                "title": "RAILWAY TRACK"
+            }, 
+            {
+                "charcode": "0x1f6e5", 
+                "description": "", 
+                "title": "MOTOR BOAT"
+            }, 
+            {
+                "charcode": "0x1f6e6", 
+                "description": "", 
+                "title": "UP-POINTING MILITARY AIRPLANE"
+            }, 
+            {
+                "charcode": "0x1f6e7", 
+                "description": "", 
+                "title": "UP-POINTING AIRPLANE"
+            }, 
+            {
+                "charcode": "0x1f6e8", 
+                "description": "", 
+                "title": "UP-POINTING SMALL AIRPLANE"
+            }, 
+            {
+                "charcode": "0x1f6e9", 
+                "description": "", 
+                "title": "SMALL AIRPLANE"
+            }, 
+            {
+                "charcode": "0x1f6ea", 
+                "description": "", 
+                "title": "NORTHEAST-POINTING AIRPLANE"
+            }, 
+            {
+                "charcode": "0x1f6eb", 
+                "description": "", 
+                "title": "AIRPLANE DEPARTURE"
+            }, 
+            {
+                "charcode": "0x1f6ec", 
+                "description": "", 
+                "title": "AIRPLANE ARRIVING"
+            }, 
+            {
+                "charcode": "0x1f6f0", 
+                "description": "", 
+                "title": "SATELLITE"
+            }, 
+            {
+                "charcode": "0x1f6f1", 
+                "description": "", 
+                "title": "ONCOMING FIRE ENGINE"
+            }, 
+            {
+                "charcode": "0x1f6f2", 
+                "description": "", 
+                "title": "DIESEL LOCOMOTIVE"
+            }, 
+            {
+                "charcode": "0x1f6f3", 
+                "description": "", 
+                "title": "PASSENGER SHIP"
+            }
+        ], 
+        "name": "Transport and Map Symbols"
+    }
+]

@@ -1,0 +1,817 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa980", 
+                "description": "", 
+                "title": "JAVANESE SIGN PANYANGGA"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa981", 
+                "description": "", 
+                "title": "JAVANESE SIGN CECAK"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa982", 
+                "description": "", 
+                "title": "JAVANESE SIGN LAYAR"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa983", 
+                "description": "", 
+                "title": "JAVANESE SIGN WIGNYAN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa984", 
+                "description": "", 
+                "title": "JAVANESE LETTER A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa985", 
+                "description": "", 
+                "title": "JAVANESE LETTER I KAWI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa986", 
+                "description": "", 
+                "title": "JAVANESE LETTER I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa987", 
+                "description": "", 
+                "title": "JAVANESE LETTER II"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa988", 
+                "description": "", 
+                "title": "JAVANESE LETTER U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa989", 
+                "description": "", 
+                "title": "JAVANESE LETTER PA CEREK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa98a", 
+                "description": "", 
+                "title": "JAVANESE LETTER NGA LELET"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa98b", 
+                "description": "", 
+                "title": "JAVANESE LETTER NGA LELET RASWADI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa98c", 
+                "description": "", 
+                "title": "JAVANESE LETTER E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa98d", 
+                "description": "", 
+                "title": "JAVANESE LETTER AI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa98e", 
+                "description": "", 
+                "title": "JAVANESE LETTER O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa98f", 
+                "description": "", 
+                "title": "JAVANESE LETTER KA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa990", 
+                "description": "", 
+                "title": "JAVANESE LETTER KA SASAK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa991", 
+                "description": "", 
+                "title": "JAVANESE LETTER KA MURDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa992", 
+                "description": "", 
+                "title": "JAVANESE LETTER GA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa993", 
+                "description": "", 
+                "title": "JAVANESE LETTER GA MURDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa994", 
+                "description": "", 
+                "title": "JAVANESE LETTER NGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa995", 
+                "description": "", 
+                "title": "JAVANESE LETTER CA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa996", 
+                "description": "", 
+                "title": "JAVANESE LETTER CA MURDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa997", 
+                "description": "", 
+                "title": "JAVANESE LETTER JA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa998", 
+                "description": "", 
+                "title": "JAVANESE LETTER NYA MURDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa999", 
+                "description": "", 
+                "title": "JAVANESE LETTER JA MAHAPRANA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa99a", 
+                "description": "", 
+                "title": "JAVANESE LETTER NYA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa99b", 
+                "description": "", 
+                "title": "JAVANESE LETTER TTA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa99c", 
+                "description": "", 
+                "title": "JAVANESE LETTER TTA MAHAPRANA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa99d", 
+                "description": "", 
+                "title": "JAVANESE LETTER DDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa99e", 
+                "description": "", 
+                "title": "JAVANESE LETTER DDA MAHAPRANA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa99f", 
+                "description": "", 
+                "title": "JAVANESE LETTER NA MURDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9a0", 
+                "description": "", 
+                "title": "JAVANESE LETTER TA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9a1", 
+                "description": "", 
+                "title": "JAVANESE LETTER TA MURDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9a2", 
+                "description": "", 
+                "title": "JAVANESE LETTER DA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9a3", 
+                "description": "", 
+                "title": "JAVANESE LETTER DA MAHAPRANA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9a4", 
+                "description": "", 
+                "title": "JAVANESE LETTER NA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9a5", 
+                "description": "", 
+                "title": "JAVANESE LETTER PA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9a6", 
+                "description": "", 
+                "title": "JAVANESE LETTER PA MURDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9a7", 
+                "description": "", 
+                "title": "JAVANESE LETTER BA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9a8", 
+                "description": "", 
+                "title": "JAVANESE LETTER BA MURDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9a9", 
+                "description": "", 
+                "title": "JAVANESE LETTER MA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9aa", 
+                "description": "", 
+                "title": "JAVANESE LETTER YA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9ab", 
+                "description": "", 
+                "title": "JAVANESE LETTER RA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9ac", 
+                "description": "", 
+                "title": "JAVANESE LETTER RA AGUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9ad", 
+                "description": "", 
+                "title": "JAVANESE LETTER LA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9ae", 
+                "description": "", 
+                "title": "JAVANESE LETTER WA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9af", 
+                "description": "", 
+                "title": "JAVANESE LETTER SA MURDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9b0", 
+                "description": "", 
+                "title": "JAVANESE LETTER SA MAHAPRANA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9b1", 
+                "description": "", 
+                "title": "JAVANESE LETTER SA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9b2", 
+                "description": "", 
+                "title": "JAVANESE LETTER HA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9b3", 
+                "description": "", 
+                "title": "JAVANESE SIGN CECAK TELU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xa9b4", 
+                "description": "", 
+                "title": "JAVANESE VOWEL SIGN TARUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xa9b5", 
+                "description": "", 
+                "title": "JAVANESE VOWEL SIGN TOLONG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xa9b6", 
+                "description": "", 
+                "title": "JAVANESE VOWEL SIGN WULU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xa9b7", 
+                "description": "", 
+                "title": "JAVANESE VOWEL SIGN WULU MELIK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xa9b8", 
+                "description": "", 
+                "title": "JAVANESE VOWEL SIGN SUKU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xa9b9", 
+                "description": "", 
+                "title": "JAVANESE VOWEL SIGN SUKU MENDUT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xa9ba", 
+                "description": "", 
+                "title": "JAVANESE VOWEL SIGN TALING"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xa9bb", 
+                "description": "", 
+                "title": "JAVANESE VOWEL SIGN DIRGA MURE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xa9bc", 
+                "description": "", 
+                "title": "JAVANESE VOWEL SIGN PEPET"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xa9bd", 
+                "description": "", 
+                "title": "JAVANESE CONSONANT SIGN KERET"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xa9be", 
+                "description": "", 
+                "title": "JAVANESE CONSONANT SIGN PENGKAL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xa9bf", 
+                "description": "", 
+                "title": "JAVANESE CONSONANT SIGN CAKRA"
+            }, 
+            {
+                "cat1": "Virama", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9c0", 
+                "description": "", 
+                "title": "JAVANESE PANGKON"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9c1", 
+                "description": "", 
+                "title": "JAVANESE LEFT RERENGGAN"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9c2", 
+                "description": "", 
+                "title": "JAVANESE RIGHT RERENGGAN"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9c3", 
+                "description": "", 
+                "title": "JAVANESE PADA ANDAP"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9c4", 
+                "description": "", 
+                "title": "JAVANESE PADA MADYA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9c5", 
+                "description": "", 
+                "title": "JAVANESE PADA LUHUR"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9c6", 
+                "description": "", 
+                "title": "JAVANESE PADA WINDU"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9c7", 
+                "description": "", 
+                "title": "JAVANESE PADA PANGKAT"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9c8", 
+                "description": "", 
+                "title": "JAVANESE PADA LINGSA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9c9", 
+                "description": "", 
+                "title": "JAVANESE PADA LUNGSI"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9ca", 
+                "description": "", 
+                "title": "JAVANESE PADA ADEG"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9cb", 
+                "description": "", 
+                "title": "JAVANESE PADA ADEG ADEG"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9cc", 
+                "description": "", 
+                "title": "JAVANESE PADA PISELEH"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9cd", 
+                "description": "", 
+                "title": "JAVANESE TURNED PADA PISELEH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Repetition", 
+                "cat4": "", 
+                "charcode": "0xa9cf", 
+                "description": "", 
+                "title": "JAVANESE PANGRANGKEP"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9d0", 
+                "description": "", 
+                "title": "JAVANESE DIGIT ZERO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9d1", 
+                "description": "", 
+                "title": "JAVANESE DIGIT ONE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9d2", 
+                "description": "", 
+                "title": "JAVANESE DIGIT TWO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9d3", 
+                "description": "", 
+                "title": "JAVANESE DIGIT THREE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9d4", 
+                "description": "", 
+                "title": "JAVANESE DIGIT FOUR"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9d5", 
+                "description": "", 
+                "title": "JAVANESE DIGIT FIVE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9d6", 
+                "description": "", 
+                "title": "JAVANESE DIGIT SIX"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9d7", 
+                "description": "", 
+                "title": "JAVANESE DIGIT SEVEN"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9d8", 
+                "description": "", 
+                "title": "JAVANESE DIGIT EIGHT"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9d9", 
+                "description": "", 
+                "title": "JAVANESE DIGIT NINE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa9de", 
+                "description": "", 
+                "title": "JAVANESE PADA TIRTA TUMETES"
+            }
+        ], 
+        "name": "Javanese"
+    }
+]

@@ -1,0 +1,376 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3105", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER B"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3106", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER P"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3107", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER M"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3108", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER F"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3109", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER D"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x310a", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER T"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x310b", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER N"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x310c", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER L"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x310d", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER G"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x310e", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER K"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x310f", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER H"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3110", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER J"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3111", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER Q"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3112", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER X"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3113", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER ZH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3114", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER CH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3115", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER SH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3116", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER R"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3117", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER Z"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3118", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER C"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3119", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER S"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x311a", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x311b", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x311c", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x311d", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER EH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x311e", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER AI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x311f", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER EI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3120", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER AU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3121", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER OU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3122", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER AN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3123", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER EN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3124", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER ANG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3125", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER ENG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3126", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER ER"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3127", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3128", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3129", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER IU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x312a", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER V"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x312b", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER NG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x312c", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER GN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x312d", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER IH"
+            }
+        ], 
+        "name": "Bopomofo"
+    }
+]

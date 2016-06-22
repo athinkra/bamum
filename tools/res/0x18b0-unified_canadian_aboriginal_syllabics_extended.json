@@ -1,0 +1,637 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18b0", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS OY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18b1", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS AY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18b2", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS AAY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18b3", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS WAY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18b4", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS POY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18b5", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS PAY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18b6", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS PWOY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18b7", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS TAY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18b8", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS KAY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18b9", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS KWAY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18ba", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS MAY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18bb", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS NOY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18bc", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS NAY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18bd", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS LAY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18be", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS SOY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18bf", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS SAY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18c0", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS SHOY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18c1", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS SHAY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18c2", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS SHWOY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18c3", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS YOY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18c4", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS YAY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18c5", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS RAY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18c6", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS NWI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18c7", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS OJIBWAY NWI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18c8", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS NWII"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18c9", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS OJIBWAY NWII"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18ca", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS NWO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18cb", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS OJIBWAY NWO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18cc", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS NWOO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18cd", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS OJIBWAY NWOO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18ce", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS RWEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18cf", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS RWI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18d0", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS RWII"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18d1", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS RWO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18d2", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS RWOO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18d3", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS RWA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18d4", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS OJIBWAY P"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18d5", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS OJIBWAY T"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18d6", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS OJIBWAY K"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18d7", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS OJIBWAY C"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18d8", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS OJIBWAY M"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18d9", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS OJIBWAY N"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18da", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS OJIBWAY S"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18db", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS OJIBWAY SH"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18dc", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS EASTERN W"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18dd", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS WESTERN W"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18de", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS FINAL SMALL RING"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18df", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS FINAL RAISED DOT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18e0", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS R-CREE RWE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18e1", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS WEST-CREE LOO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18e2", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS WEST-CREE LAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18e3", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS THWE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18e4", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS THWA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18e5", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS TTHWE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18e6", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS TTHOO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18e7", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS TTHAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18e8", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS TLHWE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18e9", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS TLHOO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18ea", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS SAYISI SHWE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18eb", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS SAYISI SHOO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18ec", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS SAYISI HOO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18ed", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS CARRIER GWU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18ee", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS CARRIER DENE GEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18ef", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS CARRIER GAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18f0", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS CARRIER GWA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18f1", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS SAYISI JUU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18f2", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS CARRIER JWA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18f3", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS BEAVER DENE L"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18f4", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS BEAVER DENE R"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x18f5", 
+                "description": "", 
+                "title": "CANADIAN SYLLABICS CARRIER DENTAL S"
+            }
+        ], 
+        "name": "Unified Canadian Aboriginal Syllabics Extended"
+    }
+]

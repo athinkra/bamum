@@ -1,0 +1,853 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3131", 
+                "description": "HANGUL LETTER GIYEOG", 
+                "title": "HANGUL LETTER KIYEOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3132", 
+                "description": "HANGUL LETTER SSANG GIYEOG", 
+                "title": "HANGUL LETTER SSANGKIYEOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3133", 
+                "description": "HANGUL LETTER GIYEOG SIOS", 
+                "title": "HANGUL LETTER KIYEOK-SIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3134", 
+                "description": "", 
+                "title": "HANGUL LETTER NIEUN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3135", 
+                "description": "HANGUL LETTER NIEUN JIEUJ", 
+                "title": "HANGUL LETTER NIEUN-CIEUC"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3136", 
+                "description": "HANGUL LETTER NIEUN HIEUH", 
+                "title": "HANGUL LETTER NIEUN-HIEUH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3137", 
+                "description": "HANGUL LETTER DIGEUD", 
+                "title": "HANGUL LETTER TIKEUT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3138", 
+                "description": "HANGUL LETTER SSANG DIGEUD", 
+                "title": "HANGUL LETTER SSANGTIKEUT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3139", 
+                "description": "HANGUL LETTER LIEUL", 
+                "title": "HANGUL LETTER RIEUL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x313a", 
+                "description": "HANGUL LETTER LIEUL GIYEOG", 
+                "title": "HANGUL LETTER RIEUL-KIYEOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x313b", 
+                "description": "HANGUL LETTER LIEUL MIEUM", 
+                "title": "HANGUL LETTER RIEUL-MIEUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x313c", 
+                "description": "HANGUL LETTER LIEUL BIEUB", 
+                "title": "HANGUL LETTER RIEUL-PIEUP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x313d", 
+                "description": "HANGUL LETTER LIEUL SIOS", 
+                "title": "HANGUL LETTER RIEUL-SIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x313e", 
+                "description": "HANGUL LETTER LIEUL TIEUT", 
+                "title": "HANGUL LETTER RIEUL-THIEUTH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x313f", 
+                "description": "HANGUL LETTER LIEUL PIEUP", 
+                "title": "HANGUL LETTER RIEUL-PHIEUPH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3140", 
+                "description": "HANGUL LETTER LIEUL HIEUH", 
+                "title": "HANGUL LETTER RIEUL-HIEUH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3141", 
+                "description": "", 
+                "title": "HANGUL LETTER MIEUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3142", 
+                "description": "HANGUL LETTER BIEUB", 
+                "title": "HANGUL LETTER PIEUP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3143", 
+                "description": "HANGUL LETTER SSANG BIEUB", 
+                "title": "HANGUL LETTER SSANGPIEUP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3144", 
+                "description": "HANGUL LETTER BIEUB SIOS", 
+                "title": "HANGUL LETTER PIEUP-SIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3145", 
+                "description": "", 
+                "title": "HANGUL LETTER SIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3146", 
+                "description": "HANGUL LETTER SSANG SIOS", 
+                "title": "HANGUL LETTER SSANGSIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3147", 
+                "description": "", 
+                "title": "HANGUL LETTER IEUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3148", 
+                "description": "HANGUL LETTER JIEUJ", 
+                "title": "HANGUL LETTER CIEUC"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3149", 
+                "description": "HANGUL LETTER SSANG JIEUJ", 
+                "title": "HANGUL LETTER SSANGCIEUC"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x314a", 
+                "description": "HANGUL LETTER CIEUC", 
+                "title": "HANGUL LETTER CHIEUCH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x314b", 
+                "description": "HANGUL LETTER KIYEOK", 
+                "title": "HANGUL LETTER KHIEUKH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x314c", 
+                "description": "HANGUL LETTER TIEUT", 
+                "title": "HANGUL LETTER THIEUTH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x314d", 
+                "description": "HANGUL LETTER PIEUP", 
+                "title": "HANGUL LETTER PHIEUPH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x314e", 
+                "description": "", 
+                "title": "HANGUL LETTER HIEUH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x314f", 
+                "description": "", 
+                "title": "HANGUL LETTER A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x3150", 
+                "description": "", 
+                "title": "HANGUL LETTER AE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x3151", 
+                "description": "", 
+                "title": "HANGUL LETTER YA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x3152", 
+                "description": "", 
+                "title": "HANGUL LETTER YAE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x3153", 
+                "description": "", 
+                "title": "HANGUL LETTER EO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x3154", 
+                "description": "", 
+                "title": "HANGUL LETTER E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x3155", 
+                "description": "", 
+                "title": "HANGUL LETTER YEO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x3156", 
+                "description": "", 
+                "title": "HANGUL LETTER YE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x3157", 
+                "description": "", 
+                "title": "HANGUL LETTER O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x3158", 
+                "description": "", 
+                "title": "HANGUL LETTER WA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x3159", 
+                "description": "", 
+                "title": "HANGUL LETTER WAE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x315a", 
+                "description": "", 
+                "title": "HANGUL LETTER OE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x315b", 
+                "description": "", 
+                "title": "HANGUL LETTER YO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x315c", 
+                "description": "", 
+                "title": "HANGUL LETTER U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x315d", 
+                "description": "", 
+                "title": "HANGUL LETTER WEO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x315e", 
+                "description": "", 
+                "title": "HANGUL LETTER WE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x315f", 
+                "description": "", 
+                "title": "HANGUL LETTER WI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x3160", 
+                "description": "", 
+                "title": "HANGUL LETTER YU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x3161", 
+                "description": "", 
+                "title": "HANGUL LETTER EU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x3162", 
+                "description": "", 
+                "title": "HANGUL LETTER YI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x3163", 
+                "description": "", 
+                "title": "HANGUL LETTER I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Filler", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3164", 
+                "description": "HANGUL CAE OM", 
+                "title": "HANGUL FILLER"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3165", 
+                "description": "HANGUL LETTER SSANG NIEUN", 
+                "title": "HANGUL LETTER SSANGNIEUN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3166", 
+                "description": "HANGUL LETTER NIEUN DIGEUD", 
+                "title": "HANGUL LETTER NIEUN-TIKEUT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3167", 
+                "description": "HANGUL LETTER NIEUN SIOS", 
+                "title": "HANGUL LETTER NIEUN-SIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3168", 
+                "description": "HANGUL LETTER NIEUN BAN CHI EUM", 
+                "title": "HANGUL LETTER NIEUN-PANSIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3169", 
+                "description": "HANGUL LETTER LIEUL GIYEOG SIOS", 
+                "title": "HANGUL LETTER RIEUL-KIYEOK-SIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x316a", 
+                "description": "HANGUL LETTER LIEUL DIGEUD", 
+                "title": "HANGUL LETTER RIEUL-TIKEUT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x316b", 
+                "description": "HANGUL LETTER LIEUL BIEUB SIOS", 
+                "title": "HANGUL LETTER RIEUL-PIEUP-SIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x316c", 
+                "description": "HANGUL LETTER LIEUL BAN CHI EUM", 
+                "title": "HANGUL LETTER RIEUL-PANSIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x316d", 
+                "description": "HANGUL LETTER LIEUL YEOLIN HIEUH", 
+                "title": "HANGUL LETTER RIEUL-YEORINHIEUH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x316e", 
+                "description": "HANGUL LETTER MIEUM BIEUB", 
+                "title": "HANGUL LETTER MIEUM-PIEUP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x316f", 
+                "description": "HANGUL LETTER MIEUM SIOS", 
+                "title": "HANGUL LETTER MIEUM-SIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3170", 
+                "description": "HANGUL LETTER BIEUB BAN CHI EUM", 
+                "title": "HANGUL LETTER MIEUM-PANSIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3171", 
+                "description": "HANGUL LETTER MIEUM SUN GYEONG EUM", 
+                "title": "HANGUL LETTER KAPYEOUNMIEUM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3172", 
+                "description": "HANGUL LETTER BIEUB GIYEOG", 
+                "title": "HANGUL LETTER PIEUP-KIYEOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3173", 
+                "description": "HANGUL LETTER BIEUB DIGEUD", 
+                "title": "HANGUL LETTER PIEUP-TIKEUT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3174", 
+                "description": "HANGUL LETTER BIEUB SIOS GIYEOG", 
+                "title": "HANGUL LETTER PIEUP-SIOS-KIYEOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3175", 
+                "description": "HANGUL LETTER BIEUB SIOS DIGEUD", 
+                "title": "HANGUL LETTER PIEUP-SIOS-TIKEUT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3176", 
+                "description": "HANGUL LETTER BIEUB JIEUJ", 
+                "title": "HANGUL LETTER PIEUP-CIEUC"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3177", 
+                "description": "HANGUL LETTER BIEUB TIEUT", 
+                "title": "HANGUL LETTER PIEUP-THIEUTH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3178", 
+                "description": "HANGUL LETTER BIEUB SUN GYEONG EUM", 
+                "title": "HANGUL LETTER KAPYEOUNPIEUP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3179", 
+                "description": "HANGUL LETTER SSANG BIEUB SUN GYEONG EUM", 
+                "title": "HANGUL LETTER KAPYEOUNSSANGPIEUP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x317a", 
+                "description": "HANGUL LETTER SIOS GIYEOG", 
+                "title": "HANGUL LETTER SIOS-KIYEOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x317b", 
+                "description": "HANGUL LETTER SIOS NIEUN", 
+                "title": "HANGUL LETTER SIOS-NIEUN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x317c", 
+                "description": "HANGUL LETTER SIOS DIGEUD", 
+                "title": "HANGUL LETTER SIOS-TIKEUT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x317d", 
+                "description": "HANGUL LETTER SIOS BIEUB", 
+                "title": "HANGUL LETTER SIOS-PIEUP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x317e", 
+                "description": "HANGUL LETTER SIOS JIEUJ", 
+                "title": "HANGUL LETTER SIOS-CIEUC"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x317f", 
+                "description": "HANGUL LETTER BAN CHI EUM", 
+                "title": "HANGUL LETTER PANSIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3180", 
+                "description": "HANGUL LETTER SSANG IEUNG", 
+                "title": "HANGUL LETTER SSANGIEUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3181", 
+                "description": "HANGUL LETTER NGIEUNG", 
+                "title": "HANGUL LETTER YESIEUNG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3182", 
+                "description": "HANGUL LETTER NGIEUNG SIOS", 
+                "title": "HANGUL LETTER YESIEUNG-SIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3183", 
+                "description": "HANGUL LETTER NGIEUNG BAN CHI EUM", 
+                "title": "HANGUL LETTER YESIEUNG-PANSIOS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3184", 
+                "description": "HANGUL LETTER PIEUP SUN GYEONG EUM", 
+                "title": "HANGUL LETTER KAPYEOUNPHIEUPH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3185", 
+                "description": "HANGUL LETTER SSANG HIEUH", 
+                "title": "HANGUL LETTER SSANGHIEUH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3186", 
+                "description": "HANGUL LETTER YEOLIN HIEUH", 
+                "title": "HANGUL LETTER YEORINHIEUH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x3187", 
+                "description": "HANGUL LETTER YOYA", 
+                "title": "HANGUL LETTER YO-YA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x3188", 
+                "description": "HANGUL LETTER YOYAE", 
+                "title": "HANGUL LETTER YO-YAE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x3189", 
+                "description": "HANGUL LETTER YOI", 
+                "title": "HANGUL LETTER YO-I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x318a", 
+                "description": "HANGUL LETTER YUYEO", 
+                "title": "HANGUL LETTER YU-YEO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x318b", 
+                "description": "HANGUL LETTER YUYE", 
+                "title": "HANGUL LETTER YU-YE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x318c", 
+                "description": "HANGUL LETTER YUI", 
+                "title": "HANGUL LETTER YU-I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x318d", 
+                "description": "HANGUL LETTER ALAE A", 
+                "title": "HANGUL LETTER ARAEA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
+                "charcode": "0x318e", 
+                "description": "HANGUL LETTER ALAE AE", 
+                "title": "HANGUL LETTER ARAEAE"
+            }
+        ], 
+        "name": "Hangul Compatibility Jamo"
+    }
+]

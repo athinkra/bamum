@@ -1,0 +1,745 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xaa00", 
+                "description": "", 
+                "title": "CHAM LETTER A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xaa01", 
+                "description": "", 
+                "title": "CHAM LETTER I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xaa02", 
+                "description": "", 
+                "title": "CHAM LETTER U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xaa03", 
+                "description": "", 
+                "title": "CHAM LETTER E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xaa04", 
+                "description": "", 
+                "title": "CHAM LETTER AI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xaa05", 
+                "description": "", 
+                "title": "CHAM LETTER O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa06", 
+                "description": "", 
+                "title": "CHAM LETTER KA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa07", 
+                "description": "", 
+                "title": "CHAM LETTER KHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa08", 
+                "description": "", 
+                "title": "CHAM LETTER GA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa09", 
+                "description": "", 
+                "title": "CHAM LETTER GHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa0a", 
+                "description": "", 
+                "title": "CHAM LETTER NGUE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa0b", 
+                "description": "", 
+                "title": "CHAM LETTER NGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa0c", 
+                "description": "", 
+                "title": "CHAM LETTER CHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa0d", 
+                "description": "", 
+                "title": "CHAM LETTER CHHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa0e", 
+                "description": "", 
+                "title": "CHAM LETTER JA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa0f", 
+                "description": "", 
+                "title": "CHAM LETTER JHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa10", 
+                "description": "", 
+                "title": "CHAM LETTER NHUE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa11", 
+                "description": "", 
+                "title": "CHAM LETTER NHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa12", 
+                "description": "", 
+                "title": "CHAM LETTER NHJA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa13", 
+                "description": "", 
+                "title": "CHAM LETTER TA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa14", 
+                "description": "", 
+                "title": "CHAM LETTER THA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa15", 
+                "description": "", 
+                "title": "CHAM LETTER DA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa16", 
+                "description": "", 
+                "title": "CHAM LETTER DHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa17", 
+                "description": "", 
+                "title": "CHAM LETTER NUE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa18", 
+                "description": "", 
+                "title": "CHAM LETTER NA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa19", 
+                "description": "", 
+                "title": "CHAM LETTER DDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa1a", 
+                "description": "", 
+                "title": "CHAM LETTER PA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa1b", 
+                "description": "", 
+                "title": "CHAM LETTER PPA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa1c", 
+                "description": "", 
+                "title": "CHAM LETTER PHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa1d", 
+                "description": "", 
+                "title": "CHAM LETTER BA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa1e", 
+                "description": "", 
+                "title": "CHAM LETTER BHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa1f", 
+                "description": "", 
+                "title": "CHAM LETTER MUE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa20", 
+                "description": "", 
+                "title": "CHAM LETTER MA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa21", 
+                "description": "", 
+                "title": "CHAM LETTER BBA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa22", 
+                "description": "", 
+                "title": "CHAM LETTER YA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa23", 
+                "description": "", 
+                "title": "CHAM LETTER RA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa24", 
+                "description": "", 
+                "title": "CHAM LETTER LA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa25", 
+                "description": "", 
+                "title": "CHAM LETTER VA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa26", 
+                "description": "", 
+                "title": "CHAM LETTER SSA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa27", 
+                "description": "", 
+                "title": "CHAM LETTER SA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa28", 
+                "description": "", 
+                "title": "CHAM LETTER HA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xaa29", 
+                "description": "", 
+                "title": "CHAM VOWEL SIGN AA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xaa2a", 
+                "description": "", 
+                "title": "CHAM VOWEL SIGN I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xaa2b", 
+                "description": "", 
+                "title": "CHAM VOWEL SIGN II"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xaa2c", 
+                "description": "", 
+                "title": "CHAM VOWEL SIGN EI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xaa2d", 
+                "description": "", 
+                "title": "CHAM VOWEL SIGN U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xaa2e", 
+                "description": "", 
+                "title": "CHAM VOWEL SIGN OE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xaa2f", 
+                "description": "", 
+                "title": "CHAM VOWEL SIGN O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xaa30", 
+                "description": "", 
+                "title": "CHAM VOWEL SIGN AI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xaa31", 
+                "description": "", 
+                "title": "CHAM VOWEL SIGN AU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xaa32", 
+                "description": "", 
+                "title": "CHAM VOWEL SIGN UE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xaa33", 
+                "description": "", 
+                "title": "CHAM CONSONANT SIGN YA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xaa34", 
+                "description": "", 
+                "title": "CHAM CONSONANT SIGN RA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xaa35", 
+                "description": "", 
+                "title": "CHAM CONSONANT SIGN LA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xaa36", 
+                "description": "", 
+                "title": "CHAM CONSONANT SIGN WA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xaa40", 
+                "description": "", 
+                "title": "CHAM LETTER FINAL K"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xaa41", 
+                "description": "", 
+                "title": "CHAM LETTER FINAL G"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xaa42", 
+                "description": "", 
+                "title": "CHAM LETTER FINAL NG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xaa43", 
+                "description": "", 
+                "title": "CHAM CONSONANT SIGN FINAL NG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xaa44", 
+                "description": "", 
+                "title": "CHAM LETTER FINAL CH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xaa45", 
+                "description": "", 
+                "title": "CHAM LETTER FINAL T"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xaa46", 
+                "description": "", 
+                "title": "CHAM LETTER FINAL N"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xaa47", 
+                "description": "", 
+                "title": "CHAM LETTER FINAL P"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xaa48", 
+                "description": "", 
+                "title": "CHAM LETTER FINAL Y"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xaa49", 
+                "description": "", 
+                "title": "CHAM LETTER FINAL R"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xaa4a", 
+                "description": "", 
+                "title": "CHAM LETTER FINAL L"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xaa4b", 
+                "description": "", 
+                "title": "CHAM LETTER FINAL SS"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xaa4c", 
+                "description": "", 
+                "title": "CHAM CONSONANT SIGN FINAL M"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0xaa4d", 
+                "description": "", 
+                "title": "CHAM CONSONANT SIGN FINAL H"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa50", 
+                "description": "", 
+                "title": "CHAM DIGIT ZERO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa51", 
+                "description": "", 
+                "title": "CHAM DIGIT ONE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa52", 
+                "description": "", 
+                "title": "CHAM DIGIT TWO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa53", 
+                "description": "", 
+                "title": "CHAM DIGIT THREE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa54", 
+                "description": "", 
+                "title": "CHAM DIGIT FOUR"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa55", 
+                "description": "", 
+                "title": "CHAM DIGIT FIVE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa56", 
+                "description": "", 
+                "title": "CHAM DIGIT SIX"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa57", 
+                "description": "", 
+                "title": "CHAM DIGIT SEVEN"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa58", 
+                "description": "", 
+                "title": "CHAM DIGIT EIGHT"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa59", 
+                "description": "", 
+                "title": "CHAM DIGIT NINE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa5c", 
+                "description": "", 
+                "title": "CHAM PUNCTUATION SPIRAL"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa5d", 
+                "description": "", 
+                "title": "CHAM PUNCTUATION DANDA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa5e", 
+                "description": "", 
+                "title": "CHAM PUNCTUATION DOUBLE DANDA"
+            }
+        ], 
+        "name": "Cham"
+    }
+]

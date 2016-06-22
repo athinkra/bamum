@@ -1,0 +1,777 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xd82", 
+                "description": "", 
+                "title": "SINHALA SIGN ANUSVARAYA"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xd83", 
+                "description": "", 
+                "title": "SINHALA SIGN VISARGAYA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd85", 
+                "description": "", 
+                "title": "SINHALA LETTER AYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd86", 
+                "description": "", 
+                "title": "SINHALA LETTER AAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd87", 
+                "description": "", 
+                "title": "SINHALA LETTER AEYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd88", 
+                "description": "", 
+                "title": "SINHALA LETTER AEEYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd89", 
+                "description": "", 
+                "title": "SINHALA LETTER IYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd8a", 
+                "description": "", 
+                "title": "SINHALA LETTER IIYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd8b", 
+                "description": "", 
+                "title": "SINHALA LETTER UYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd8c", 
+                "description": "", 
+                "title": "SINHALA LETTER UUYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd8d", 
+                "description": "", 
+                "title": "SINHALA LETTER IRUYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd8e", 
+                "description": "", 
+                "title": "SINHALA LETTER IRUUYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd8f", 
+                "description": "", 
+                "title": "SINHALA LETTER ILUYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd90", 
+                "description": "", 
+                "title": "SINHALA LETTER ILUUYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd91", 
+                "description": "", 
+                "title": "SINHALA LETTER EYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd92", 
+                "description": "", 
+                "title": "SINHALA LETTER EEYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd93", 
+                "description": "", 
+                "title": "SINHALA LETTER AIYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd94", 
+                "description": "", 
+                "title": "SINHALA LETTER OYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd95", 
+                "description": "", 
+                "title": "SINHALA LETTER OOYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0xd96", 
+                "description": "", 
+                "title": "SINHALA LETTER AUYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xd9a", 
+                "description": "", 
+                "title": "SINHALA LETTER ALPAPRAANA KAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xd9b", 
+                "description": "", 
+                "title": "SINHALA LETTER MAHAAPRAANA KAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xd9c", 
+                "description": "", 
+                "title": "SINHALA LETTER ALPAPRAANA GAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xd9d", 
+                "description": "", 
+                "title": "SINHALA LETTER MAHAAPRAANA GAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xd9e", 
+                "description": "", 
+                "title": "SINHALA LETTER KANTAJA NAASIKYAYA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xd9f", 
+                "description": "", 
+                "title": "SINHALA LETTER SANYAKA GAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xda0", 
+                "description": "", 
+                "title": "SINHALA LETTER ALPAPRAANA CAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xda1", 
+                "description": "", 
+                "title": "SINHALA LETTER MAHAAPRAANA CAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xda2", 
+                "description": "", 
+                "title": "SINHALA LETTER ALPAPRAANA JAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xda3", 
+                "description": "", 
+                "title": "SINHALA LETTER MAHAAPRAANA JAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xda4", 
+                "description": "", 
+                "title": "SINHALA LETTER TAALUJA NAASIKYAYA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xda5", 
+                "description": "", 
+                "title": "SINHALA LETTER TAALUJA SANYOOGA NAAKSIKYAYA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xda6", 
+                "description": "", 
+                "title": "SINHALA LETTER SANYAKA JAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xda7", 
+                "description": "", 
+                "title": "SINHALA LETTER ALPAPRAANA TTAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xda8", 
+                "description": "", 
+                "title": "SINHALA LETTER MAHAAPRAANA TTAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xda9", 
+                "description": "", 
+                "title": "SINHALA LETTER ALPAPRAANA DDAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdaa", 
+                "description": "", 
+                "title": "SINHALA LETTER MAHAAPRAANA DDAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdab", 
+                "description": "", 
+                "title": "SINHALA LETTER MUURDHAJA NAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdac", 
+                "description": "", 
+                "title": "SINHALA LETTER SANYAKA DDAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdad", 
+                "description": "", 
+                "title": "SINHALA LETTER ALPAPRAANA TAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdae", 
+                "description": "", 
+                "title": "SINHALA LETTER MAHAAPRAANA TAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdaf", 
+                "description": "", 
+                "title": "SINHALA LETTER ALPAPRAANA DAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdb0", 
+                "description": "", 
+                "title": "SINHALA LETTER MAHAAPRAANA DAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdb1", 
+                "description": "", 
+                "title": "SINHALA LETTER DANTAJA NAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdb3", 
+                "description": "", 
+                "title": "SINHALA LETTER SANYAKA DAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdb4", 
+                "description": "", 
+                "title": "SINHALA LETTER ALPAPRAANA PAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdb5", 
+                "description": "", 
+                "title": "SINHALA LETTER MAHAAPRAANA PAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdb6", 
+                "description": "", 
+                "title": "SINHALA LETTER ALPAPRAANA BAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdb7", 
+                "description": "", 
+                "title": "SINHALA LETTER MAHAAPRAANA BAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdb8", 
+                "description": "", 
+                "title": "SINHALA LETTER MAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdb9", 
+                "description": "", 
+                "title": "SINHALA LETTER AMBA BAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdba", 
+                "description": "", 
+                "title": "SINHALA LETTER YAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdbb", 
+                "description": "", 
+                "title": "SINHALA LETTER RAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdbd", 
+                "description": "", 
+                "title": "SINHALA LETTER DANTAJA LAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdc0", 
+                "description": "", 
+                "title": "SINHALA LETTER VAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdc1", 
+                "description": "", 
+                "title": "SINHALA LETTER TAALUJA SAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdc2", 
+                "description": "", 
+                "title": "SINHALA LETTER MUURDHAJA SAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdc3", 
+                "description": "", 
+                "title": "SINHALA LETTER DANTAJA SAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdc4", 
+                "description": "", 
+                "title": "SINHALA LETTER HAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdc5", 
+                "description": "", 
+                "title": "SINHALA LETTER MUURDHAJA LAYANNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdc6", 
+                "description": "", 
+                "title": "SINHALA LETTER FAYANNA"
+            }, 
+            {
+                "cat1": "Virama", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdca", 
+                "description": "", 
+                "title": "SINHALA SIGN AL-LAKUNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xdcf", 
+                "description": "", 
+                "title": "SINHALA VOWEL SIGN AELA-PILLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xdd0", 
+                "description": "", 
+                "title": "SINHALA VOWEL SIGN KETTI AEDA-PILLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xdd1", 
+                "description": "", 
+                "title": "SINHALA VOWEL SIGN DIGA AEDA-PILLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xdd2", 
+                "description": "", 
+                "title": "SINHALA VOWEL SIGN KETTI IS-PILLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xdd3", 
+                "description": "", 
+                "title": "SINHALA VOWEL SIGN DIGA IS-PILLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xdd4", 
+                "description": "", 
+                "title": "SINHALA VOWEL SIGN KETTI PAA-PILLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xdd6", 
+                "description": "", 
+                "title": "SINHALA VOWEL SIGN DIGA PAA-PILLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xdd8", 
+                "description": "", 
+                "title": "SINHALA VOWEL SIGN GAETTA-PILLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xdd9", 
+                "description": "", 
+                "title": "SINHALA VOWEL SIGN KOMBUVA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xdda", 
+                "description": "", 
+                "title": "SINHALA VOWEL SIGN DIGA KOMBUVA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xddb", 
+                "description": "", 
+                "title": "SINHALA VOWEL SIGN KOMBU DEKA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "Two-part", 
+                "charcode": "0xddc", 
+                "description": "", 
+                "title": "SINHALA VOWEL SIGN KOMBUVA HAA AELA-PILLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "Two-part", 
+                "charcode": "0xddd", 
+                "description": "", 
+                "title": "SINHALA VOWEL SIGN KOMBUVA HAA DIGA AELA-PILLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "Two-part", 
+                "charcode": "0xdde", 
+                "description": "", 
+                "title": "SINHALA VOWEL SIGN KOMBUVA HAA GAYANUKITTA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xddf", 
+                "description": "", 
+                "title": "SINHALA VOWEL SIGN GAYANUKITTA"
+            }, 
+            {
+                "charcode": "0xde6", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0xde7", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT ONE"
+            }, 
+            {
+                "charcode": "0xde8", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT TWO"
+            }, 
+            {
+                "charcode": "0xde9", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT THREE"
+            }, 
+            {
+                "charcode": "0xdea", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0xdeb", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0xdec", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT SIX"
+            }, 
+            {
+                "charcode": "0xded", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0xdee", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0xdef", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT NINE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xdf2", 
+                "description": "", 
+                "title": "SINHALA VOWEL SIGN DIGA GAETTA-PILLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0xdf3", 
+                "description": "", 
+                "title": "SINHALA VOWEL SIGN DIGA GAYANUKITTA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xdf4", 
+                "description": "", 
+                "title": "SINHALA PUNCTUATION KUNDDALIYA"
+            }
+        ], 
+        "name": "Sinhala"
+    }
+]

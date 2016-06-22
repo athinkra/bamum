@@ -1,0 +1,421 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101d0", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN PEDESTRIAN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101d1", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN PLUMED HEAD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101d2", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN TATTOOED HEAD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101d3", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN CAPTIVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101d4", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN CHILD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101d5", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN WOMAN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101d6", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN HELMET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101d7", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN GAUNTLET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101d8", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN TIARA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101d9", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101da", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN BOW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101db", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN SHIELD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101dc", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN CLUB"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101dd", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN MANACLES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101de", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN MATTOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101df", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN SAW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101e0", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN LID"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101e1", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN BOOMERANG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101e2", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN CARPENTRY PLANE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101e3", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN DOLIUM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101e4", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN COMB"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101e5", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN SLING"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101e6", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN COLUMN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101e7", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN BEEHIVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101e8", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN SHIP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101e9", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN HORN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101ea", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN HIDE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101eb", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN BULLS LEG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101ec", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN CAT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101ed", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN RAM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101ee", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN EAGLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101ef", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN DOVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101f0", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN TUNNY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101f1", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN BEE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101f2", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN PLANE TREE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101f3", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN VINE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101f4", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN PAPYRUS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101f5", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN ROSETTE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101f6", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN LILY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101f7", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN OX BACK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101f8", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN FLUTE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101f9", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN GRATER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101fa", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN STRAINER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101fb", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN SMALL AXE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101fc", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN WAVY BAND"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x101fd", 
+                "description": "", 
+                "title": "PHAISTOS DISC SIGN COMBINING OBLIQUE STROKE"
+            }
+        ], 
+        "name": "Phaistos Disc"
+    }
+]

@@ -1,0 +1,2302 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3300", 
+                "description": "SQUARED APAATO", 
+                "title": "SQUARE APAATO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3301", 
+                "description": "SQUARED ARUHUA", 
+                "title": "SQUARE ARUHUA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3302", 
+                "description": "SQUARED ANPEA", 
+                "title": "SQUARE ANPEA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3303", 
+                "description": "SQUARED AARU", 
+                "title": "SQUARE AARU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3304", 
+                "description": "SQUARED ININGU", 
+                "title": "SQUARE ININGU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3305", 
+                "description": "SQUARED INTI", 
+                "title": "SQUARE INTI"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3306", 
+                "description": "SQUARED UON", 
+                "title": "SQUARE UON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3307", 
+                "description": "SQUARED ESUKUUDO", 
+                "title": "SQUARE ESUKUUDO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3308", 
+                "description": "SQUARED EEKAA", 
+                "title": "SQUARE EEKAA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3309", 
+                "description": "SQUARED ONSU", 
+                "title": "SQUARE ONSU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x330a", 
+                "description": "SQUARED OOMU", 
+                "title": "SQUARE OOMU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x330b", 
+                "description": "SQUARED KAIRI", 
+                "title": "SQUARE KAIRI"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x330c", 
+                "description": "SQUARED KARATTO", 
+                "title": "SQUARE KARATTO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x330d", 
+                "description": "SQUARED KARORII", 
+                "title": "SQUARE KARORII"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x330e", 
+                "description": "SQUARED GARON", 
+                "title": "SQUARE GARON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x330f", 
+                "description": "SQUARED GANMA", 
+                "title": "SQUARE GANMA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3310", 
+                "description": "SQUARED GIGA", 
+                "title": "SQUARE GIGA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3311", 
+                "description": "SQUARED GINII", 
+                "title": "SQUARE GINII"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3312", 
+                "description": "SQUARED KYURII", 
+                "title": "SQUARE KYURII"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3313", 
+                "description": "SQUARED GIRUDAA", 
+                "title": "SQUARE GIRUDAA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3314", 
+                "description": "SQUARED KIRO", 
+                "title": "SQUARE KIRO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3315", 
+                "description": "SQUARED KIROGURAMU", 
+                "title": "SQUARE KIROGURAMU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3316", 
+                "description": "SQUARED KIROMEETORU", 
+                "title": "SQUARE KIROMEETORU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3317", 
+                "description": "SQUARED KIROWATTO", 
+                "title": "SQUARE KIROWATTO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3318", 
+                "description": "SQUARED GURAMU", 
+                "title": "SQUARE GURAMU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3319", 
+                "description": "SQUARED GURAMUTON", 
+                "title": "SQUARE GURAMUTON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x331a", 
+                "description": "SQUARED KURUZEIRO", 
+                "title": "SQUARE KURUZEIRO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x331b", 
+                "description": "SQUARED KUROONE", 
+                "title": "SQUARE KUROONE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x331c", 
+                "description": "SQUARED KEESU", 
+                "title": "SQUARE KEESU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x331d", 
+                "description": "SQUARED KORUNA", 
+                "title": "SQUARE KORUNA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x331e", 
+                "description": "SQUARED KOOPO", 
+                "title": "SQUARE KOOPO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x331f", 
+                "description": "SQUARED SAIKURU", 
+                "title": "SQUARE SAIKURU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3320", 
+                "description": "SQUARED SANTIIMU", 
+                "title": "SQUARE SANTIIMU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3321", 
+                "description": "SQUARED SIRINGU", 
+                "title": "SQUARE SIRINGU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3322", 
+                "description": "SQUARED SENTI", 
+                "title": "SQUARE SENTI"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3323", 
+                "description": "SQUARED SENTO", 
+                "title": "SQUARE SENTO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3324", 
+                "description": "SQUARED DAASU", 
+                "title": "SQUARE DAASU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3325", 
+                "description": "SQUARED DESI", 
+                "title": "SQUARE DESI"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3326", 
+                "description": "SQUARED DORU", 
+                "title": "SQUARE DORU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3327", 
+                "description": "SQUARED TON", 
+                "title": "SQUARE TON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3328", 
+                "description": "SQUARED NANO", 
+                "title": "SQUARE NANO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3329", 
+                "description": "SQUARED NOTTO", 
+                "title": "SQUARE NOTTO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x332a", 
+                "description": "SQUARED HAITU", 
+                "title": "SQUARE HAITU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x332b", 
+                "description": "SQUARED PAASENTO", 
+                "title": "SQUARE PAASENTO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x332c", 
+                "description": "SQUARED PAATU", 
+                "title": "SQUARE PAATU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x332d", 
+                "description": "SQUARED BAARERU", 
+                "title": "SQUARE BAARERU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x332e", 
+                "description": "SQUARED PIASUTORU", 
+                "title": "SQUARE PIASUTORU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x332f", 
+                "description": "SQUARED PIKURU", 
+                "title": "SQUARE PIKURU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3330", 
+                "description": "SQUARED PIKO", 
+                "title": "SQUARE PIKO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3331", 
+                "description": "SQUARED BIRU", 
+                "title": "SQUARE BIRU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3332", 
+                "description": "SQUARED HUARADDO", 
+                "title": "SQUARE HUARADDO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3333", 
+                "description": "SQUARED HUIITO", 
+                "title": "SQUARE HUIITO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3334", 
+                "description": "SQUARED BUSSYERU", 
+                "title": "SQUARE BUSSYERU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3335", 
+                "description": "SQUARED HURAN", 
+                "title": "SQUARE HURAN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3336", 
+                "description": "SQUARED HEKUTAARU", 
+                "title": "SQUARE HEKUTAARU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3337", 
+                "description": "SQUARED PESO", 
+                "title": "SQUARE PESO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3338", 
+                "description": "SQUARED PENIHI", 
+                "title": "SQUARE PENIHI"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3339", 
+                "description": "SQUARED HERUTU", 
+                "title": "SQUARE HERUTU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x333a", 
+                "description": "SQUARED PENSU", 
+                "title": "SQUARE PENSU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x333b", 
+                "description": "SQUARED PEEZI", 
+                "title": "SQUARE PEEZI"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x333c", 
+                "description": "SQUARED BEETA", 
+                "title": "SQUARE BEETA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x333d", 
+                "description": "SQUARED POINTO", 
+                "title": "SQUARE POINTO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x333e", 
+                "description": "SQUARED BORUTO", 
+                "title": "SQUARE BORUTO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x333f", 
+                "description": "SQUARED HON", 
+                "title": "SQUARE HON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3340", 
+                "description": "SQUARED PONDO", 
+                "title": "SQUARE PONDO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3341", 
+                "description": "SQUARED HOORU", 
+                "title": "SQUARE HOORU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3342", 
+                "description": "SQUARED HOON", 
+                "title": "SQUARE HOON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3343", 
+                "description": "SQUARED MAIKURO", 
+                "title": "SQUARE MAIKURO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3344", 
+                "description": "SQUARED MAIRU", 
+                "title": "SQUARE MAIRU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3345", 
+                "description": "SQUARED MAHHA", 
+                "title": "SQUARE MAHHA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3346", 
+                "description": "SQUARED MARUKU", 
+                "title": "SQUARE MARUKU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3347", 
+                "description": "SQUARED MANSYON", 
+                "title": "SQUARE MANSYON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3348", 
+                "description": "SQUARED MIKURON", 
+                "title": "SQUARE MIKURON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3349", 
+                "description": "SQUARED MIRI", 
+                "title": "SQUARE MIRI"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x334a", 
+                "description": "SQUARED MIRIBAARU", 
+                "title": "SQUARE MIRIBAARU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x334b", 
+                "description": "SQUARED MEGA", 
+                "title": "SQUARE MEGA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x334c", 
+                "description": "SQUARED MEGATON", 
+                "title": "SQUARE MEGATON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x334d", 
+                "description": "SQUARED MEETORU", 
+                "title": "SQUARE MEETORU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x334e", 
+                "description": "SQUARED YAADO", 
+                "title": "SQUARE YAADO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x334f", 
+                "description": "SQUARED YAARU", 
+                "title": "SQUARE YAARU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3350", 
+                "description": "SQUARED YUAN", 
+                "title": "SQUARE YUAN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3351", 
+                "description": "SQUARED RITTORU", 
+                "title": "SQUARE RITTORU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3352", 
+                "description": "SQUARED RIRA", 
+                "title": "SQUARE RIRA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3353", 
+                "description": "SQUARED RUPII", 
+                "title": "SQUARE RUPII"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3354", 
+                "description": "SQUARED RUUBURU", 
+                "title": "SQUARE RUUBURU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3355", 
+                "description": "SQUARED REMU", 
+                "title": "SQUARE REMU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3356", 
+                "description": "SQUARED RENTOGEN", 
+                "title": "SQUARE RENTOGEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x3357", 
+                "description": "SQUARED WATTO", 
+                "title": "SQUARE WATTO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3358", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ZERO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3359", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ONE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x335a", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x335b", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR THREE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x335c", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FOUR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x335d", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FIVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x335e", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SIX"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x335f", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SEVEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3360", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR EIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3361", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR NINE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3362", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3363", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ELEVEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3364", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWELVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3365", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR THIRTEEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3366", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FOURTEEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3367", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FIFTEEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3368", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SIXTEEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3369", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SEVENTEEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x336a", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR EIGHTEEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x336b", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR NINETEEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x336c", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x336d", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-ONE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x336e", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-TWO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x336f", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-THREE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3370", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-FOUR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3371", 
+                "description": "", 
+                "title": "SQUARE HPA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3372", 
+                "description": "", 
+                "title": "SQUARE DA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3373", 
+                "description": "", 
+                "title": "SQUARE AU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3374", 
+                "description": "", 
+                "title": "SQUARE BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3375", 
+                "description": "", 
+                "title": "SQUARE OV"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3376", 
+                "description": "", 
+                "title": "SQUARE PC"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3377", 
+                "description": "", 
+                "title": "SQUARE DM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3378", 
+                "description": "", 
+                "title": "SQUARE DM SQUARED"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3379", 
+                "description": "", 
+                "title": "SQUARE DM CUBED"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x337a", 
+                "description": "", 
+                "title": "SQUARE IU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x337b", 
+                "description": "SQUARED TWO IDEOGRAPHS ERA NAME HEISEI", 
+                "title": "SQUARE ERA NAME HEISEI"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x337c", 
+                "description": "SQUARED TWO IDEOGRAPHS ERA NAME SYOUWA", 
+                "title": "SQUARE ERA NAME SYOUWA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x337d", 
+                "description": "SQUARED TWO IDEOGRAPHS ERA NAME TAISYOU", 
+                "title": "SQUARE ERA NAME TAISYOU"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x337e", 
+                "description": "SQUARED TWO IDEOGRAPHS ERA NAME MEIZI", 
+                "title": "SQUARE ERA NAME MEIZI"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Squared", 
+                "cat4": "", 
+                "charcode": "0x337f", 
+                "description": "SQUARED FOUR IDEOGRAPHS CORPORATION", 
+                "title": "SQUARE CORPORATION"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3380", 
+                "description": "SQUARED PA AMPS", 
+                "title": "SQUARE PA AMPS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3381", 
+                "description": "SQUARED NA", 
+                "title": "SQUARE NA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3382", 
+                "description": "SQUARED MU A", 
+                "title": "SQUARE MU A"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3383", 
+                "description": "SQUARED MA", 
+                "title": "SQUARE MA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3384", 
+                "description": "SQUARED KA", 
+                "title": "SQUARE KA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3385", 
+                "description": "SQUARED KB", 
+                "title": "SQUARE KB"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3386", 
+                "description": "SQUARED MB", 
+                "title": "SQUARE MB"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3387", 
+                "description": "SQUARED GB", 
+                "title": "SQUARE GB"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3388", 
+                "description": "SQUARED CAL", 
+                "title": "SQUARE CAL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3389", 
+                "description": "SQUARED KCAL", 
+                "title": "SQUARE KCAL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x338a", 
+                "description": "SQUARED PF", 
+                "title": "SQUARE PF"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x338b", 
+                "description": "SQUARED NF", 
+                "title": "SQUARE NF"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x338c", 
+                "description": "SQUARED MU F", 
+                "title": "SQUARE MU F"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x338d", 
+                "description": "SQUARED MU G", 
+                "title": "SQUARE MU G"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x338e", 
+                "description": "SQUARED MG", 
+                "title": "SQUARE MG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x338f", 
+                "description": "SQUARED KG", 
+                "title": "SQUARE KG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3390", 
+                "description": "SQUARED HZ", 
+                "title": "SQUARE HZ"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3391", 
+                "description": "SQUARED KHZ", 
+                "title": "SQUARE KHZ"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3392", 
+                "description": "SQUARED MHZ", 
+                "title": "SQUARE MHZ"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3393", 
+                "description": "SQUARED GHZ", 
+                "title": "SQUARE GHZ"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3394", 
+                "description": "SQUARED THZ", 
+                "title": "SQUARE THZ"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3395", 
+                "description": "SQUARED MU L", 
+                "title": "SQUARE MU L"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3396", 
+                "description": "SQUARED ML", 
+                "title": "SQUARE ML"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3397", 
+                "description": "SQUARED DL", 
+                "title": "SQUARE DL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3398", 
+                "description": "SQUARED KL", 
+                "title": "SQUARE KL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x3399", 
+                "description": "SQUARED FM", 
+                "title": "SQUARE FM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x339a", 
+                "description": "SQUARED NM", 
+                "title": "SQUARE NM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x339b", 
+                "description": "SQUARED MU M", 
+                "title": "SQUARE MU M"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x339c", 
+                "description": "SQUARED MM", 
+                "title": "SQUARE MM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x339d", 
+                "description": "SQUARED CM", 
+                "title": "SQUARE CM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x339e", 
+                "description": "SQUARED KM", 
+                "title": "SQUARE KM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x339f", 
+                "description": "SQUARED MM SQUARED", 
+                "title": "SQUARE MM SQUARED"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33a0", 
+                "description": "SQUARED CM SQUARED", 
+                "title": "SQUARE CM SQUARED"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33a1", 
+                "description": "SQUARED M SQUARED", 
+                "title": "SQUARE M SQUARED"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33a2", 
+                "description": "SQUARED KM SQUARED", 
+                "title": "SQUARE KM SQUARED"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33a3", 
+                "description": "SQUARED MM CUBED", 
+                "title": "SQUARE MM CUBED"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33a4", 
+                "description": "SQUARED CM CUBED", 
+                "title": "SQUARE CM CUBED"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33a5", 
+                "description": "SQUARED M CUBED", 
+                "title": "SQUARE M CUBED"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33a6", 
+                "description": "SQUARED KM CUBED", 
+                "title": "SQUARE KM CUBED"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33a7", 
+                "description": "SQUARED M OVER S", 
+                "title": "SQUARE M OVER S"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33a8", 
+                "description": "SQUARED M OVER S SQUARED", 
+                "title": "SQUARE M OVER S SQUARED"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33a9", 
+                "description": "SQUARED PA", 
+                "title": "SQUARE PA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33aa", 
+                "description": "SQUARED KPA", 
+                "title": "SQUARE KPA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33ab", 
+                "description": "SQUARED MPA", 
+                "title": "SQUARE MPA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33ac", 
+                "description": "SQUARED GPA", 
+                "title": "SQUARE GPA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33ad", 
+                "description": "SQUARED RAD", 
+                "title": "SQUARE RAD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33ae", 
+                "description": "SQUARED RAD OVER S", 
+                "title": "SQUARE RAD OVER S"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33af", 
+                "description": "SQUARED RAD OVER S SQUARED", 
+                "title": "SQUARE RAD OVER S SQUARED"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33b0", 
+                "description": "SQUARED PS", 
+                "title": "SQUARE PS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33b1", 
+                "description": "SQUARED NS", 
+                "title": "SQUARE NS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33b2", 
+                "description": "SQUARED MU S", 
+                "title": "SQUARE MU S"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33b3", 
+                "description": "SQUARED MS", 
+                "title": "SQUARE MS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33b4", 
+                "description": "SQUARED PV", 
+                "title": "SQUARE PV"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33b5", 
+                "description": "SQUARED NV", 
+                "title": "SQUARE NV"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33b6", 
+                "description": "SQUARED MU V", 
+                "title": "SQUARE MU V"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33b7", 
+                "description": "SQUARED MV", 
+                "title": "SQUARE MV"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33b8", 
+                "description": "SQUARED KV", 
+                "title": "SQUARE KV"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33b9", 
+                "description": "SQUARED MV MEGA", 
+                "title": "SQUARE MV MEGA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33ba", 
+                "description": "SQUARED PW", 
+                "title": "SQUARE PW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33bb", 
+                "description": "SQUARED NW", 
+                "title": "SQUARE NW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33bc", 
+                "description": "SQUARED MU W", 
+                "title": "SQUARE MU W"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33bd", 
+                "description": "SQUARED MW", 
+                "title": "SQUARE MW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33be", 
+                "description": "SQUARED KW", 
+                "title": "SQUARE KW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33bf", 
+                "description": "SQUARED MW MEGA", 
+                "title": "SQUARE MW MEGA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33c0", 
+                "description": "SQUARED K OHM", 
+                "title": "SQUARE K OHM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33c1", 
+                "description": "SQUARED M OHM", 
+                "title": "SQUARE M OHM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33c2", 
+                "description": "SQUARED AM", 
+                "title": "SQUARE AM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33c3", 
+                "description": "SQUARED BQ", 
+                "title": "SQUARE BQ"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33c4", 
+                "description": "SQUARED CC", 
+                "title": "SQUARE CC"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33c5", 
+                "description": "SQUARED CD", 
+                "title": "SQUARE CD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33c6", 
+                "description": "SQUARED C OVER KG", 
+                "title": "SQUARE C OVER KG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33c7", 
+                "description": "SQUARED CO", 
+                "title": "SQUARE CO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33c8", 
+                "description": "SQUARED DB", 
+                "title": "SQUARE DB"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33c9", 
+                "description": "SQUARED GY", 
+                "title": "SQUARE GY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33ca", 
+                "description": "SQUARED HA", 
+                "title": "SQUARE HA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33cb", 
+                "description": "SQUARED HP", 
+                "title": "SQUARE HP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33cc", 
+                "description": "SQUARED IN", 
+                "title": "SQUARE IN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33cd", 
+                "description": "SQUARED KK", 
+                "title": "SQUARE KK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33ce", 
+                "description": "SQUARED KM CAPITAL", 
+                "title": "SQUARE KM CAPITAL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33cf", 
+                "description": "SQUARED KT", 
+                "title": "SQUARE KT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33d0", 
+                "description": "SQUARED LM", 
+                "title": "SQUARE LM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33d1", 
+                "description": "SQUARED LN", 
+                "title": "SQUARE LN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33d2", 
+                "description": "SQUARED LOG", 
+                "title": "SQUARE LOG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33d3", 
+                "description": "SQUARED LX", 
+                "title": "SQUARE LX"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33d4", 
+                "description": "SQUARED MB SMALL", 
+                "title": "SQUARE MB SMALL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33d5", 
+                "description": "SQUARED MIL", 
+                "title": "SQUARE MIL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33d6", 
+                "description": "SQUARED MOL", 
+                "title": "SQUARE MOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33d7", 
+                "description": "SQUARED PH", 
+                "title": "SQUARE PH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33d8", 
+                "description": "SQUARED PM", 
+                "title": "SQUARE PM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33d9", 
+                "description": "SQUARED PPM", 
+                "title": "SQUARE PPM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33da", 
+                "description": "SQUARED PR", 
+                "title": "SQUARE PR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33db", 
+                "description": "SQUARED SR", 
+                "title": "SQUARE SR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33dc", 
+                "description": "SQUARED SV", 
+                "title": "SQUARE SV"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33dd", 
+                "description": "SQUARED WB", 
+                "title": "SQUARE WB"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33de", 
+                "description": "", 
+                "title": "SQUARE V OVER M"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33df", 
+                "description": "", 
+                "title": "SQUARE A OVER M"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33e0", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY ONE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33e1", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33e2", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THREE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33e3", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FOUR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33e4", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FIVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33e5", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SIX"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33e6", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SEVEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33e7", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY EIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33e8", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY NINE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33e9", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33ea", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY ELEVEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33eb", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWELVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33ec", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTEEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33ed", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FOURTEEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33ee", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FIFTEEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33ef", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SIXTEEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33f0", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SEVENTEEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33f1", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY EIGHTEEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33f2", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY NINETEEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33f3", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33f4", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-ONE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33f5", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-TWO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33f6", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-THREE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33f7", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-FOUR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33f8", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-FIVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33f9", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-SIX"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33fa", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-SEVEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33fb", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-EIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33fc", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-NINE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33fd", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x33fe", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY-ONE"
+            }
+        ], 
+        "name": "CJK Compatibility"
+    }
+]

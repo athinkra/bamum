@@ -1,0 +1,835 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3041", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SMALL A"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3042", 
+                "description": "", 
+                "title": "HIRAGANA LETTER A"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3043", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SMALL I"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3044", 
+                "description": "", 
+                "title": "HIRAGANA LETTER I"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3045", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SMALL U"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3046", 
+                "description": "", 
+                "title": "HIRAGANA LETTER U"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3047", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SMALL E"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3048", 
+                "description": "", 
+                "title": "HIRAGANA LETTER E"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3049", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SMALL O"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x304a", 
+                "description": "", 
+                "title": "HIRAGANA LETTER O"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x304b", 
+                "description": "", 
+                "title": "HIRAGANA LETTER KA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x304c", 
+                "description": "", 
+                "title": "HIRAGANA LETTER GA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x304d", 
+                "description": "", 
+                "title": "HIRAGANA LETTER KI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x304e", 
+                "description": "", 
+                "title": "HIRAGANA LETTER GI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x304f", 
+                "description": "", 
+                "title": "HIRAGANA LETTER KU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3050", 
+                "description": "", 
+                "title": "HIRAGANA LETTER GU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3051", 
+                "description": "", 
+                "title": "HIRAGANA LETTER KE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3052", 
+                "description": "", 
+                "title": "HIRAGANA LETTER GE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3053", 
+                "description": "", 
+                "title": "HIRAGANA LETTER KO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3054", 
+                "description": "", 
+                "title": "HIRAGANA LETTER GO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3055", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3056", 
+                "description": "", 
+                "title": "HIRAGANA LETTER ZA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3057", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3058", 
+                "description": "", 
+                "title": "HIRAGANA LETTER ZI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3059", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x305a", 
+                "description": "", 
+                "title": "HIRAGANA LETTER ZU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x305b", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x305c", 
+                "description": "", 
+                "title": "HIRAGANA LETTER ZE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x305d", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x305e", 
+                "description": "", 
+                "title": "HIRAGANA LETTER ZO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x305f", 
+                "description": "", 
+                "title": "HIRAGANA LETTER TA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3060", 
+                "description": "", 
+                "title": "HIRAGANA LETTER DA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3061", 
+                "description": "", 
+                "title": "HIRAGANA LETTER TI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3062", 
+                "description": "", 
+                "title": "HIRAGANA LETTER DI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3063", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SMALL TU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3064", 
+                "description": "", 
+                "title": "HIRAGANA LETTER TU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3065", 
+                "description": "", 
+                "title": "HIRAGANA LETTER DU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3066", 
+                "description": "", 
+                "title": "HIRAGANA LETTER TE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3067", 
+                "description": "", 
+                "title": "HIRAGANA LETTER DE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3068", 
+                "description": "", 
+                "title": "HIRAGANA LETTER TO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3069", 
+                "description": "", 
+                "title": "HIRAGANA LETTER DO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x306a", 
+                "description": "", 
+                "title": "HIRAGANA LETTER NA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x306b", 
+                "description": "", 
+                "title": "HIRAGANA LETTER NI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x306c", 
+                "description": "", 
+                "title": "HIRAGANA LETTER NU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x306d", 
+                "description": "", 
+                "title": "HIRAGANA LETTER NE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x306e", 
+                "description": "", 
+                "title": "HIRAGANA LETTER NO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x306f", 
+                "description": "", 
+                "title": "HIRAGANA LETTER HA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3070", 
+                "description": "", 
+                "title": "HIRAGANA LETTER BA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3071", 
+                "description": "", 
+                "title": "HIRAGANA LETTER PA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3072", 
+                "description": "", 
+                "title": "HIRAGANA LETTER HI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3073", 
+                "description": "", 
+                "title": "HIRAGANA LETTER BI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3074", 
+                "description": "", 
+                "title": "HIRAGANA LETTER PI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3075", 
+                "description": "", 
+                "title": "HIRAGANA LETTER HU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3076", 
+                "description": "", 
+                "title": "HIRAGANA LETTER BU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3077", 
+                "description": "", 
+                "title": "HIRAGANA LETTER PU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3078", 
+                "description": "", 
+                "title": "HIRAGANA LETTER HE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3079", 
+                "description": "", 
+                "title": "HIRAGANA LETTER BE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x307a", 
+                "description": "", 
+                "title": "HIRAGANA LETTER PE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x307b", 
+                "description": "", 
+                "title": "HIRAGANA LETTER HO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x307c", 
+                "description": "", 
+                "title": "HIRAGANA LETTER BO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x307d", 
+                "description": "", 
+                "title": "HIRAGANA LETTER PO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x307e", 
+                "description": "", 
+                "title": "HIRAGANA LETTER MA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x307f", 
+                "description": "", 
+                "title": "HIRAGANA LETTER MI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3080", 
+                "description": "", 
+                "title": "HIRAGANA LETTER MU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3081", 
+                "description": "", 
+                "title": "HIRAGANA LETTER ME"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3082", 
+                "description": "", 
+                "title": "HIRAGANA LETTER MO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3083", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SMALL YA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3084", 
+                "description": "", 
+                "title": "HIRAGANA LETTER YA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3085", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SMALL YU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3086", 
+                "description": "", 
+                "title": "HIRAGANA LETTER YU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3087", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SMALL YO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3088", 
+                "description": "", 
+                "title": "HIRAGANA LETTER YO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3089", 
+                "description": "", 
+                "title": "HIRAGANA LETTER RA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x308a", 
+                "description": "", 
+                "title": "HIRAGANA LETTER RI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x308b", 
+                "description": "", 
+                "title": "HIRAGANA LETTER RU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x308c", 
+                "description": "", 
+                "title": "HIRAGANA LETTER RE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x308d", 
+                "description": "", 
+                "title": "HIRAGANA LETTER RO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x308e", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SMALL WA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x308f", 
+                "description": "", 
+                "title": "HIRAGANA LETTER WA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3090", 
+                "description": "", 
+                "title": "HIRAGANA LETTER WI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3091", 
+                "description": "", 
+                "title": "HIRAGANA LETTER WE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3092", 
+                "description": "", 
+                "title": "HIRAGANA LETTER WO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3093", 
+                "description": "", 
+                "title": "HIRAGANA LETTER N"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3094", 
+                "description": "", 
+                "title": "HIRAGANA LETTER VU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3095", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SMALL KA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3096", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SMALL KE"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3099", 
+                "description": "NON-SPACING KATAKANA-HIRAGANA VOICED SOUND MARK", 
+                "title": "COMBINING KATAKANA-HIRAGANA VOICED SOUND MARK"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x309a", 
+                "description": "NON-SPACING KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK", 
+                "title": "COMBINING KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x309b", 
+                "description": "", 
+                "title": "KATAKANA-HIRAGANA VOICED SOUND MARK"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x309c", 
+                "description": "", 
+                "title": "KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Modifier", 
+                "cat3": "Repetition", 
+                "cat4": "", 
+                "charcode": "0x309d", 
+                "description": "", 
+                "title": "HIRAGANA ITERATION MARK"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Modifier", 
+                "cat3": "Repetition", 
+                "cat4": "", 
+                "charcode": "0x309e", 
+                "description": "", 
+                "title": "HIRAGANA VOICED ITERATION MARK"
+            }
+        ], 
+        "name": "Hiragana"
+    }
+]

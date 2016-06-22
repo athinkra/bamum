@@ -1,0 +1,62 @@
+{
+  "Bamum": {
+    "filename": "0xa6a0-bamum.json",
+    "start": 42656,
+    "title": "Bamum"
+  },
+  "Bamum Supplement": {
+    "filename": "0x16800-bamum_supplement.json",
+    "start": 92160,
+    "title": "Bamum Supplement"
+  },
+  "Bassa Vah": {
+    "filename": "0x16ad0-bassa_vah.json",
+    "start": 92880,
+    "title": "Bassa Vah"
+  },
+  "Ethiopic": {
+    "filename": "0x1200-ethiopic.json",
+    "start": 4608,
+    "title": "Ethiopic"
+  },
+  "Ethiopic Extended": {
+    "filename": "0x2d80-ethiopic_extended.json",
+    "start": 11648,
+    "title": "Ethiopic Extended"
+  },
+  "Ethiopic Extended-A": {
+    "filename": "0xab00-ethiopic_extended-a.json",
+    "start": 43776,
+    "title": "Ethiopic Extended-A"
+  },
+  "Ethiopic Supplement": {
+    "filename": "0x1380-ethiopic_supplement.json",
+    "start": 4992,
+    "title": "Ethiopic Supplement"
+  },
+  "General Punctuation": {
+    "filename": "0x2000-general_punctuation.json",
+    "start": 8192,
+    "title": "General Punctuation"
+  },
+  "Mende Kikakui": {
+    "filename": "0x1e800-mende_kikakui.json",
+    "start": 124928,
+    "title": "Mende Kikakui"
+  },
+  "NKo": {
+    "filename": "0x7c0-nko.json",
+    "start": 1984,
+    "title": "NKo"
+  },
+  "Tifinagh": {
+    "filename": "0x2d30-tifinagh.json",
+    "start": 11568,
+    "title": "Tifinagh"
+  },
+  "Vai": {
+    "filename": "0xa500-vai.json",
+    "start": 42240,
+    "title": "Vai"
+  }
+}

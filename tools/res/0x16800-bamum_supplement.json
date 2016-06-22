@@ -1,0 +1,5128 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16800", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NGKUE MFON"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16801", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A GBIEE FON"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16802", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A PON MFON PIPAEMGBIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16803", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A PON MFON PIPAEMBA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16804", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NAA MFON"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16805", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A SHUENSHUET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16806", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A TITA MFON"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16807", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NZA MFON"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16808", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A SHINDA PA NJI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16809", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A PON PA NJI PIPAEMGBIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1680a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A PON PA NJI PIPAEMBA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1680b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A MAEMBGBIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1680c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A TU MAEMBA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1680d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NGANGU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1680e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A MAEMVEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1680f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A MANSUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16810", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A MVEUAENGAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16811", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A SEUNYAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16812", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NTOQPEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16813", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A KEUKEUTNDA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16814", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NKINDI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16815", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A SUU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16816", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NGKUENZEUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16817", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A LAPAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16818", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A LET KUT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16819", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NTAP MFAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1681a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A MAEKEUP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1681b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A PASHAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1681c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A GHEUAERAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1681d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A PAMSHAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1681e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A MON NGGEUAET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1681f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NZUN MEUT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16820", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A U YUQ NAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16821", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A GHEUAEGHEUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16822", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NTAP NTAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16823", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A SISA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16824", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A MGBASA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16825", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A MEUNJOMNDEUQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16826", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A MOOMPUQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16827", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A KAFA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16828", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A PA LEERAEWA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16829", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NDA LEERAEWA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1682a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A PET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1682b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A MAEMKPEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1682c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NIKA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1682d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A PUP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1682e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A TUAEP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1682f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A LUAEP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16830", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A SONJAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16831", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A TEUTEUWEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16832", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A MAENYI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16833", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A KET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16834", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NDAANGGEUAET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16835", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A KUOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16836", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A MOOMEUT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16837", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A SHUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16838", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A LOMMAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16839", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A FIRI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1683a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A ROM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1683b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A KPOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1683c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A SOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1683d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A MAP PIEET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1683e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A SHIRAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1683f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NTAP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16840", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A SHOQ NSHUT YUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16841", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NYIT MONGKEUAEQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16842", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A PAARAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16843", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NKAARAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16844", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A UNKNOWN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16845", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NGGEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16846", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A MAESI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16847", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NJAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16848", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A MBANYI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16849", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NYET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1684a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A TEUAEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1684b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A SOT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1684c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A PAAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1684d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NSHIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1684e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A MAEM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1684f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NYI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16850", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A KAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16851", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NSHA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16852", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A VEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16853", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A LU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16854", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16855", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A NAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16856", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-A MBAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16857", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B NSHUET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16858", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B TU MAEMGBIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16859", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B SIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1685a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B SET TU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1685b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B LOM NTEUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1685c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B MBA MAELEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1685d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B KIEEM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1685e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B YEURAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1685f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B MBAARAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16860", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B KAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16861", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B PEESHI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16862", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B YAFU LEERAEWA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16863", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B LAM NSHUT NYAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16864", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B NTIEE SHEUOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16865", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B NDU NJAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16866", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B GHEUGHEUAEM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16867", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B PIT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16868", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B TU NSIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16869", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B SHET NJAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1686a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B SHEUAEQTU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1686b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B MFON TEUAEQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1686c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B MBIT MBAAKET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1686d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B NYI NTEUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1686e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B KEUPUQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1686f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B GHEUGHEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16870", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B KEUYEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16871", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B LAANAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16872", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B PARUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16873", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B VEUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16874", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B NGKINDI MVOP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16875", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B NGGEU MBU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16876", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B WUAET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16877", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B SAKEUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16878", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B TAAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16879", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B MEUQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1687a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B NGGUOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1687b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B NGGUOQ LARGE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1687c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B MFIYAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1687d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B SUE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1687e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B MBEURI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1687f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B MONTIEEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16880", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B NYAEMAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16881", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B PUNGAAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16882", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B MEUT NGGEET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16883", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B FEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16884", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B MBUOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16885", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B FEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16886", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B KEUAEM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16887", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B MA NJEUAENA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16888", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B MA NJUQA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16889", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B LET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1688a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B NGGAAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1688b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B NSEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1688c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B MA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1688d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B KIQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1688e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-B NGOM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1688f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NGKUE MAEMBA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16890", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NZA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16891", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C YUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16892", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C WANGKUOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16893", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NGGEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16894", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NDEUAEREE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16895", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NGKAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16896", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C GHARAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16897", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MBEEKEET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16898", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C GBAYI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16899", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NYIR MKPARAQ MEUN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1689a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NTU MBIT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1689b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MBEUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1689c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C PIRIEEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1689d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NDOMBU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1689e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MBAA CABBAGE-TREE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1689f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C KEUSHEUAEP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168a0", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C GHAP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168a1", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C KEUKAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168a2", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C YU MUOMAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168a3", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NZEUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168a4", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MBUE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168a5", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NSEUAEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168a6", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MBIT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168a7", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C YEUQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168a8", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C KPARAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168a9", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C KAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168aa", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C SEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168ab", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NDIDA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168ac", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C TAASHAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168ad", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NJUEQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168ae", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C TITA YUE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168af", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C SUAET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168b0", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NGGUAEN NYAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168b1", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C VEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168b2", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NANSANAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168b3", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MA KEUAERI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168b4", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NTAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168b5", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NGGUON"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168b6", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C LAP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168b7", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MBIRIEEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168b8", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MGBASAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168b9", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NTEUNGBA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168ba", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C TEUTEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168bb", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NGGUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168bc", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C FUE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168bd", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NDEUT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168be", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NSA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168bf", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NSHAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168c0", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C BUNG"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168c1", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C VEUAEPEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168c2", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MBERAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168c3", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C RU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168c4", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NJAEM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168c5", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C LAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168c6", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C TITUAEP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168c7", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NSUOT NGOM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168c8", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NJEEEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168c9", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C KET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168ca", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NGGU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168cb", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MAESI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168cc", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MBUAEM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168cd", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C LU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168ce", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C KUT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168cf", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NJAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168d0", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NGOM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168d1", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C WUP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168d2", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NGGUEET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168d3", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NSOM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168d4", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NTEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168d5", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C KUOP NKAARAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168d6", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NSUN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168d7", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NDAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168d8", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MA NSIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168d9", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C YAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168da", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NDAP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168db", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C SHUEQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168dc", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C SETFON"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168dd", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MBI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168de", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MAEMBA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168df", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MBANYI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168e0", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C KEUSEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168e1", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MBEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168e2", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C KEUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168e3", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MBAA PICKET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168e4", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C YUWOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168e5", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NJEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168e6", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168e7", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C MUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168e8", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C SHIQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168e9", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C KEN LAW"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168ea", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C KEN FATIGUE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168eb", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NGAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168ec", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C NAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168ed", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C LIQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168ee", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C PIN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168ef", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C PEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168f0", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-C TET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168f1", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MBUO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168f2", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D WAP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168f3", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NJI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168f4", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MFON"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168f5", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NJIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168f6", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D LIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168f7", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NJEUT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168f8", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NSHEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168f9", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NGGAAMAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168fa", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NYAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168fb", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D WUAEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168fc", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NGKUN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168fd", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D SHEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168fe", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NGKAP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x168ff", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D KEUAETMEUN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16900", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D TEUT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16901", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D SHEUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16902", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NJAP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16903", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D SUE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16904", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D KET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16905", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D YAEMMAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16906", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D KUOM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16907", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D SAP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16908", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MFEUT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16909", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NDEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1690a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MALEERI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1690b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MEUT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1690c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D SEUAEQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1690d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D YEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1690e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NJEUAEM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1690f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D KEUOT MBUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16910", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NGKEURI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16911", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D TU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16912", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D GHAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16913", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NGKYEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16914", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D FEUFEUAET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16915", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NDEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16916", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MGBOFUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16917", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D LEUAEP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16918", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NDON"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16919", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MONI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1691a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MGBEUN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1691b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D PUUT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1691c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MGBIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1691d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MFO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1691e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D LUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1691f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NSIEEP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16920", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MBAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16921", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D KWAET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16922", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NYET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16923", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D TEUAEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16924", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D SOT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16925", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D YUWOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16926", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D KEUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16927", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D RAEM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16928", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D TEEEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16929", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NGKEUAEQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1692a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MFEUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1692b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NSIEET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1692c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D KEUP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1692d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D PIP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1692e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D PEUTAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1692f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NYUE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16930", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D LET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16931", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NGGAAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16932", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MFIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16933", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NGGWAEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16934", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D YUOM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16935", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D PAP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16936", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D YUOP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16937", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NDAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16938", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NTEUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16939", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D SUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1693a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D KUN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1693b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NGGEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1693c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NGKIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1693d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D TUOT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1693e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MEUN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1693f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D KUQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16940", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NSUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16941", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D TEUN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16942", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MAENJET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16943", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NGGAP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16944", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D LEUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16945", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NGGUOM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16946", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NSHUT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16947", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NJUEQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16948", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D GHEUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16949", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D KU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1694a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D REN OLD"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1694b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D TAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1694c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D TOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1694d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NYI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1694e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D RII"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1694f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D LEEEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16950", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MEEEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16951", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D M"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16952", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D SUU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16953", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16954", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D SHII"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16955", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D SHEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16956", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D KYEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16957", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16958", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D SHU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16959", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NTEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1695a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D PEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1695b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1695c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D SHOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1695d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D PUQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1695e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MVOP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1695f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D LOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16960", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D REN MUCH"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16961", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D TI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16962", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D NTUU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16963", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D MBAA SEVEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16964", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D SAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16965", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-D FAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16966", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NDAP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16967", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E TOON"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16968", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E MBEUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16969", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E LAP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1696a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E VOM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1696b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E LOON"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1696c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E PAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1696d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E SOM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1696e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E RAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1696f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NSHUOP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16970", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NDUN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16971", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E PUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16972", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E TAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16973", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGKA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16974", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E KPEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16975", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E WUO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16976", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E SEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16977", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGGEUAET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16978", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E PAAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16979", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E TOO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1697a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E KUOP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1697b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E LOM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1697c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NSHIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1697d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGOP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1697e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E MAEM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1697f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGKEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16980", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16981", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NSHUE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16982", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E RIMGBA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16983", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NJEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16984", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E PEEM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16985", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E SAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16986", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGGURAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16987", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E MGBA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16988", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E GHEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16989", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGKEUAEM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1698a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NJAEMLI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1698b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E MAP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1698c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E LOOT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1698d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGGEEEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1698e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NDIQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1698f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E TAEN NTEUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16990", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E SET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16991", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E PUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16992", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NDAA SOFTNESS"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16993", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGGUAESHAE NYAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16994", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E YIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16995", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E GHEUN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16996", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E TUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16997", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E YEUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16998", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E PO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16999", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E TUMAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1699a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E KEUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1699b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E SUAEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1699c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E TEUAEQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1699d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E VEUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1699e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E WEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1699f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E LAAM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169a0", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E PU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169a1", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E TAAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169a2", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E GHAAMAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169a3", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGEUREUT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169a4", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E SHEUAEQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169a5", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E MGBEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169a6", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E MBEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169a7", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NZAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169a8", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NKOM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169a9", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E GBET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169aa", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E TUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169ab", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E KUET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169ac", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E YAP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169ad", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NYI CLEAVER"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169ae", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E YIT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169af", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E MFEUQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169b0", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NDIAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169b1", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E PIEEQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169b2", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E YUEQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169b3", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E LEUAEM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169b4", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E FUE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169b5", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E GBEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169b6", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGKUP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169b7", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E KET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169b8", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E MAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169b9", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGKAAMI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169ba", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E GHET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169bb", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E FA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169bc", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NTUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169bd", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E PEUT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169be", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E YEUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169bf", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGGEUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169c0", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NYI BETWEEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169c1", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NZUQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169c2", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E POON"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169c3", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E MIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169c4", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E FUET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169c5", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169c6", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E MUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169c7", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E GHEUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169c8", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E FU I"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169c9", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E MVI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169ca", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E PUAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169cb", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGKUM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169cc", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E KUT"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169cd", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E PIET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169ce", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NTAP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169cf", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E YEUAET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169d0", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGGUP"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169d1", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E PA PEOPLE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169d2", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E FU CALL"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169d3", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E FOM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169d4", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NJEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169d5", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E A"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169d6", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E TOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169d7", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E O"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169d8", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E I"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169d9", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E LAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169da", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E PA PLURAL"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169db", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E TAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169dc", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E TAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169dd", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NDAA MY HOUSE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169de", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E SHIQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169df", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E YEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169e0", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169e1", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E YUAEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169e2", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E YOQ SWIMMING"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169e3", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E YOQ COVER"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169e4", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E YUQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169e5", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E YUN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169e6", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E KEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169e7", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E PEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169e8", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NJEE EPOCH"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169e9", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E PUE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169ea", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E WUE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169eb", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E FEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169ec", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E VEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169ed", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E LU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169ee", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E MI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169ef", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E REUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169f0", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E RAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169f1", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGUAET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169f2", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NGA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169f3", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E SHO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169f4", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E SHOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169f5", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E FU REMEDY"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169f6", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E NA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169f7", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E PI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169f8", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E LOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169f9", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E KO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169fa", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E MEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169fb", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E MA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169fc", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E MAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169fd", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E TEU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169fe", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E KI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x169ff", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E MON"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a00", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E TEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a01", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E FAQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a02", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-E GHOM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a03", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F KA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a04", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F U"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a05", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F KU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a06", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F EE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a07", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F REE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a08", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F TAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a09", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F NYI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a0a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F LA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a0b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F RII"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a0c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F RIEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a0d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F MEEEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a0e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F TAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a0f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F NDAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a10", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F NJAEM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a11", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F M"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a12", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F SUU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a13", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F SHII"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a14", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F SI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a15", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F SEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a16", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F KYEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a17", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F KET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a18", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F NUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a19", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F NU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a1a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F NJUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a1b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F YOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a1c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F SHU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a1d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F YA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a1e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F NSHA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a1f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F PEUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a20", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F NTEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a21", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F WUE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a22", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F PEE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a23", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F RU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a24", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F NI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a25", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F REUX"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a26", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F KEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a27", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F NGKWAEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a28", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F NGGA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a29", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F SHO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a2a", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F PUAE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a2b", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F FOM"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a2c", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F WA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a2d", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F LI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a2e", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F LOQ"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a2f", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F KO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a30", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F MBEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a31", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F REN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a32", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F MA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a33", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F MO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a34", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F MBAA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a35", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F TET"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a36", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F KPA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a37", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F SAMBA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16a38", 
+                "description": "", 
+                "title": "BAMUM LETTER PHASE-F VUEQ"
+            }
+        ], 
+        "name": "Bamum Supplement"
+    }
+]

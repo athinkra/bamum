@@ -1,0 +1,12 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0xd800", 
+                "description": "", 
+                "title": "<Non Private Use High Surrogate, First>"
+            }
+        ], 
+        "name": "High Surrogates"
+    }
+]

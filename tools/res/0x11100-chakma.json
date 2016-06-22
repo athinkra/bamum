@@ -1,0 +1,610 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11100", 
+                "description": "", 
+                "title": "CHAKMA SIGN CANDRABINDU"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11101", 
+                "description": "", 
+                "title": "CHAKMA SIGN ANUSVARA"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11102", 
+                "description": "", 
+                "title": "CHAKMA SIGN VISARGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x11103", 
+                "description": "", 
+                "title": "CHAKMA LETTER AA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x11104", 
+                "description": "", 
+                "title": "CHAKMA LETTER I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x11105", 
+                "description": "", 
+                "title": "CHAKMA LETTER U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x11106", 
+                "description": "", 
+                "title": "CHAKMA LETTER E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11107", 
+                "description": "", 
+                "title": "CHAKMA LETTER KAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11108", 
+                "description": "", 
+                "title": "CHAKMA LETTER KHAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11109", 
+                "description": "", 
+                "title": "CHAKMA LETTER GAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1110a", 
+                "description": "", 
+                "title": "CHAKMA LETTER GHAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1110b", 
+                "description": "", 
+                "title": "CHAKMA LETTER NGAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1110c", 
+                "description": "", 
+                "title": "CHAKMA LETTER CAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1110d", 
+                "description": "", 
+                "title": "CHAKMA LETTER CHAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1110e", 
+                "description": "", 
+                "title": "CHAKMA LETTER JAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1110f", 
+                "description": "", 
+                "title": "CHAKMA LETTER JHAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11110", 
+                "description": "", 
+                "title": "CHAKMA LETTER NYAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11111", 
+                "description": "", 
+                "title": "CHAKMA LETTER TTAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11112", 
+                "description": "", 
+                "title": "CHAKMA LETTER TTHAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11113", 
+                "description": "", 
+                "title": "CHAKMA LETTER DDAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11114", 
+                "description": "", 
+                "title": "CHAKMA LETTER DDHAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11115", 
+                "description": "", 
+                "title": "CHAKMA LETTER NNAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11116", 
+                "description": "", 
+                "title": "CHAKMA LETTER TAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11117", 
+                "description": "", 
+                "title": "CHAKMA LETTER THAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11118", 
+                "description": "", 
+                "title": "CHAKMA LETTER DAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11119", 
+                "description": "", 
+                "title": "CHAKMA LETTER DHAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1111a", 
+                "description": "", 
+                "title": "CHAKMA LETTER NAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1111b", 
+                "description": "", 
+                "title": "CHAKMA LETTER PAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1111c", 
+                "description": "", 
+                "title": "CHAKMA LETTER PHAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1111d", 
+                "description": "", 
+                "title": "CHAKMA LETTER BAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1111e", 
+                "description": "", 
+                "title": "CHAKMA LETTER BHAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1111f", 
+                "description": "", 
+                "title": "CHAKMA LETTER MAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11120", 
+                "description": "", 
+                "title": "CHAKMA LETTER YYAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11121", 
+                "description": "", 
+                "title": "CHAKMA LETTER YAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11122", 
+                "description": "", 
+                "title": "CHAKMA LETTER RAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11123", 
+                "description": "", 
+                "title": "CHAKMA LETTER LAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11124", 
+                "description": "", 
+                "title": "CHAKMA LETTER WAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11125", 
+                "description": "", 
+                "title": "CHAKMA LETTER SAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11126", 
+                "description": "", 
+                "title": "CHAKMA LETTER HAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x11127", 
+                "description": "", 
+                "title": "CHAKMA VOWEL SIGN A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x11128", 
+                "description": "", 
+                "title": "CHAKMA VOWEL SIGN I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x11129", 
+                "description": "", 
+                "title": "CHAKMA VOWEL SIGN II"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1112a", 
+                "description": "", 
+                "title": "CHAKMA VOWEL SIGN U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1112b", 
+                "description": "", 
+                "title": "CHAKMA VOWEL SIGN UU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1112c", 
+                "description": "", 
+                "title": "CHAKMA VOWEL SIGN E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1112d", 
+                "description": "", 
+                "title": "CHAKMA VOWEL SIGN AI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1112e", 
+                "description": "", 
+                "title": "CHAKMA VOWEL SIGN O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x1112f", 
+                "description": "", 
+                "title": "CHAKMA VOWEL SIGN AU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x11130", 
+                "description": "", 
+                "title": "CHAKMA VOWEL SIGN OI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x11131", 
+                "description": "", 
+                "title": "CHAKMA O MARK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x11132", 
+                "description": "", 
+                "title": "CHAKMA AU MARK"
+            }, 
+            {
+                "cat1": "Virama", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11133", 
+                "description": "", 
+                "title": "CHAKMA VIRAMA"
+            }, 
+            {
+                "cat1": "Virama", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11134", 
+                "description": "", 
+                "title": "CHAKMA MAAYYAA"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11136", 
+                "description": "", 
+                "title": "CHAKMA DIGIT ZERO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11137", 
+                "description": "", 
+                "title": "CHAKMA DIGIT ONE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11138", 
+                "description": "", 
+                "title": "CHAKMA DIGIT TWO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11139", 
+                "description": "", 
+                "title": "CHAKMA DIGIT THREE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1113a", 
+                "description": "", 
+                "title": "CHAKMA DIGIT FOUR"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1113b", 
+                "description": "", 
+                "title": "CHAKMA DIGIT FIVE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1113c", 
+                "description": "", 
+                "title": "CHAKMA DIGIT SIX"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1113d", 
+                "description": "", 
+                "title": "CHAKMA DIGIT SEVEN"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1113e", 
+                "description": "", 
+                "title": "CHAKMA DIGIT EIGHT"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1113f", 
+                "description": "", 
+                "title": "CHAKMA DIGIT NINE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11140", 
+                "description": "", 
+                "title": "CHAKMA SECTION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11141", 
+                "description": "", 
+                "title": "CHAKMA DANDA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11142", 
+                "description": "", 
+                "title": "CHAKMA DOUBLE DANDA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x11143", 
+                "description": "", 
+                "title": "CHAKMA QUESTION MARK"
+            }
+        ], 
+        "name": "Chakma"
+    }
+]

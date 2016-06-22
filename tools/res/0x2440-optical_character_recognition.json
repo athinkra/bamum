@@ -1,0 +1,106 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Symbol", 
+                "cat2": "OCR", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2440", 
+                "description": "", 
+                "title": "OCR HOOK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "OCR", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2441", 
+                "description": "", 
+                "title": "OCR CHAIR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "OCR", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2442", 
+                "description": "", 
+                "title": "OCR FORK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "OCR", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2443", 
+                "description": "", 
+                "title": "OCR INVERTED FORK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "OCR", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2444", 
+                "description": "", 
+                "title": "OCR BELT BUCKLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "OCR", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2445", 
+                "description": "", 
+                "title": "OCR BOW TIE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "MICR", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2446", 
+                "description": "", 
+                "title": "OCR BRANCH BANK IDENTIFICATION"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "MICR", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2447", 
+                "description": "", 
+                "title": "OCR AMOUNT OF CHECK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "MICR", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2448", 
+                "description": "", 
+                "title": "OCR DASH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "MICR", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2449", 
+                "description": "", 
+                "title": "OCR CUSTOMER ACCOUNT NUMBER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "OCR", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x244a", 
+                "description": "", 
+                "title": "OCR DOUBLE BACKSLASH"
+            }
+        ], 
+        "name": "Optical Character Recognition"
+    }
+]

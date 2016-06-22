@@ -1,0 +1,1146 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x900", 
+                "description": "", 
+                "title": "DEVANAGARI SIGN INVERTED CANDRABINDU"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x901", 
+                "description": "", 
+                "title": "DEVANAGARI SIGN CANDRABINDU"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x902", 
+                "description": "", 
+                "title": "DEVANAGARI SIGN ANUSVARA"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x903", 
+                "description": "", 
+                "title": "DEVANAGARI SIGN VISARGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x904", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER SHORT A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x905", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x906", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER AA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x907", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x908", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER II"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x909", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x90a", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER UU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x90b", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER VOCALIC R"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x90c", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER VOCALIC L"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x90d", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER CANDRA E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x90e", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER SHORT E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x90f", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x910", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER AI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x911", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER CANDRA O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x912", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER SHORT O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x913", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x914", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER AU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x915", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER KA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x916", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER KHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x917", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER GA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x918", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER GHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x919", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER NGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x91a", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER CA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x91b", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER CHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x91c", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER JA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x91d", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER JHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x91e", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER NYA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x91f", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER TTA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x920", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER TTHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x921", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER DDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x922", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER DDHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x923", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER NNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x924", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER TA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x925", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER THA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x926", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER DA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x927", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER DHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x928", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER NA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x929", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER NNNA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x92a", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER PA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x92b", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER PHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x92c", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER BA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x92d", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER BHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x92e", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER MA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x92f", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER YA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x930", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER RA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x931", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER RRA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x932", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER LA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x933", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER LLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x934", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER LLLA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x935", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER VA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x936", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER SHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x937", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER SSA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x938", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER SA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x939", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER HA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x93a", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN OE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x93b", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN OOE"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x93c", 
+                "description": "", 
+                "title": "DEVANAGARI SIGN NUKTA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x93d", 
+                "description": "", 
+                "title": "DEVANAGARI SIGN AVAGRAHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x93e", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN AA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x93f", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x940", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN II"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x941", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x942", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN UU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x943", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN VOCALIC R"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x944", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN VOCALIC RR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x945", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN CANDRA E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x946", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN SHORT E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x947", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x948", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN AI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x949", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN CANDRA O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x94a", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN SHORT O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x94b", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x94c", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN AU"
+            }, 
+            {
+                "cat1": "Virama", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x94d", 
+                "description": "", 
+                "title": "DEVANAGARI SIGN VIRAMA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x94e", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN PRISHTHAMATRA E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x94f", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN AW"
+            }, 
+            {
+                "cat1": "Logograph", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x950", 
+                "description": "", 
+                "title": "DEVANAGARI OM"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x951", 
+                "description": "", 
+                "title": "DEVANAGARI STRESS SIGN UDATTA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x952", 
+                "description": "", 
+                "title": "DEVANAGARI STRESS SIGN ANUDATTA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x953", 
+                "description": "", 
+                "title": "DEVANAGARI GRAVE ACCENT"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x954", 
+                "description": "", 
+                "title": "DEVANAGARI ACUTE ACCENT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x955", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN CANDRA LONG E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x956", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN UE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x957", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN UUE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x958", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER QA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x959", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER KHHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x95a", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER GHHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x95b", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER ZA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x95c", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER DDDHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x95d", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER RHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x95e", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER FA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x95f", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER YYA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x960", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER VOCALIC RR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x961", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER VOCALIC LL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x962", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN VOCALIC L"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
+                "charcode": "0x963", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN VOCALIC LL"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x964", 
+                "description": "", 
+                "title": "DEVANAGARI DANDA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x965", 
+                "description": "", 
+                "title": "DEVANAGARI DOUBLE DANDA"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x966", 
+                "description": "", 
+                "title": "DEVANAGARI DIGIT ZERO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x967", 
+                "description": "", 
+                "title": "DEVANAGARI DIGIT ONE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x968", 
+                "description": "", 
+                "title": "DEVANAGARI DIGIT TWO"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x969", 
+                "description": "", 
+                "title": "DEVANAGARI DIGIT THREE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x96a", 
+                "description": "", 
+                "title": "DEVANAGARI DIGIT FOUR"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x96b", 
+                "description": "", 
+                "title": "DEVANAGARI DIGIT FIVE"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x96c", 
+                "description": "", 
+                "title": "DEVANAGARI DIGIT SIX"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x96d", 
+                "description": "", 
+                "title": "DEVANAGARI DIGIT SEVEN"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x96e", 
+                "description": "", 
+                "title": "DEVANAGARI DIGIT EIGHT"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x96f", 
+                "description": "", 
+                "title": "DEVANAGARI DIGIT NINE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x970", 
+                "description": "", 
+                "title": "DEVANAGARI ABBREVIATION SIGN"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x971", 
+                "description": "", 
+                "title": "DEVANAGARI SIGN HIGH SPACING DOT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x972", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER CANDRA A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x973", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER OE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x974", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER OOE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x975", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER AW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x976", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER UE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
+                "charcode": "0x977", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER UUE"
+            }, 
+            {
+                "charcode": "0x978", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER MARWARI DDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x979", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER ZHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x97a", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER HEAVY YA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x97b", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER GGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x97c", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER JJA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x97d", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER GLOTTAL STOP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x97e", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER DDDA"
+            }
+        ], 
+        "name": "Devanagari"
+    }
+]

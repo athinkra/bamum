@@ -2,807 +2,861 @@
     {
         "content": [
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x30a0", 
+                "description": "", 
+                "title": "KATAKANA-HIRAGANA DOUBLE HYPHEN"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x30a1", 
+                "description": "", 
+                "title": "KATAKANA LETTER SMALL A"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x30a2", 
+                "description": "", 
+                "title": "KATAKANA LETTER A"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x30a3", 
+                "description": "", 
+                "title": "KATAKANA LETTER SMALL I"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x30a4", 
+                "description": "", 
+                "title": "KATAKANA LETTER I"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x30a5", 
+                "description": "", 
+                "title": "KATAKANA LETTER SMALL U"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x30a6", 
+                "description": "", 
+                "title": "KATAKANA LETTER U"
+            }, 
+            {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6a0", 
+                "charcode": "0x30a7", 
                 "description": "", 
-                "title": "BAMUM LETTER A"
+                "title": "KATAKANA LETTER SMALL E"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6a1", 
+                "charcode": "0x30a8", 
                 "description": "", 
-                "title": "BAMUM LETTER KA"
+                "title": "KATAKANA LETTER E"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6a2", 
+                "charcode": "0x30a9", 
                 "description": "", 
-                "title": "BAMUM LETTER U"
+                "title": "KATAKANA LETTER SMALL O"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6a3", 
+                "charcode": "0x30aa", 
                 "description": "", 
-                "title": "BAMUM LETTER KU"
+                "title": "KATAKANA LETTER O"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6a4", 
+                "charcode": "0x30ab", 
                 "description": "", 
-                "title": "BAMUM LETTER EE"
+                "title": "KATAKANA LETTER KA"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6a5", 
+                "charcode": "0x30ac", 
                 "description": "", 
-                "title": "BAMUM LETTER REE"
+                "title": "KATAKANA LETTER GA"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6a6", 
+                "charcode": "0x30ad", 
                 "description": "", 
-                "title": "BAMUM LETTER TAE"
+                "title": "KATAKANA LETTER KI"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6a7", 
+                "charcode": "0x30ae", 
                 "description": "", 
-                "title": "BAMUM LETTER O"
+                "title": "KATAKANA LETTER GI"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6a8", 
+                "charcode": "0x30af", 
                 "description": "", 
-                "title": "BAMUM LETTER NYI"
+                "title": "KATAKANA LETTER KU"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6a9", 
+                "charcode": "0x30b0", 
                 "description": "", 
-                "title": "BAMUM LETTER I"
+                "title": "KATAKANA LETTER GU"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6aa", 
+                "charcode": "0x30b1", 
                 "description": "", 
-                "title": "BAMUM LETTER LA"
+                "title": "KATAKANA LETTER KE"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6ab", 
+                "charcode": "0x30b2", 
                 "description": "", 
-                "title": "BAMUM LETTER PA"
+                "title": "KATAKANA LETTER GE"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6ac", 
+                "charcode": "0x30b3", 
                 "description": "", 
-                "title": "BAMUM LETTER RII"
+                "title": "KATAKANA LETTER KO"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6ad", 
+                "charcode": "0x30b4", 
                 "description": "", 
-                "title": "BAMUM LETTER RIEE"
+                "title": "KATAKANA LETTER GO"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6ae", 
+                "charcode": "0x30b5", 
                 "description": "", 
-                "title": "BAMUM LETTER LEEEE"
+                "title": "KATAKANA LETTER SA"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6af", 
+                "charcode": "0x30b6", 
                 "description": "", 
-                "title": "BAMUM LETTER MEEEE"
+                "title": "KATAKANA LETTER ZA"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6b0", 
+                "charcode": "0x30b7", 
                 "description": "", 
-                "title": "BAMUM LETTER TAA"
+                "title": "KATAKANA LETTER SI"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6b1", 
+                "charcode": "0x30b8", 
                 "description": "", 
-                "title": "BAMUM LETTER NDAA"
+                "title": "KATAKANA LETTER ZI"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6b2", 
+                "charcode": "0x30b9", 
                 "description": "", 
-                "title": "BAMUM LETTER NJAEM"
+                "title": "KATAKANA LETTER SU"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6b3", 
+                "charcode": "0x30ba", 
                 "description": "", 
-                "title": "BAMUM LETTER M"
+                "title": "KATAKANA LETTER ZU"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6b4", 
+                "charcode": "0x30bb", 
                 "description": "", 
-                "title": "BAMUM LETTER SUU"
+                "title": "KATAKANA LETTER SE"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6b5", 
+                "charcode": "0x30bc", 
                 "description": "", 
-                "title": "BAMUM LETTER MU"
+                "title": "KATAKANA LETTER ZE"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6b6", 
+                "charcode": "0x30bd", 
                 "description": "", 
-                "title": "BAMUM LETTER SHII"
+                "title": "KATAKANA LETTER SO"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6b7", 
+                "charcode": "0x30be", 
                 "description": "", 
-                "title": "BAMUM LETTER SI"
+                "title": "KATAKANA LETTER ZO"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6b8", 
+                "charcode": "0x30bf", 
                 "description": "", 
-                "title": "BAMUM LETTER SHEUX"
+                "title": "KATAKANA LETTER TA"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6b9", 
+                "charcode": "0x30c0", 
                 "description": "", 
-                "title": "BAMUM LETTER SEUX"
+                "title": "KATAKANA LETTER DA"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6ba", 
+                "charcode": "0x30c1", 
                 "description": "", 
-                "title": "BAMUM LETTER KYEE"
+                "title": "KATAKANA LETTER TI"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6bb", 
+                "charcode": "0x30c2", 
                 "description": "", 
-                "title": "BAMUM LETTER KET"
+                "title": "KATAKANA LETTER DI"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6bc", 
+                "charcode": "0x30c3", 
                 "description": "", 
-                "title": "BAMUM LETTER NUAE"
+                "title": "KATAKANA LETTER SMALL TU"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6bd", 
+                "charcode": "0x30c4", 
                 "description": "", 
-                "title": "BAMUM LETTER NU"
+                "title": "KATAKANA LETTER TU"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6be", 
+                "charcode": "0x30c5", 
                 "description": "", 
-                "title": "BAMUM LETTER NJUAE"
+                "title": "KATAKANA LETTER DU"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6bf", 
+                "charcode": "0x30c6", 
                 "description": "", 
-                "title": "BAMUM LETTER YOQ"
+                "title": "KATAKANA LETTER TE"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6c0", 
+                "charcode": "0x30c7", 
                 "description": "", 
-                "title": "BAMUM LETTER SHU"
+                "title": "KATAKANA LETTER DE"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6c1", 
+                "charcode": "0x30c8", 
                 "description": "", 
-                "title": "BAMUM LETTER YUQ"
+                "title": "KATAKANA LETTER TO"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6c2", 
+                "charcode": "0x30c9", 
                 "description": "", 
-                "title": "BAMUM LETTER YA"
+                "title": "KATAKANA LETTER DO"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6c3", 
+                "charcode": "0x30ca", 
                 "description": "", 
-                "title": "BAMUM LETTER NSHA"
+                "title": "KATAKANA LETTER NA"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6c4", 
+                "charcode": "0x30cb", 
                 "description": "", 
-                "title": "BAMUM LETTER KEUX"
+                "title": "KATAKANA LETTER NI"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6c5", 
+                "charcode": "0x30cc", 
                 "description": "", 
-                "title": "BAMUM LETTER PEUX"
+                "title": "KATAKANA LETTER NU"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6c6", 
+                "charcode": "0x30cd", 
                 "description": "", 
-                "title": "BAMUM LETTER NJEE"
+                "title": "KATAKANA LETTER NE"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6c7", 
+                "charcode": "0x30ce", 
                 "description": "", 
-                "title": "BAMUM LETTER NTEE"
+                "title": "KATAKANA LETTER NO"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6c8", 
+                "charcode": "0x30cf", 
                 "description": "", 
-                "title": "BAMUM LETTER PUE"
+                "title": "KATAKANA LETTER HA"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6c9", 
+                "charcode": "0x30d0", 
                 "description": "", 
-                "title": "BAMUM LETTER WUE"
+                "title": "KATAKANA LETTER BA"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6ca", 
+                "charcode": "0x30d1", 
                 "description": "", 
-                "title": "BAMUM LETTER PEE"
+                "title": "KATAKANA LETTER PA"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6cb", 
+                "charcode": "0x30d2", 
                 "description": "", 
-                "title": "BAMUM LETTER FEE"
+                "title": "KATAKANA LETTER HI"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6cc", 
+                "charcode": "0x30d3", 
                 "description": "", 
-                "title": "BAMUM LETTER RU"
+                "title": "KATAKANA LETTER BI"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6cd", 
+                "charcode": "0x30d4", 
                 "description": "", 
-                "title": "BAMUM LETTER LU"
+                "title": "KATAKANA LETTER PI"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6ce", 
+                "charcode": "0x30d5", 
                 "description": "", 
-                "title": "BAMUM LETTER MI"
+                "title": "KATAKANA LETTER HU"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6cf", 
+                "charcode": "0x30d6", 
                 "description": "", 
-                "title": "BAMUM LETTER NI"
+                "title": "KATAKANA LETTER BU"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6d0", 
+                "charcode": "0x30d7", 
                 "description": "", 
-                "title": "BAMUM LETTER REUX"
+                "title": "KATAKANA LETTER PU"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6d1", 
+                "charcode": "0x30d8", 
                 "description": "", 
-                "title": "BAMUM LETTER RAE"
+                "title": "KATAKANA LETTER HE"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6d2", 
+                "charcode": "0x30d9", 
                 "description": "", 
-                "title": "BAMUM LETTER KEN"
+                "title": "KATAKANA LETTER BE"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6d3", 
+                "charcode": "0x30da", 
                 "description": "", 
-                "title": "BAMUM LETTER NGKWAEN"
+                "title": "KATAKANA LETTER PE"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6d4", 
+                "charcode": "0x30db", 
                 "description": "", 
-                "title": "BAMUM LETTER NGGA"
+                "title": "KATAKANA LETTER HO"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6d5", 
+                "charcode": "0x30dc", 
                 "description": "", 
-                "title": "BAMUM LETTER NGA"
+                "title": "KATAKANA LETTER BO"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6d6", 
+                "charcode": "0x30dd", 
                 "description": "", 
-                "title": "BAMUM LETTER SHO"
+                "title": "KATAKANA LETTER PO"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6d7", 
+                "charcode": "0x30de", 
                 "description": "", 
-                "title": "BAMUM LETTER PUAE"
+                "title": "KATAKANA LETTER MA"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6d8", 
+                "charcode": "0x30df", 
                 "description": "", 
-                "title": "BAMUM LETTER FU"
+                "title": "KATAKANA LETTER MI"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6d9", 
+                "charcode": "0x30e0", 
                 "description": "", 
-                "title": "BAMUM LETTER FOM"
+                "title": "KATAKANA LETTER MU"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6da", 
+                "charcode": "0x30e1", 
                 "description": "", 
-                "title": "BAMUM LETTER WA"
+                "title": "KATAKANA LETTER ME"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6db", 
+                "charcode": "0x30e2", 
                 "description": "", 
-                "title": "BAMUM LETTER NA"
+                "title": "KATAKANA LETTER MO"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6dc", 
+                "charcode": "0x30e3", 
                 "description": "", 
-                "title": "BAMUM LETTER LI"
+                "title": "KATAKANA LETTER SMALL YA"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6dd", 
+                "charcode": "0x30e4", 
                 "description": "", 
-                "title": "BAMUM LETTER PI"
+                "title": "KATAKANA LETTER YA"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6de", 
+                "charcode": "0x30e5", 
                 "description": "", 
-                "title": "BAMUM LETTER LOQ"
+                "title": "KATAKANA LETTER SMALL YU"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6df", 
+                "charcode": "0x30e6", 
                 "description": "", 
-                "title": "BAMUM LETTER KO"
+                "title": "KATAKANA LETTER YU"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6e0", 
+                "charcode": "0x30e7", 
                 "description": "", 
-                "title": "BAMUM LETTER MBEN"
+                "title": "KATAKANA LETTER SMALL YO"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6e1", 
+                "charcode": "0x30e8", 
                 "description": "", 
-                "title": "BAMUM LETTER REN"
+                "title": "KATAKANA LETTER YO"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6e2", 
+                "charcode": "0x30e9", 
                 "description": "", 
-                "title": "BAMUM LETTER MEN"
+                "title": "KATAKANA LETTER RA"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6e3", 
+                "charcode": "0x30ea", 
                 "description": "", 
-                "title": "BAMUM LETTER MA"
+                "title": "KATAKANA LETTER RI"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6e4", 
+                "charcode": "0x30eb", 
                 "description": "", 
-                "title": "BAMUM LETTER TI"
+                "title": "KATAKANA LETTER RU"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6e5", 
+                "charcode": "0x30ec", 
                 "description": "", 
-                "title": "BAMUM LETTER KI"
+                "title": "KATAKANA LETTER RE"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6e6", 
+                "charcode": "0x30ed", 
                 "description": "", 
-                "title": "BAMUM LETTER MO"
+                "title": "KATAKANA LETTER RO"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6e7", 
+                "charcode": "0x30ee", 
                 "description": "", 
-                "title": "BAMUM LETTER MBAA"
+                "title": "KATAKANA LETTER SMALL WA"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6e8", 
+                "charcode": "0x30ef", 
                 "description": "", 
-                "title": "BAMUM LETTER TET"
+                "title": "KATAKANA LETTER WA"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6e9", 
+                "charcode": "0x30f0", 
                 "description": "", 
-                "title": "BAMUM LETTER KPA"
+                "title": "KATAKANA LETTER WI"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6ea", 
+                "charcode": "0x30f1", 
                 "description": "", 
-                "title": "BAMUM LETTER TEN"
+                "title": "KATAKANA LETTER WE"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6eb", 
+                "charcode": "0x30f2", 
                 "description": "", 
-                "title": "BAMUM LETTER NTUU"
+                "title": "KATAKANA LETTER WO"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6ec", 
+                "charcode": "0x30f3", 
                 "description": "", 
-                "title": "BAMUM LETTER SAMBA"
+                "title": "KATAKANA LETTER N"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6ed", 
+                "charcode": "0x30f4", 
                 "description": "", 
-                "title": "BAMUM LETTER FAAMAE"
+                "title": "KATAKANA LETTER VU"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6ee", 
+                "charcode": "0x30f5", 
                 "description": "", 
-                "title": "BAMUM LETTER KOVUU"
+                "title": "KATAKANA LETTER SMALL KA"
             }, 
             {
                 "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6ef", 
+                "charcode": "0x30f6", 
                 "description": "", 
-                "title": "BAMUM LETTER KOGHOM"
+                "title": "KATAKANA LETTER SMALL KE"
             }, 
             {
-                "cat1": "Mark", 
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x30f7", 
+                "description": "", 
+                "title": "KATAKANA LETTER VA"
+            }, 
+            {
+                "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6f0", 
+                "charcode": "0x30f8", 
                 "description": "", 
-                "title": "BAMUM COMBINING MARK KOQNDON"
+                "title": "KATAKANA LETTER VI"
             }, 
             {
-                "cat1": "Mark", 
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x30f9", 
+                "description": "", 
+                "title": "KATAKANA LETTER VE"
+            }, 
+            {
+                "cat1": "Syllable", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6f1", 
+                "charcode": "0x30fa", 
                 "description": "", 
-                "title": "BAMUM COMBINING MARK TUKWENTIS"
+                "title": "KATAKANA LETTER VO"
             }, 
             {
                 "cat1": "Punctuation", 
                 "cat2": "", 
                 "cat3": "", 
                 "cat4": "", 
-                "charcode": "0xa6f2", 
+                "charcode": "0x30fb", 
                 "description": "", 
-                "title": "BAMUM NJAEMLI"
+                "title": "KATAKANA MIDDLE DOT"
             }, 
             {
-                "cat1": "Punctuation", 
-                "cat2": "", 
-                "cat3": "", 
+                "cat1": "Syllable", 
+                "cat2": "Modifier", 
+                "cat3": "Length", 
                 "cat4": "", 
-                "charcode": "0xa6f3", 
+                "charcode": "0x30fc", 
                 "description": "", 
-                "title": "BAMUM FULL STOP"
+                "title": "KATAKANA-HIRAGANA PROLONGED SOUND MARK"
             }, 
             {
-                "cat1": "Punctuation", 
-                "cat2": "", 
-                "cat3": "", 
+                "cat1": "Syllable", 
+                "cat2": "Modifier", 
+                "cat3": "Repetition", 
                 "cat4": "", 
-                "charcode": "0xa6f4", 
+                "charcode": "0x30fd", 
                 "description": "", 
-                "title": "BAMUM COLON"
+                "title": "KATAKANA ITERATION MARK"
             }, 
             {
-                "cat1": "Punctuation", 
-                "cat2": "", 
-                "cat3": "", 
+                "cat1": "Syllable", 
+                "cat2": "Modifier", 
+                "cat3": "Repetition", 
                 "cat4": "", 
-                "charcode": "0xa6f5", 
+                "charcode": "0x30fe", 
                 "description": "", 
-                "title": "BAMUM COMMA"
-            }, 
-            {
-                "cat1": "Punctuation", 
-                "cat2": "", 
-                "cat3": "", 
-                "cat4": "", 
-                "charcode": "0xa6f6", 
-                "description": "", 
-                "title": "BAMUM SEMICOLON"
-            }, 
-            {
-                "cat1": "Punctuation", 
-                "cat2": "", 
-                "cat3": "", 
-                "cat4": "", 
-                "charcode": "0xa6f7", 
-                "description": "", 
-                "title": "BAMUM QUESTION MARK"
-            },
-            {
-                "cat1": "Punctuation", 
-                "cat2": "", 
-                "cat3": "", 
-                "cat4": "", 
-                "charcode": "0x0020", 
-                "description": "SPACE - ", 
-                "title": "SPACE"
+                "title": "KATAKANA VOICED ITERATION MARK"
             }
         ], 
-        "name": "Bamum"
+        "name": "Katakana"
     }
 ]

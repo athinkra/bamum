@@ -1,0 +1,142 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Format", 
+                "cat2": "Variation selector", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe00", 
+                "description": "", 
+                "title": "VARIATION SELECTOR-1"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Variation selector", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe01", 
+                "description": "", 
+                "title": "VARIATION SELECTOR-2"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Variation selector", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe02", 
+                "description": "", 
+                "title": "VARIATION SELECTOR-3"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Variation selector", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe03", 
+                "description": "", 
+                "title": "VARIATION SELECTOR-4"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Variation selector", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe04", 
+                "description": "", 
+                "title": "VARIATION SELECTOR-5"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Variation selector", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe05", 
+                "description": "", 
+                "title": "VARIATION SELECTOR-6"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Variation selector", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe06", 
+                "description": "", 
+                "title": "VARIATION SELECTOR-7"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Variation selector", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe07", 
+                "description": "", 
+                "title": "VARIATION SELECTOR-8"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Variation selector", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe08", 
+                "description": "", 
+                "title": "VARIATION SELECTOR-9"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Variation selector", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe09", 
+                "description": "", 
+                "title": "VARIATION SELECTOR-10"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Variation selector", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe0a", 
+                "description": "", 
+                "title": "VARIATION SELECTOR-11"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Variation selector", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe0b", 
+                "description": "", 
+                "title": "VARIATION SELECTOR-12"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Variation selector", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe0c", 
+                "description": "", 
+                "title": "VARIATION SELECTOR-13"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Variation selector", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe0d", 
+                "description": "", 
+                "title": "VARIATION SELECTOR-14"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Variation selector", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe0e", 
+                "description": "", 
+                "title": "VARIATION SELECTOR-15"
+            }
+        ], 
+        "name": "Variation Selectors"
+    }
+]

@@ -1,0 +1,368 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cd0", 
+                "description": "", 
+                "title": "VEDIC TONE KARSHANA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cd1", 
+                "description": "", 
+                "title": "VEDIC TONE SHARA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cd2", 
+                "description": "", 
+                "title": "VEDIC TONE PRENKHA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cd3", 
+                "description": "", 
+                "title": "VEDIC SIGN NIHSHVASA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cd4", 
+                "description": "", 
+                "title": "VEDIC SIGN YAJURVEDIC MIDLINE SVARITA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cd5", 
+                "description": "", 
+                "title": "VEDIC TONE YAJURVEDIC AGGRAVATED INDEPENDENT SVARITA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cd6", 
+                "description": "", 
+                "title": "VEDIC TONE YAJURVEDIC INDEPENDENT SVARITA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cd7", 
+                "description": "", 
+                "title": "VEDIC TONE YAJURVEDIC KATHAKA INDEPENDENT SVARITA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cd8", 
+                "description": "", 
+                "title": "VEDIC TONE CANDRA BELOW"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cd9", 
+                "description": "", 
+                "title": "VEDIC TONE YAJURVEDIC KATHAKA INDEPENDENT SVARITA SCHROEDER"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cda", 
+                "description": "", 
+                "title": "VEDIC TONE DOUBLE SVARITA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cdb", 
+                "description": "", 
+                "title": "VEDIC TONE TRIPLE SVARITA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cdc", 
+                "description": "", 
+                "title": "VEDIC TONE KATHAKA ANUDATTA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cdd", 
+                "description": "", 
+                "title": "VEDIC TONE DOT BELOW"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cde", 
+                "description": "", 
+                "title": "VEDIC TONE TWO DOTS BELOW"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cdf", 
+                "description": "", 
+                "title": "VEDIC TONE THREE DOTS BELOW"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ce0", 
+                "description": "", 
+                "title": "VEDIC TONE RIGVEDIC KASHMIRI INDEPENDENT SVARITA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ce1", 
+                "description": "", 
+                "title": "VEDIC TONE ATHARVAVEDIC INDEPENDENT SVARITA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Visarga", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ce2", 
+                "description": "", 
+                "title": "VEDIC SIGN VISARGA SVARITA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Visarga", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ce3", 
+                "description": "", 
+                "title": "VEDIC SIGN VISARGA UDATTA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Visarga", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ce4", 
+                "description": "", 
+                "title": "VEDIC SIGN REVERSED VISARGA UDATTA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Visarga", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ce5", 
+                "description": "", 
+                "title": "VEDIC SIGN VISARGA ANUDATTA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Visarga", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ce6", 
+                "description": "", 
+                "title": "VEDIC SIGN REVERSED VISARGA ANUDATTA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Visarga", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ce7", 
+                "description": "", 
+                "title": "VEDIC SIGN VISARGA UDATTA WITH TAIL"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Visarga", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ce8", 
+                "description": "", 
+                "title": "VEDIC SIGN VISARGA ANUDATTA WITH TAIL"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Nasalization", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ce9", 
+                "description": "", 
+                "title": "VEDIC SIGN ANUSVARA ANTARGOMUKHA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Nasalization", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cea", 
+                "description": "", 
+                "title": "VEDIC SIGN ANUSVARA BAHIRGOMUKHA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Nasalization", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ceb", 
+                "description": "", 
+                "title": "VEDIC SIGN ANUSVARA VAMAGOMUKHA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Nasalization", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cec", 
+                "description": "", 
+                "title": "VEDIC SIGN ANUSVARA VAMAGOMUKHA WITH TAIL"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Nasalization", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1ced", 
+                "description": "", 
+                "title": "VEDIC SIGN TIRYAK"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Nasalization", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cee", 
+                "description": "", 
+                "title": "VEDIC SIGN HEXIFORM LONG ANUSVARA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Nasalization", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cef", 
+                "description": "", 
+                "title": "VEDIC SIGN LONG ANUSVARA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Nasalization", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cf0", 
+                "description": "", 
+                "title": "VEDIC SIGN RTHANG LONG ANUSVARA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Nasalization", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cf1", 
+                "description": "", 
+                "title": "VEDIC SIGN ANUSVARA UBHAYATO MUKHA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Visarga", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cf2", 
+                "description": "", 
+                "title": "VEDIC SIGN ARDHAVISARGA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Visarga", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cf3", 
+                "description": "", 
+                "title": "VEDIC SIGN ROTATED ARDHAVISARGA"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cf4", 
+                "description": "", 
+                "title": "VEDIC TONE CANDRA ABOVE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cf5", 
+                "description": "", 
+                "title": "VEDIC SIGN JIHVAMULIYA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1cf6", 
+                "description": "", 
+                "title": "VEDIC SIGN UPADHMANIYA"
+            }, 
+            {
+                "charcode": "0x1cf8", 
+                "description": "", 
+                "title": "VEDIC TONE RING ABOVE"
+            }, 
+            {
+                "charcode": "0x1cf9", 
+                "description": "", 
+                "title": "VEDIC TONE DOUBLE RING ABOVE"
+            }
+        ], 
+        "name": "Vedic Extensions"
+    }
+]

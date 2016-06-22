@@ -1,0 +1,807 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13a0", 
+                "description": "", 
+                "title": "CHEROKEE LETTER A"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13a1", 
+                "description": "", 
+                "title": "CHEROKEE LETTER E"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13a2", 
+                "description": "", 
+                "title": "CHEROKEE LETTER I"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13a3", 
+                "description": "", 
+                "title": "CHEROKEE LETTER O"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13a4", 
+                "description": "", 
+                "title": "CHEROKEE LETTER U"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13a5", 
+                "description": "", 
+                "title": "CHEROKEE LETTER V"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13a6", 
+                "description": "", 
+                "title": "CHEROKEE LETTER GA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13a7", 
+                "description": "", 
+                "title": "CHEROKEE LETTER KA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13a8", 
+                "description": "", 
+                "title": "CHEROKEE LETTER GE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13a9", 
+                "description": "", 
+                "title": "CHEROKEE LETTER GI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13aa", 
+                "description": "", 
+                "title": "CHEROKEE LETTER GO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13ab", 
+                "description": "", 
+                "title": "CHEROKEE LETTER GU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13ac", 
+                "description": "", 
+                "title": "CHEROKEE LETTER GV"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13ad", 
+                "description": "", 
+                "title": "CHEROKEE LETTER HA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13ae", 
+                "description": "", 
+                "title": "CHEROKEE LETTER HE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13af", 
+                "description": "", 
+                "title": "CHEROKEE LETTER HI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13b0", 
+                "description": "", 
+                "title": "CHEROKEE LETTER HO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13b1", 
+                "description": "", 
+                "title": "CHEROKEE LETTER HU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13b2", 
+                "description": "", 
+                "title": "CHEROKEE LETTER HV"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13b3", 
+                "description": "", 
+                "title": "CHEROKEE LETTER LA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13b4", 
+                "description": "", 
+                "title": "CHEROKEE LETTER LE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13b5", 
+                "description": "", 
+                "title": "CHEROKEE LETTER LI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13b6", 
+                "description": "", 
+                "title": "CHEROKEE LETTER LO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13b7", 
+                "description": "", 
+                "title": "CHEROKEE LETTER LU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13b8", 
+                "description": "", 
+                "title": "CHEROKEE LETTER LV"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13b9", 
+                "description": "", 
+                "title": "CHEROKEE LETTER MA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13ba", 
+                "description": "", 
+                "title": "CHEROKEE LETTER ME"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13bb", 
+                "description": "", 
+                "title": "CHEROKEE LETTER MI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13bc", 
+                "description": "", 
+                "title": "CHEROKEE LETTER MO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13bd", 
+                "description": "", 
+                "title": "CHEROKEE LETTER MU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13be", 
+                "description": "", 
+                "title": "CHEROKEE LETTER NA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13bf", 
+                "description": "", 
+                "title": "CHEROKEE LETTER HNA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13c0", 
+                "description": "", 
+                "title": "CHEROKEE LETTER NAH"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13c1", 
+                "description": "", 
+                "title": "CHEROKEE LETTER NE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13c2", 
+                "description": "", 
+                "title": "CHEROKEE LETTER NI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13c3", 
+                "description": "", 
+                "title": "CHEROKEE LETTER NO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13c4", 
+                "description": "", 
+                "title": "CHEROKEE LETTER NU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13c5", 
+                "description": "", 
+                "title": "CHEROKEE LETTER NV"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13c6", 
+                "description": "", 
+                "title": "CHEROKEE LETTER QUA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13c7", 
+                "description": "", 
+                "title": "CHEROKEE LETTER QUE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13c8", 
+                "description": "", 
+                "title": "CHEROKEE LETTER QUI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13c9", 
+                "description": "", 
+                "title": "CHEROKEE LETTER QUO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13ca", 
+                "description": "", 
+                "title": "CHEROKEE LETTER QUU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13cb", 
+                "description": "", 
+                "title": "CHEROKEE LETTER QUV"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13cc", 
+                "description": "", 
+                "title": "CHEROKEE LETTER SA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13cd", 
+                "description": "", 
+                "title": "CHEROKEE LETTER S"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13ce", 
+                "description": "", 
+                "title": "CHEROKEE LETTER SE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13cf", 
+                "description": "", 
+                "title": "CHEROKEE LETTER SI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13d0", 
+                "description": "", 
+                "title": "CHEROKEE LETTER SO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13d1", 
+                "description": "", 
+                "title": "CHEROKEE LETTER SU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13d2", 
+                "description": "", 
+                "title": "CHEROKEE LETTER SV"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13d3", 
+                "description": "", 
+                "title": "CHEROKEE LETTER DA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13d4", 
+                "description": "", 
+                "title": "CHEROKEE LETTER TA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13d5", 
+                "description": "", 
+                "title": "CHEROKEE LETTER DE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13d6", 
+                "description": "", 
+                "title": "CHEROKEE LETTER TE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13d7", 
+                "description": "", 
+                "title": "CHEROKEE LETTER DI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13d8", 
+                "description": "", 
+                "title": "CHEROKEE LETTER TI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13d9", 
+                "description": "", 
+                "title": "CHEROKEE LETTER DO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13da", 
+                "description": "", 
+                "title": "CHEROKEE LETTER DU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13db", 
+                "description": "", 
+                "title": "CHEROKEE LETTER DV"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13dc", 
+                "description": "", 
+                "title": "CHEROKEE LETTER DLA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13dd", 
+                "description": "", 
+                "title": "CHEROKEE LETTER TLA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13de", 
+                "description": "", 
+                "title": "CHEROKEE LETTER TLE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13df", 
+                "description": "", 
+                "title": "CHEROKEE LETTER TLI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13e0", 
+                "description": "", 
+                "title": "CHEROKEE LETTER TLO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13e1", 
+                "description": "", 
+                "title": "CHEROKEE LETTER TLU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13e2", 
+                "description": "", 
+                "title": "CHEROKEE LETTER TLV"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13e3", 
+                "description": "", 
+                "title": "CHEROKEE LETTER TSA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13e4", 
+                "description": "", 
+                "title": "CHEROKEE LETTER TSE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13e5", 
+                "description": "", 
+                "title": "CHEROKEE LETTER TSI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13e6", 
+                "description": "", 
+                "title": "CHEROKEE LETTER TSO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13e7", 
+                "description": "", 
+                "title": "CHEROKEE LETTER TSU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13e8", 
+                "description": "", 
+                "title": "CHEROKEE LETTER TSV"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13e9", 
+                "description": "", 
+                "title": "CHEROKEE LETTER WA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13ea", 
+                "description": "", 
+                "title": "CHEROKEE LETTER WE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13eb", 
+                "description": "", 
+                "title": "CHEROKEE LETTER WI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13ec", 
+                "description": "", 
+                "title": "CHEROKEE LETTER WO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13ed", 
+                "description": "", 
+                "title": "CHEROKEE LETTER WU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13ee", 
+                "description": "", 
+                "title": "CHEROKEE LETTER WV"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13ef", 
+                "description": "", 
+                "title": "CHEROKEE LETTER YA"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13f0", 
+                "description": "", 
+                "title": "CHEROKEE LETTER YE"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13f1", 
+                "description": "", 
+                "title": "CHEROKEE LETTER YI"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13f2", 
+                "description": "", 
+                "title": "CHEROKEE LETTER YO"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13f3", 
+                "description": "", 
+                "title": "CHEROKEE LETTER YU"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x13f4", 
+                "description": "", 
+                "title": "CHEROKEE LETTER YV"
+            }, 
+            {
+                "charcode": "0x13f5", 
+                "description": "", 
+                "title": "CHEROKEE LETTER MV"
+            }, 
+            {
+                "charcode": "0x13f8", 
+                "description": "", 
+                "title": "CHEROKEE SMALL LETTER YE"
+            }, 
+            {
+                "charcode": "0x13f9", 
+                "description": "", 
+                "title": "CHEROKEE SMALL LETTER YI"
+            }, 
+            {
+                "charcode": "0x13fa", 
+                "description": "", 
+                "title": "CHEROKEE SMALL LETTER YO"
+            }, 
+            {
+                "charcode": "0x13fb", 
+                "description": "", 
+                "title": "CHEROKEE SMALL LETTER YU"
+            }, 
+            {
+                "charcode": "0x13fc", 
+                "description": "", 
+                "title": "CHEROKEE SMALL LETTER YV"
+            }, 
+            {
+                "charcode": "0x13fd", 
+                "description": "", 
+                "title": "CHEROKEE SMALL LETTER MV"
+            }
+        ], 
+        "name": "Cherokee"
+    }
+]

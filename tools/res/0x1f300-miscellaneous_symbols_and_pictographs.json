@@ -1,0 +1,5960 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f300", 
+                "description": "", 
+                "title": "CYCLONE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f301", 
+                "description": "", 
+                "title": "FOGGY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f302", 
+                "description": "", 
+                "title": "CLOSED UMBRELLA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f303", 
+                "description": "", 
+                "title": "NIGHT WITH STARS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f304", 
+                "description": "", 
+                "title": "SUNRISE OVER MOUNTAINS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f305", 
+                "description": "", 
+                "title": "SUNRISE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Landscape", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f306", 
+                "description": "", 
+                "title": "CITYSCAPE AT DUSK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Landscape", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f307", 
+                "description": "", 
+                "title": "SUNSET OVER BUILDINGS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f308", 
+                "description": "", 
+                "title": "RAINBOW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Landscape", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f309", 
+                "description": "", 
+                "title": "BRIDGE AT NIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f30a", 
+                "description": "", 
+                "title": "WATER WAVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f30b", 
+                "description": "", 
+                "title": "VOLCANO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f30c", 
+                "description": "", 
+                "title": "MILKY WAY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Globe", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f30d", 
+                "description": "", 
+                "title": "EARTH GLOBE EUROPE-AFRICA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Globe", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f30e", 
+                "description": "", 
+                "title": "EARTH GLOBE AMERICAS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Globe", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f30f", 
+                "description": "", 
+                "title": "EARTH GLOBE ASIA-AUSTRALIA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Globe", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f310", 
+                "description": "", 
+                "title": "GLOBE WITH MERIDIANS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f311", 
+                "description": "", 
+                "title": "NEW MOON SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f312", 
+                "description": "", 
+                "title": "WAXING CRESCENT MOON SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f313", 
+                "description": "", 
+                "title": "FIRST QUARTER MOON SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f314", 
+                "description": "", 
+                "title": "WAXING GIBBOUS MOON SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f315", 
+                "description": "", 
+                "title": "FULL MOON SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f316", 
+                "description": "", 
+                "title": "WANING GIBBOUS MOON SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f317", 
+                "description": "", 
+                "title": "LAST QUARTER MOON SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f318", 
+                "description": "", 
+                "title": "WANING CRESCENT MOON SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f319", 
+                "description": "", 
+                "title": "CRESCENT MOON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f31a", 
+                "description": "", 
+                "title": "NEW MOON WITH FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f31b", 
+                "description": "", 
+                "title": "FIRST QUARTER MOON WITH FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f31c", 
+                "description": "", 
+                "title": "LAST QUARTER MOON WITH FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f31d", 
+                "description": "", 
+                "title": "FULL MOON WITH FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f31e", 
+                "description": "", 
+                "title": "SUN WITH FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f31f", 
+                "description": "", 
+                "title": "GLOWING STAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f320", 
+                "description": "", 
+                "title": "SHOOTING STAR"
+            }, 
+            {
+                "charcode": "0x1f321", 
+                "description": "", 
+                "title": "THERMOMETER"
+            }, 
+            {
+                "charcode": "0x1f322", 
+                "description": "", 
+                "title": "BLACK DROPLET"
+            }, 
+            {
+                "charcode": "0x1f323", 
+                "description": "", 
+                "title": "WHITE SUN"
+            }, 
+            {
+                "charcode": "0x1f324", 
+                "description": "", 
+                "title": "WHITE SUN WITH SMALL CLOUD"
+            }, 
+            {
+                "charcode": "0x1f325", 
+                "description": "", 
+                "title": "WHITE SUN BEHIND CLOUD"
+            }, 
+            {
+                "charcode": "0x1f326", 
+                "description": "", 
+                "title": "WHITE SUN BEHIND CLOUD WITH RAIN"
+            }, 
+            {
+                "charcode": "0x1f327", 
+                "description": "", 
+                "title": "CLOUD WITH RAIN"
+            }, 
+            {
+                "charcode": "0x1f328", 
+                "description": "", 
+                "title": "CLOUD WITH SNOW"
+            }, 
+            {
+                "charcode": "0x1f329", 
+                "description": "", 
+                "title": "CLOUD WITH LIGHTNING"
+            }, 
+            {
+                "charcode": "0x1f32a", 
+                "description": "", 
+                "title": "CLOUD WITH TORNADO"
+            }, 
+            {
+                "charcode": "0x1f32b", 
+                "description": "", 
+                "title": "FOG"
+            }, 
+            {
+                "charcode": "0x1f32c", 
+                "description": "", 
+                "title": "WIND BLOWING FACE"
+            }, 
+            {
+                "charcode": "0x1f32d", 
+                "description": "", 
+                "title": "HOT DOG"
+            }, 
+            {
+                "charcode": "0x1f32e", 
+                "description": "", 
+                "title": "TACO"
+            }, 
+            {
+                "charcode": "0x1f32f", 
+                "description": "", 
+                "title": "BURRITO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f330", 
+                "description": "", 
+                "title": "CHESTNUT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f331", 
+                "description": "", 
+                "title": "SEEDLING"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f332", 
+                "description": "", 
+                "title": "EVERGREEN TREE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f333", 
+                "description": "", 
+                "title": "DECIDUOUS TREE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f334", 
+                "description": "", 
+                "title": "PALM TREE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f335", 
+                "description": "", 
+                "title": "CACTUS"
+            }, 
+            {
+                "charcode": "0x1f336", 
+                "description": "", 
+                "title": "HOT PEPPER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f337", 
+                "description": "", 
+                "title": "TULIP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f338", 
+                "description": "", 
+                "title": "CHERRY BLOSSOM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f339", 
+                "description": "", 
+                "title": "ROSE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f33a", 
+                "description": "", 
+                "title": "HIBISCUS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f33b", 
+                "description": "", 
+                "title": "SUNFLOWER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f33c", 
+                "description": "", 
+                "title": "BLOSSOM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f33d", 
+                "description": "", 
+                "title": "EAR OF MAIZE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f33e", 
+                "description": "", 
+                "title": "EAR OF RICE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f33f", 
+                "description": "", 
+                "title": "HERB"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f340", 
+                "description": "", 
+                "title": "FOUR LEAF CLOVER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f341", 
+                "description": "", 
+                "title": "MAPLE LEAF"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f342", 
+                "description": "", 
+                "title": "FALLEN LEAF"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f343", 
+                "description": "", 
+                "title": "LEAF FLUTTERING IN WIND"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Plant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f344", 
+                "description": "", 
+                "title": "MUSHROOM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fruit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f345", 
+                "description": "", 
+                "title": "TOMATO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fruit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f346", 
+                "description": "", 
+                "title": "AUBERGINE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fruit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f347", 
+                "description": "", 
+                "title": "GRAPES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fruit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f348", 
+                "description": "", 
+                "title": "MELON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fruit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f349", 
+                "description": "", 
+                "title": "WATERMELON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fruit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f34a", 
+                "description": "", 
+                "title": "TANGERINE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fruit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f34b", 
+                "description": "", 
+                "title": "LEMON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fruit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f34c", 
+                "description": "", 
+                "title": "BANANA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fruit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f34d", 
+                "description": "", 
+                "title": "PINEAPPLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fruit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f34e", 
+                "description": "", 
+                "title": "RED APPLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fruit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f34f", 
+                "description": "", 
+                "title": "GREEN APPLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fruit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f350", 
+                "description": "", 
+                "title": "PEAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fruit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f351", 
+                "description": "", 
+                "title": "PEACH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fruit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f352", 
+                "description": "", 
+                "title": "CHERRIES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fruit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f353", 
+                "description": "", 
+                "title": "STRAWBERRY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f354", 
+                "description": "", 
+                "title": "HAMBURGER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f355", 
+                "description": "", 
+                "title": "SLICE OF PIZZA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f356", 
+                "description": "", 
+                "title": "MEAT ON BONE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f357", 
+                "description": "", 
+                "title": "POULTRY LEG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f358", 
+                "description": "", 
+                "title": "RICE CRACKER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f359", 
+                "description": "", 
+                "title": "RICE BALL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f35a", 
+                "description": "", 
+                "title": "COOKED RICE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f35b", 
+                "description": "", 
+                "title": "CURRY AND RICE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f35c", 
+                "description": "", 
+                "title": "STEAMING BOWL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f35d", 
+                "description": "", 
+                "title": "SPAGHETTI"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f35e", 
+                "description": "", 
+                "title": "BREAD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f35f", 
+                "description": "", 
+                "title": "FRENCH FRIES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f360", 
+                "description": "", 
+                "title": "ROASTED SWEET POTATO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f361", 
+                "description": "", 
+                "title": "DANGO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f362", 
+                "description": "", 
+                "title": "ODEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f363", 
+                "description": "", 
+                "title": "SUSHI"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f364", 
+                "description": "", 
+                "title": "FRIED SHRIMP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f365", 
+                "description": "", 
+                "title": "FISH CAKE WITH SWIRL DESIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f366", 
+                "description": "", 
+                "title": "SOFT ICE CREAM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f367", 
+                "description": "", 
+                "title": "SHAVED ICE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f368", 
+                "description": "", 
+                "title": "ICE CREAM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f369", 
+                "description": "", 
+                "title": "DOUGHNUT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f36a", 
+                "description": "", 
+                "title": "COOKIE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f36b", 
+                "description": "", 
+                "title": "CHOCOLATE BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f36c", 
+                "description": "", 
+                "title": "CANDY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f36d", 
+                "description": "", 
+                "title": "LOLLIPOP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f36e", 
+                "description": "", 
+                "title": "CUSTARD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f36f", 
+                "description": "", 
+                "title": "HONEY POT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f370", 
+                "description": "", 
+                "title": "SHORTCAKE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f371", 
+                "description": "", 
+                "title": "BENTO BOX"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f372", 
+                "description": "", 
+                "title": "POT OF FOOD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f373", 
+                "description": "", 
+                "title": "COOKING"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Food", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f374", 
+                "description": "", 
+                "title": "FORK AND KNIFE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Beverage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f375", 
+                "description": "", 
+                "title": "TEACUP WITHOUT HANDLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Beverage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f376", 
+                "description": "", 
+                "title": "SAKE BOTTLE AND CUP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Beverage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f377", 
+                "description": "", 
+                "title": "WINE GLASS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Beverage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f378", 
+                "description": "", 
+                "title": "COCKTAIL GLASS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Beverage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f379", 
+                "description": "", 
+                "title": "TROPICAL DRINK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Beverage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f37a", 
+                "description": "", 
+                "title": "BEER MUG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Beverage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f37b", 
+                "description": "", 
+                "title": "CLINKING BEER MUGS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Beverage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f37c", 
+                "description": "", 
+                "title": "BABY BOTTLE"
+            }, 
+            {
+                "charcode": "0x1f37d", 
+                "description": "", 
+                "title": "FORK AND KNIFE WITH PLATE"
+            }, 
+            {
+                "charcode": "0x1f37e", 
+                "description": "", 
+                "title": "BOTTLE WITH POPPING CORK"
+            }, 
+            {
+                "charcode": "0x1f37f", 
+                "description": "", 
+                "title": "POPCORN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f380", 
+                "description": "", 
+                "title": "RIBBON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f381", 
+                "description": "", 
+                "title": "WRAPPED PRESENT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f382", 
+                "description": "", 
+                "title": "BIRTHDAY CAKE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f383", 
+                "description": "", 
+                "title": "JACK-O-LANTERN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f384", 
+                "description": "", 
+                "title": "CHRISTMAS TREE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f385", 
+                "description": "", 
+                "title": "FATHER CHRISTMAS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f386", 
+                "description": "", 
+                "title": "FIREWORKS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f387", 
+                "description": "", 
+                "title": "FIREWORK SPARKLER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f388", 
+                "description": "", 
+                "title": "BALLOON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f389", 
+                "description": "", 
+                "title": "PARTY POPPER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f38a", 
+                "description": "", 
+                "title": "CONFETTI BALL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f38b", 
+                "description": "", 
+                "title": "TANABATA TREE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f38c", 
+                "description": "", 
+                "title": "CROSSED FLAGS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f38d", 
+                "description": "", 
+                "title": "PINE DECORATION"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f38e", 
+                "description": "", 
+                "title": "JAPANESE DOLLS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f38f", 
+                "description": "", 
+                "title": "CARP STREAMER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f390", 
+                "description": "", 
+                "title": "WIND CHIME"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f391", 
+                "description": "", 
+                "title": "MOON VIEWING CEREMONY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f392", 
+                "description": "", 
+                "title": "SCHOOL SATCHEL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Celebration", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f393", 
+                "description": "", 
+                "title": "GRADUATION CAP"
+            }, 
+            {
+                "charcode": "0x1f394", 
+                "description": "", 
+                "title": "HEART WITH TIP ON THE LEFT"
+            }, 
+            {
+                "charcode": "0x1f395", 
+                "description": "", 
+                "title": "BOUQUET OF FLOWERS"
+            }, 
+            {
+                "charcode": "0x1f396", 
+                "description": "", 
+                "title": "MILITARY MEDAL"
+            }, 
+            {
+                "charcode": "0x1f397", 
+                "description": "", 
+                "title": "REMINDER RIBBON"
+            }, 
+            {
+                "charcode": "0x1f398", 
+                "description": "", 
+                "title": "MUSICAL KEYBOARD WITH JACKS"
+            }, 
+            {
+                "charcode": "0x1f399", 
+                "description": "", 
+                "title": "STUDIO MICROPHONE"
+            }, 
+            {
+                "charcode": "0x1f39a", 
+                "description": "", 
+                "title": "LEVEL SLIDER"
+            }, 
+            {
+                "charcode": "0x1f39b", 
+                "description": "", 
+                "title": "CONTROL KNOBS"
+            }, 
+            {
+                "charcode": "0x1f39c", 
+                "description": "", 
+                "title": "BEAMED ASCENDING MUSICAL NOTES"
+            }, 
+            {
+                "charcode": "0x1f39d", 
+                "description": "", 
+                "title": "BEAMED DESCENDING MUSICAL NOTES"
+            }, 
+            {
+                "charcode": "0x1f39e", 
+                "description": "", 
+                "title": "FILM FRAMES"
+            }, 
+            {
+                "charcode": "0x1f39f", 
+                "description": "", 
+                "title": "ADMISSION TICKETS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Entertainment", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3a0", 
+                "description": "", 
+                "title": "CAROUSEL HORSE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Entertainment", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3a1", 
+                "description": "", 
+                "title": "FERRIS WHEEL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Entertainment", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3a2", 
+                "description": "", 
+                "title": "ROLLER COASTER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Entertainment", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3a3", 
+                "description": "", 
+                "title": "FISHING POLE AND FISH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Entertainment", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3a4", 
+                "description": "", 
+                "title": "MICROPHONE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Entertainment", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3a5", 
+                "description": "", 
+                "title": "MOVIE CAMERA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Entertainment", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3a6", 
+                "description": "", 
+                "title": "CINEMA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Entertainment", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3a7", 
+                "description": "", 
+                "title": "HEADPHONE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Entertainment", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3a8", 
+                "description": "", 
+                "title": "ARTIST PALETTE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Entertainment", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3a9", 
+                "description": "", 
+                "title": "TOP HAT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Entertainment", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3aa", 
+                "description": "", 
+                "title": "CIRCUS TENT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Entertainment", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3ab", 
+                "description": "", 
+                "title": "TICKET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Entertainment", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3ac", 
+                "description": "", 
+                "title": "CLAPPER BOARD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Entertainment", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3ad", 
+                "description": "", 
+                "title": "PERFORMING ARTS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3ae", 
+                "description": "", 
+                "title": "VIDEO GAME"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3af", 
+                "description": "", 
+                "title": "DIRECT HIT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3b0", 
+                "description": "", 
+                "title": "SLOT MACHINE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3b1", 
+                "description": "", 
+                "title": "BILLIARDS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3b2", 
+                "description": "", 
+                "title": "GAME DIE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3b3", 
+                "description": "", 
+                "title": "BOWLING"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3b4", 
+                "description": "", 
+                "title": "FLOWER PLAYING CARDS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Music", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3b5", 
+                "description": "", 
+                "title": "MUSICAL NOTE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Music", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3b6", 
+                "description": "", 
+                "title": "MULTIPLE MUSICAL NOTES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Music", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3b7", 
+                "description": "", 
+                "title": "SAXOPHONE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Music", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3b8", 
+                "description": "", 
+                "title": "GUITAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Music", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3b9", 
+                "description": "", 
+                "title": "MUSICAL KEYBOARD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Music", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3ba", 
+                "description": "", 
+                "title": "TRUMPET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Music", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3bb", 
+                "description": "", 
+                "title": "VIOLIN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Music", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3bc", 
+                "description": "", 
+                "title": "MUSICAL SCORE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Sport", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3bd", 
+                "description": "", 
+                "title": "RUNNING SHIRT WITH SASH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Sport", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3be", 
+                "description": "", 
+                "title": "TENNIS RACQUET AND BALL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Sport", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3bf", 
+                "description": "", 
+                "title": "SKI AND SKI BOOT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Sport", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3c0", 
+                "description": "", 
+                "title": "BASKETBALL AND HOOP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Sport", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3c1", 
+                "description": "", 
+                "title": "CHEQUERED FLAG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Sport", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3c2", 
+                "description": "", 
+                "title": "SNOWBOARDER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Sport", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3c3", 
+                "description": "", 
+                "title": "RUNNER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Sport", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3c4", 
+                "description": "", 
+                "title": "SURFER"
+            }, 
+            {
+                "charcode": "0x1f3c5", 
+                "description": "", 
+                "title": "SPORTS MEDAL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Sport", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3c6", 
+                "description": "", 
+                "title": "TROPHY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Sport", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3c7", 
+                "description": "", 
+                "title": "HORSE RACING"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Sport", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3c8", 
+                "description": "", 
+                "title": "AMERICAN FOOTBALL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Sport", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3c9", 
+                "description": "", 
+                "title": "RUGBY FOOTBALL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Sport", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3ca", 
+                "description": "", 
+                "title": "SWIMMER"
+            }, 
+            {
+                "charcode": "0x1f3cb", 
+                "description": "", 
+                "title": "WEIGHT LIFTER"
+            }, 
+            {
+                "charcode": "0x1f3cc", 
+                "description": "", 
+                "title": "GOLFER"
+            }, 
+            {
+                "charcode": "0x1f3cd", 
+                "description": "", 
+                "title": "RACING MOTORCYCLE"
+            }, 
+            {
+                "charcode": "0x1f3ce", 
+                "description": "", 
+                "title": "RACING CAR"
+            }, 
+            {
+                "charcode": "0x1f3cf", 
+                "description": "", 
+                "title": "CRICKET BAT AND BALL"
+            }, 
+            {
+                "charcode": "0x1f3d0", 
+                "description": "", 
+                "title": "VOLLEYBALL"
+            }, 
+            {
+                "charcode": "0x1f3d1", 
+                "description": "", 
+                "title": "FIELD HOCKEY STICK AND BALL"
+            }, 
+            {
+                "charcode": "0x1f3d2", 
+                "description": "", 
+                "title": "ICE HOCKEY STICK AND PUCK"
+            }, 
+            {
+                "charcode": "0x1f3d3", 
+                "description": "", 
+                "title": "TABLE TENNIS PADDLE AND BALL"
+            }, 
+            {
+                "charcode": "0x1f3d4", 
+                "description": "", 
+                "title": "SNOW CAPPED MOUNTAIN"
+            }, 
+            {
+                "charcode": "0x1f3d5", 
+                "description": "", 
+                "title": "CAMPING"
+            }, 
+            {
+                "charcode": "0x1f3d6", 
+                "description": "", 
+                "title": "BEACH WITH UMBRELLA"
+            }, 
+            {
+                "charcode": "0x1f3d7", 
+                "description": "", 
+                "title": "BUILDING CONSTRUCTION"
+            }, 
+            {
+                "charcode": "0x1f3d8", 
+                "description": "", 
+                "title": "HOUSE BUILDINGS"
+            }, 
+            {
+                "charcode": "0x1f3d9", 
+                "description": "", 
+                "title": "CITYSCAPE"
+            }, 
+            {
+                "charcode": "0x1f3da", 
+                "description": "", 
+                "title": "DERELICT HOUSE BUILDING"
+            }, 
+            {
+                "charcode": "0x1f3db", 
+                "description": "", 
+                "title": "CLASSICAL BUILDING"
+            }, 
+            {
+                "charcode": "0x1f3dc", 
+                "description": "", 
+                "title": "DESERT"
+            }, 
+            {
+                "charcode": "0x1f3dd", 
+                "description": "", 
+                "title": "DESERT ISLAND"
+            }, 
+            {
+                "charcode": "0x1f3de", 
+                "description": "", 
+                "title": "NATIONAL PARK"
+            }, 
+            {
+                "charcode": "0x1f3df", 
+                "description": "", 
+                "title": "STADIUM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3e0", 
+                "description": "", 
+                "title": "HOUSE BUILDING"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3e1", 
+                "description": "", 
+                "title": "HOUSE WITH GARDEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3e2", 
+                "description": "", 
+                "title": "OFFICE BUILDING"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3e3", 
+                "description": "", 
+                "title": "JAPANESE POST OFFICE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3e4", 
+                "description": "", 
+                "title": "EUROPEAN POST OFFICE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3e5", 
+                "description": "", 
+                "title": "HOSPITAL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3e6", 
+                "description": "", 
+                "title": "BANK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3e7", 
+                "description": "", 
+                "title": "AUTOMATED TELLER MACHINE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3e8", 
+                "description": "", 
+                "title": "HOTEL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3e9", 
+                "description": "", 
+                "title": "LOVE HOTEL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3ea", 
+                "description": "", 
+                "title": "CONVENIENCE STORE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3eb", 
+                "description": "", 
+                "title": "SCHOOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3ec", 
+                "description": "", 
+                "title": "DEPARTMENT STORE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3ed", 
+                "description": "", 
+                "title": "FACTORY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3ee", 
+                "description": "", 
+                "title": "IZAKAYA LANTERN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3ef", 
+                "description": "", 
+                "title": "JAPANESE CASTLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f3f0", 
+                "description": "", 
+                "title": "EUROPEAN CASTLE"
+            }, 
+            {
+                "charcode": "0x1f3f1", 
+                "description": "", 
+                "title": "WHITE PENNANT"
+            }, 
+            {
+                "charcode": "0x1f3f2", 
+                "description": "", 
+                "title": "BLACK PENNANT"
+            }, 
+            {
+                "charcode": "0x1f3f3", 
+                "description": "", 
+                "title": "WAVING WHITE FLAG"
+            }, 
+            {
+                "charcode": "0x1f3f4", 
+                "description": "", 
+                "title": "WAVING BLACK FLAG"
+            }, 
+            {
+                "charcode": "0x1f3f5", 
+                "description": "", 
+                "title": "ROSETTE"
+            }, 
+            {
+                "charcode": "0x1f3f6", 
+                "description": "", 
+                "title": "BLACK ROSETTE"
+            }, 
+            {
+                "charcode": "0x1f3f7", 
+                "description": "", 
+                "title": "LABEL"
+            }, 
+            {
+                "charcode": "0x1f3f8", 
+                "description": "", 
+                "title": "BADMINTON RACQUET AND SHUTTLECOCK"
+            }, 
+            {
+                "charcode": "0x1f3f9", 
+                "description": "", 
+                "title": "BOW AND ARROW"
+            }, 
+            {
+                "charcode": "0x1f3fa", 
+                "description": "", 
+                "title": "AMPHORA"
+            }, 
+            {
+                "charcode": "0x1f3fb", 
+                "description": "", 
+                "title": "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+            }, 
+            {
+                "charcode": "0x1f3fc", 
+                "description": "", 
+                "title": "EMOJI MODIFIER FITZPATRICK TYPE-3"
+            }, 
+            {
+                "charcode": "0x1f3fd", 
+                "description": "", 
+                "title": "EMOJI MODIFIER FITZPATRICK TYPE-4"
+            }, 
+            {
+                "charcode": "0x1f3fe", 
+                "description": "", 
+                "title": "EMOJI MODIFIER FITZPATRICK TYPE-5"
+            }, 
+            {
+                "charcode": "0x1f3ff", 
+                "description": "", 
+                "title": "EMOJI MODIFIER FITZPATRICK TYPE-6"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f400", 
+                "description": "", 
+                "title": "RAT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f401", 
+                "description": "", 
+                "title": "MOUSE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f402", 
+                "description": "", 
+                "title": "OX"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f403", 
+                "description": "", 
+                "title": "WATER BUFFALO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f404", 
+                "description": "", 
+                "title": "COW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f405", 
+                "description": "", 
+                "title": "TIGER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f406", 
+                "description": "", 
+                "title": "LEOPARD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f407", 
+                "description": "", 
+                "title": "RABBIT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f408", 
+                "description": "", 
+                "title": "CAT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f409", 
+                "description": "", 
+                "title": "DRAGON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f40a", 
+                "description": "", 
+                "title": "CROCODILE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f40b", 
+                "description": "", 
+                "title": "WHALE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f40c", 
+                "description": "", 
+                "title": "SNAIL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f40d", 
+                "description": "", 
+                "title": "SNAKE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f40e", 
+                "description": "", 
+                "title": "HORSE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f40f", 
+                "description": "", 
+                "title": "RAM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f410", 
+                "description": "", 
+                "title": "GOAT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f411", 
+                "description": "", 
+                "title": "SHEEP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f412", 
+                "description": "", 
+                "title": "MONKEY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f413", 
+                "description": "", 
+                "title": "ROOSTER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f414", 
+                "description": "", 
+                "title": "CHICKEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f415", 
+                "description": "", 
+                "title": "DOG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f416", 
+                "description": "", 
+                "title": "PIG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f417", 
+                "description": "", 
+                "title": "BOAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Zodiac", 
+                "cat4": "", 
+                "charcode": "0x1f418", 
+                "description": "", 
+                "title": "ELEPHANT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f419", 
+                "description": "", 
+                "title": "OCTOPUS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f41a", 
+                "description": "", 
+                "title": "SPIRAL SHELL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f41b", 
+                "description": "", 
+                "title": "BUG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f41c", 
+                "description": "", 
+                "title": "ANT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f41d", 
+                "description": "", 
+                "title": "HONEYBEE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f41e", 
+                "description": "", 
+                "title": "LADY BEETLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f41f", 
+                "description": "", 
+                "title": "FISH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f420", 
+                "description": "", 
+                "title": "TROPICAL FISH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f421", 
+                "description": "", 
+                "title": "BLOWFISH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f422", 
+                "description": "", 
+                "title": "TURTLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f423", 
+                "description": "", 
+                "title": "HATCHING CHICK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f424", 
+                "description": "", 
+                "title": "BABY CHICK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f425", 
+                "description": "", 
+                "title": "FRONT-FACING BABY CHICK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f426", 
+                "description": "", 
+                "title": "BIRD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f427", 
+                "description": "", 
+                "title": "PENGUIN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f428", 
+                "description": "", 
+                "title": "KOALA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f429", 
+                "description": "", 
+                "title": "POODLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f42a", 
+                "description": "", 
+                "title": "DROMEDARY CAMEL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f42b", 
+                "description": "", 
+                "title": "BACTRIAN CAMEL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f42c", 
+                "description": "", 
+                "title": "DOLPHIN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f42d", 
+                "description": "", 
+                "title": "MOUSE FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f42e", 
+                "description": "", 
+                "title": "COW FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f42f", 
+                "description": "", 
+                "title": "TIGER FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f430", 
+                "description": "", 
+                "title": "RABBIT FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f431", 
+                "description": "", 
+                "title": "CAT FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f432", 
+                "description": "", 
+                "title": "DRAGON FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f433", 
+                "description": "", 
+                "title": "SPOUTING WHALE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f434", 
+                "description": "", 
+                "title": "HORSE FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f435", 
+                "description": "", 
+                "title": "MONKEY FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f436", 
+                "description": "", 
+                "title": "DOG FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f437", 
+                "description": "", 
+                "title": "PIG FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f438", 
+                "description": "", 
+                "title": "FROG FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f439", 
+                "description": "", 
+                "title": "HAMSTER FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f43a", 
+                "description": "", 
+                "title": "WOLF FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f43b", 
+                "description": "", 
+                "title": "BEAR FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f43c", 
+                "description": "", 
+                "title": "PANDA FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f43d", 
+                "description": "", 
+                "title": "PIG NOSE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Animal", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f43e", 
+                "description": "", 
+                "title": "PAW PRINTS"
+            }, 
+            {
+                "charcode": "0x1f43f", 
+                "description": "", 
+                "title": "CHIPMUNK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Body part", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f440", 
+                "description": "", 
+                "title": "EYES"
+            }, 
+            {
+                "charcode": "0x1f441", 
+                "description": "", 
+                "title": "EYE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Body part", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f442", 
+                "description": "", 
+                "title": "EAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Body part", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f443", 
+                "description": "", 
+                "title": "NOSE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Body part", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f444", 
+                "description": "", 
+                "title": "MOUTH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Body part", 
+                "cat3": "Face", 
+                "cat4": "", 
+                "charcode": "0x1f445", 
+                "description": "", 
+                "title": "TONGUE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "Pointing", 
+                "charcode": "0x1f446", 
+                "description": "", 
+                "title": "WHITE UP POINTING BACKHAND INDEX"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "Pointing", 
+                "charcode": "0x1f447", 
+                "description": "", 
+                "title": "WHITE DOWN POINTING BACKHAND INDEX"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "Pointing", 
+                "charcode": "0x1f448", 
+                "description": "", 
+                "title": "WHITE LEFT POINTING BACKHAND INDEX"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "Pointing", 
+                "charcode": "0x1f449", 
+                "description": "", 
+                "title": "WHITE RIGHT POINTING BACKHAND INDEX"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "", 
+                "charcode": "0x1f44a", 
+                "description": "", 
+                "title": "FISTED HAND SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "", 
+                "charcode": "0x1f44b", 
+                "description": "", 
+                "title": "WAVING HAND SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "", 
+                "charcode": "0x1f44c", 
+                "description": "", 
+                "title": "OK HAND SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "", 
+                "charcode": "0x1f44d", 
+                "description": "", 
+                "title": "THUMBS UP SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "", 
+                "charcode": "0x1f44e", 
+                "description": "", 
+                "title": "THUMBS DOWN SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "", 
+                "charcode": "0x1f44f", 
+                "description": "", 
+                "title": "CLAPPING HANDS SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "", 
+                "charcode": "0x1f450", 
+                "description": "", 
+                "title": "OPEN HANDS SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f451", 
+                "description": "", 
+                "title": "CROWN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f452", 
+                "description": "", 
+                "title": "WOMANS HAT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f453", 
+                "description": "", 
+                "title": "EYEGLASSES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f454", 
+                "description": "", 
+                "title": "NECKTIE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f455", 
+                "description": "", 
+                "title": "T-SHIRT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f456", 
+                "description": "", 
+                "title": "JEANS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f457", 
+                "description": "", 
+                "title": "DRESS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f458", 
+                "description": "", 
+                "title": "KIMONO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f459", 
+                "description": "", 
+                "title": "BIKINI"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f45a", 
+                "description": "", 
+                "title": "WOMANS CLOTHES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f45b", 
+                "description": "", 
+                "title": "PURSE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f45c", 
+                "description": "", 
+                "title": "HANDBAG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f45d", 
+                "description": "", 
+                "title": "POUCH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f45e", 
+                "description": "", 
+                "title": "MANS SHOE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f45f", 
+                "description": "", 
+                "title": "ATHLETIC SHOE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f460", 
+                "description": "", 
+                "title": "HIGH-HEELED SHOE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f461", 
+                "description": "", 
+                "title": "WOMANS SANDAL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f462", 
+                "description": "", 
+                "title": "WOMANS BOOTS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clothing", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f463", 
+                "description": "", 
+                "title": "FOOTPRINTS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f464", 
+                "description": "", 
+                "title": "BUST IN SILHOUETTE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f465", 
+                "description": "", 
+                "title": "BUSTS IN SILHOUETTE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f466", 
+                "description": "", 
+                "title": "BOY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f467", 
+                "description": "", 
+                "title": "GIRL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f468", 
+                "description": "", 
+                "title": "MAN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f469", 
+                "description": "", 
+                "title": "WOMAN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f46a", 
+                "description": "", 
+                "title": "FAMILY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f46b", 
+                "description": "", 
+                "title": "MAN AND WOMAN HOLDING HANDS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f46c", 
+                "description": "", 
+                "title": "TWO MEN HOLDING HANDS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f46d", 
+                "description": "", 
+                "title": "TWO WOMEN HOLDING HANDS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f46e", 
+                "description": "", 
+                "title": "POLICE OFFICER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f46f", 
+                "description": "", 
+                "title": "WOMAN WITH BUNNY EARS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f470", 
+                "description": "", 
+                "title": "BRIDE WITH VEIL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f471", 
+                "description": "", 
+                "title": "PERSON WITH BLOND HAIR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f472", 
+                "description": "", 
+                "title": "MAN WITH GUA PI MAO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f473", 
+                "description": "", 
+                "title": "MAN WITH TURBAN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f474", 
+                "description": "", 
+                "title": "OLDER MAN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f475", 
+                "description": "", 
+                "title": "OLDER WOMAN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f476", 
+                "description": "", 
+                "title": "BABY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "Occupation", 
+                "cat4": "", 
+                "charcode": "0x1f477", 
+                "description": "", 
+                "title": "CONSTRUCTION WORKER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fairy tale", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f478", 
+                "description": "", 
+                "title": "PRINCESS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fairy tale", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f479", 
+                "description": "", 
+                "title": "JAPANESE OGRE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fairy tale", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f47a", 
+                "description": "", 
+                "title": "JAPANESE GOBLIN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fairy tale", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f47b", 
+                "description": "", 
+                "title": "GHOST"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fairy tale", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f47c", 
+                "description": "", 
+                "title": "BABY ANGEL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fairy tale", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f47d", 
+                "description": "", 
+                "title": "EXTRATERRESTRIAL ALIEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fairy tale", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f47e", 
+                "description": "", 
+                "title": "ALIEN MONSTER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fairy tale", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f47f", 
+                "description": "", 
+                "title": "IMP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Fairy tale", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f480", 
+                "description": "", 
+                "title": "SKULL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "Occupation", 
+                "cat4": "", 
+                "charcode": "0x1f481", 
+                "description": "", 
+                "title": "INFORMATION DESK PERSON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "Occupation", 
+                "cat4": "", 
+                "charcode": "0x1f482", 
+                "description": "", 
+                "title": "GUARDSMAN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Person", 
+                "cat3": "Occupation", 
+                "cat4": "", 
+                "charcode": "0x1f483", 
+                "description": "", 
+                "title": "DANCER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Personal care", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f484", 
+                "description": "", 
+                "title": "LIPSTICK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Personal care", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f485", 
+                "description": "", 
+                "title": "NAIL POLISH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Personal care", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f486", 
+                "description": "", 
+                "title": "FACE MASSAGE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Personal care", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f487", 
+                "description": "", 
+                "title": "HAIRCUT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Personal care", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f488", 
+                "description": "", 
+                "title": "BARBER POLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Medical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f489", 
+                "description": "", 
+                "title": "SYRINGE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Medical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f48a", 
+                "description": "", 
+                "title": "PILL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Romance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f48b", 
+                "description": "", 
+                "title": "KISS MARK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Romance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f48c", 
+                "description": "", 
+                "title": "LOVE LETTER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Romance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f48d", 
+                "description": "", 
+                "title": "RING"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Romance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f48e", 
+                "description": "", 
+                "title": "GEM STONE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Romance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f48f", 
+                "description": "", 
+                "title": "KISS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Romance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f490", 
+                "description": "", 
+                "title": "BOUQUET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Romance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f491", 
+                "description": "", 
+                "title": "COUPLE WITH HEART"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Romance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f492", 
+                "description": "", 
+                "title": "WEDDING"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Heart", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f493", 
+                "description": "", 
+                "title": "BEATING HEART"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Heart", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f494", 
+                "description": "", 
+                "title": "BROKEN HEART"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Heart", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f495", 
+                "description": "", 
+                "title": "TWO HEARTS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Heart", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f496", 
+                "description": "", 
+                "title": "SPARKLING HEART"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Heart", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f497", 
+                "description": "", 
+                "title": "GROWING HEART"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Heart", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f498", 
+                "description": "", 
+                "title": "HEART WITH ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Heart", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f499", 
+                "description": "", 
+                "title": "BLUE HEART"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Heart", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f49a", 
+                "description": "", 
+                "title": "GREEN HEART"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Heart", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f49b", 
+                "description": "", 
+                "title": "YELLOW HEART"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Heart", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f49c", 
+                "description": "", 
+                "title": "PURPLE HEART"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Heart", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f49d", 
+                "description": "", 
+                "title": "HEART WITH RIBBON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Heart", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f49e", 
+                "description": "", 
+                "title": "REVOLVING HEARTS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Heart", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f49f", 
+                "description": "", 
+                "title": "HEART DECORATION"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Comic style", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4a0", 
+                "description": "", 
+                "title": "DIAMOND SHAPE WITH A DOT INSIDE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Comic style", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4a1", 
+                "description": "", 
+                "title": "ELECTRIC LIGHT BULB"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Comic style", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4a2", 
+                "description": "", 
+                "title": "ANGER SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Comic style", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4a3", 
+                "description": "", 
+                "title": "BOMB"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Comic style", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4a4", 
+                "description": "", 
+                "title": "SLEEPING SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Comic style", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4a5", 
+                "description": "", 
+                "title": "COLLISION SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Comic style", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4a6", 
+                "description": "", 
+                "title": "SPLASHING SWEAT SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Comic style", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4a7", 
+                "description": "", 
+                "title": "DROPLET"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Comic style", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4a8", 
+                "description": "", 
+                "title": "DASH SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Comic style", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4a9", 
+                "description": "", 
+                "title": "PILE OF POO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Comic style", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4aa", 
+                "description": "", 
+                "title": "FLEXED BICEPS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Comic style", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4ab", 
+                "description": "", 
+                "title": "DIZZY SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Comic style", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4ac", 
+                "description": "", 
+                "title": "SPEECH BALLOON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Comic style", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4ad", 
+                "description": "", 
+                "title": "THOUGHT BALLOON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "School", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4ae", 
+                "description": "", 
+                "title": "WHITE FLOWER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "School", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4af", 
+                "description": "", 
+                "title": "HUNDRED POINTS SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Finance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4b0", 
+                "description": "", 
+                "title": "MONEY BAG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Finance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4b1", 
+                "description": "", 
+                "title": "CURRENCY EXCHANGE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Finance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4b2", 
+                "description": "", 
+                "title": "HEAVY DOLLAR SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Finance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4b3", 
+                "description": "", 
+                "title": "CREDIT CARD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Finance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4b4", 
+                "description": "", 
+                "title": "BANKNOTE WITH YEN SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Finance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4b5", 
+                "description": "", 
+                "title": "BANKNOTE WITH DOLLAR SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Finance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4b6", 
+                "description": "", 
+                "title": "BANKNOTE WITH EURO SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Finance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4b7", 
+                "description": "", 
+                "title": "BANKNOTE WITH POUND SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Finance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4b8", 
+                "description": "", 
+                "title": "MONEY WITH WINGS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Finance", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4b9", 
+                "description": "", 
+                "title": "CHART WITH UPWARDS TREND AND YEN SIGN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4ba", 
+                "description": "", 
+                "title": "SEAT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4bb", 
+                "description": "", 
+                "title": "PERSONAL COMPUTER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4bc", 
+                "description": "", 
+                "title": "BRIEFCASE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4bd", 
+                "description": "", 
+                "title": "MINIDISC"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4be", 
+                "description": "", 
+                "title": "FLOPPY DISK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4bf", 
+                "description": "", 
+                "title": "OPTICAL DISC"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4c0", 
+                "description": "", 
+                "title": "DVD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4c1", 
+                "description": "", 
+                "title": "FILE FOLDER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4c2", 
+                "description": "", 
+                "title": "OPEN FILE FOLDER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4c3", 
+                "description": "", 
+                "title": "PAGE WITH CURL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4c4", 
+                "description": "", 
+                "title": "PAGE FACING UP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4c5", 
+                "description": "", 
+                "title": "CALENDAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4c6", 
+                "description": "", 
+                "title": "TEAR-OFF CALENDAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4c7", 
+                "description": "", 
+                "title": "CARD INDEX"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4c8", 
+                "description": "", 
+                "title": "CHART WITH UPWARDS TREND"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4c9", 
+                "description": "", 
+                "title": "CHART WITH DOWNWARDS TREND"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4ca", 
+                "description": "", 
+                "title": "BAR CHART"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4cb", 
+                "description": "", 
+                "title": "CLIPBOARD"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4cc", 
+                "description": "", 
+                "title": "PUSHPIN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4cd", 
+                "description": "", 
+                "title": "ROUND PUSHPIN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4ce", 
+                "description": "", 
+                "title": "PAPERCLIP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4cf", 
+                "description": "", 
+                "title": "STRAIGHT RULER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4d0", 
+                "description": "", 
+                "title": "TRIANGULAR RULER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4d1", 
+                "description": "", 
+                "title": "BOOKMARK TABS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4d2", 
+                "description": "", 
+                "title": "LEDGER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4d3", 
+                "description": "", 
+                "title": "NOTEBOOK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4d4", 
+                "description": "", 
+                "title": "NOTEBOOK WITH DECORATIVE COVER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4d5", 
+                "description": "", 
+                "title": "CLOSED BOOK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4d6", 
+                "description": "", 
+                "title": "OPEN BOOK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4d7", 
+                "description": "", 
+                "title": "GREEN BOOK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4d8", 
+                "description": "", 
+                "title": "BLUE BOOK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4d9", 
+                "description": "", 
+                "title": "ORANGE BOOK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4da", 
+                "description": "", 
+                "title": "BOOKS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4db", 
+                "description": "", 
+                "title": "NAME BADGE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Office", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4dc", 
+                "description": "", 
+                "title": "SCROLL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4dd", 
+                "description": "", 
+                "title": "MEMO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4de", 
+                "description": "", 
+                "title": "TELEPHONE RECEIVER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4df", 
+                "description": "", 
+                "title": "PAGER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4e0", 
+                "description": "", 
+                "title": "FAX MACHINE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4e1", 
+                "description": "", 
+                "title": "SATELLITE ANTENNA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4e2", 
+                "description": "", 
+                "title": "PUBLIC ADDRESS LOUDSPEAKER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4e3", 
+                "description": "", 
+                "title": "CHEERING MEGAPHONE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4e4", 
+                "description": "", 
+                "title": "OUTBOX TRAY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4e5", 
+                "description": "", 
+                "title": "INBOX TRAY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4e6", 
+                "description": "", 
+                "title": "PACKAGE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4e7", 
+                "description": "", 
+                "title": "E-MAIL SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4e8", 
+                "description": "", 
+                "title": "INCOMING ENVELOPE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4e9", 
+                "description": "", 
+                "title": "ENVELOPE WITH DOWNWARDS ARROW ABOVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4ea", 
+                "description": "", 
+                "title": "CLOSED MAILBOX WITH LOWERED FLAG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4eb", 
+                "description": "", 
+                "title": "CLOSED MAILBOX WITH RAISED FLAG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4ec", 
+                "description": "", 
+                "title": "OPEN MAILBOX WITH RAISED FLAG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4ed", 
+                "description": "", 
+                "title": "OPEN MAILBOX WITH LOWERED FLAG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4ee", 
+                "description": "", 
+                "title": "POSTBOX"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4ef", 
+                "description": "", 
+                "title": "POSTAL HORN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4f0", 
+                "description": "", 
+                "title": "NEWSPAPER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4f1", 
+                "description": "", 
+                "title": "MOBILE PHONE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4f2", 
+                "description": "", 
+                "title": "MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4f3", 
+                "description": "", 
+                "title": "VIBRATION MODE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4f4", 
+                "description": "", 
+                "title": "MOBILE PHONE OFF"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4f5", 
+                "description": "", 
+                "title": "NO MOBILE PHONES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Communication", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4f6", 
+                "description": "", 
+                "title": "ANTENNA WITH BARS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Audio; video", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4f7", 
+                "description": "", 
+                "title": "CAMERA"
+            }, 
+            {
+                "charcode": "0x1f4f8", 
+                "description": "", 
+                "title": "CAMERA WITH FLASH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Audio; video", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4f9", 
+                "description": "", 
+                "title": "VIDEO CAMERA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Audio; video", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4fa", 
+                "description": "", 
+                "title": "TELEVISION"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Audio; video", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4fb", 
+                "description": "", 
+                "title": "RADIO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Audio; video", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f4fc", 
+                "description": "", 
+                "title": "VIDEOCASSETTE"
+            }, 
+            {
+                "charcode": "0x1f4fd", 
+                "description": "", 
+                "title": "FILM PROJECTOR"
+            }, 
+            {
+                "charcode": "0x1f4fe", 
+                "description": "", 
+                "title": "PORTABLE STEREO"
+            }, 
+            {
+                "charcode": "0x1f4ff", 
+                "description": "", 
+                "title": "PRAYER BEADS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f500", 
+                "description": "", 
+                "title": "TWISTED RIGHTWARDS ARROWS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f501", 
+                "description": "", 
+                "title": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f502", 
+                "description": "", 
+                "title": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f503", 
+                "description": "", 
+                "title": "CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f504", 
+                "description": "", 
+                "title": "ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f505", 
+                "description": "", 
+                "title": "LOW BRIGHTNESS SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f506", 
+                "description": "", 
+                "title": "HIGH BRIGHTNESS SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f507", 
+                "description": "", 
+                "title": "SPEAKER WITH CANCELLATION STROKE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f508", 
+                "description": "", 
+                "title": "SPEAKER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f509", 
+                "description": "", 
+                "title": "SPEAKER WITH ONE SOUND WAVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f50a", 
+                "description": "", 
+                "title": "SPEAKER WITH THREE SOUND WAVES"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f50b", 
+                "description": "", 
+                "title": "BATTERY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f50c", 
+                "description": "", 
+                "title": "ELECTRIC PLUG"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f50d", 
+                "description": "", 
+                "title": "LEFT-POINTING MAGNIFYING GLASS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f50e", 
+                "description": "", 
+                "title": "RIGHT-POINTING MAGNIFYING GLASS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f50f", 
+                "description": "", 
+                "title": "LOCK WITH INK PEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f510", 
+                "description": "", 
+                "title": "CLOSED LOCK WITH KEY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f511", 
+                "description": "", 
+                "title": "KEY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f512", 
+                "description": "", 
+                "title": "LOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f513", 
+                "description": "", 
+                "title": "OPEN LOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f514", 
+                "description": "", 
+                "title": "BELL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f515", 
+                "description": "", 
+                "title": "BELL WITH CANCELLATION STROKE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f516", 
+                "description": "", 
+                "title": "BOOKMARK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f517", 
+                "description": "", 
+                "title": "LINK SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f518", 
+                "description": "", 
+                "title": "RADIO BUTTON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "Arrow", 
+                "charcode": "0x1f519", 
+                "description": "", 
+                "title": "BACK WITH LEFTWARDS ARROW ABOVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "Arrow", 
+                "charcode": "0x1f51a", 
+                "description": "", 
+                "title": "END WITH LEFTWARDS ARROW ABOVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "Arrow", 
+                "charcode": "0x1f51b", 
+                "description": "", 
+                "title": "ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "Arrow", 
+                "charcode": "0x1f51c", 
+                "description": "", 
+                "title": "SOON WITH RIGHTWARDS ARROW ABOVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "Arrow", 
+                "charcode": "0x1f51d", 
+                "description": "", 
+                "title": "TOP WITH UPWARDS ARROW ABOVE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Signage", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f51e", 
+                "description": "", 
+                "title": "NO ONE UNDER EIGHTEEN SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Keyboard", 
+                "cat4": "", 
+                "charcode": "0x1f51f", 
+                "description": "", 
+                "title": "KEYCAP TEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "Input status", 
+                "charcode": "0x1f520", 
+                "description": "", 
+                "title": "INPUT SYMBOL FOR LATIN CAPITAL LETTERS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "Input status", 
+                "charcode": "0x1f521", 
+                "description": "", 
+                "title": "INPUT SYMBOL FOR LATIN SMALL LETTERS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "Input status", 
+                "charcode": "0x1f522", 
+                "description": "", 
+                "title": "INPUT SYMBOL FOR NUMBERS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "Input status", 
+                "charcode": "0x1f523", 
+                "description": "", 
+                "title": "INPUT SYMBOL FOR SYMBOLS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "Input status", 
+                "charcode": "0x1f524", 
+                "description": "", 
+                "title": "INPUT SYMBOL FOR LATIN LETTERS"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Tool", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f525", 
+                "description": "", 
+                "title": "FIRE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Tool", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f526", 
+                "description": "", 
+                "title": "ELECTRIC TORCH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Tool", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f527", 
+                "description": "", 
+                "title": "WRENCH"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Tool", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f528", 
+                "description": "", 
+                "title": "HAMMER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Tool", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f529", 
+                "description": "", 
+                "title": "NUT AND BOLT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Tool", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f52a", 
+                "description": "", 
+                "title": "HOCHO"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Tool", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f52b", 
+                "description": "", 
+                "title": "PISTOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Tool", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f52c", 
+                "description": "", 
+                "title": "MICROSCOPE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Tool", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f52d", 
+                "description": "", 
+                "title": "TELESCOPE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Tool", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f52e", 
+                "description": "", 
+                "title": "CRYSTAL BALL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Starlike", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f52f", 
+                "description": "", 
+                "title": "SIX POINTED STAR WITH MIDDLE DOT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f530", 
+                "description": "", 
+                "title": "JAPANESE SYMBOL FOR BEGINNER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f531", 
+                "description": "", 
+                "title": "TRIDENT EMBLEM"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f532", 
+                "description": "", 
+                "title": "BLACK SQUARE BUTTON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f533", 
+                "description": "", 
+                "title": "WHITE SQUARE BUTTON"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f534", 
+                "description": "", 
+                "title": "LARGE RED CIRCLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f535", 
+                "description": "", 
+                "title": "LARGE BLUE CIRCLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f536", 
+                "description": "", 
+                "title": "LARGE ORANGE DIAMOND"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f537", 
+                "description": "", 
+                "title": "LARGE BLUE DIAMOND"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f538", 
+                "description": "", 
+                "title": "SMALL ORANGE DIAMOND"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f539", 
+                "description": "", 
+                "title": "SMALL BLUE DIAMOND"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f53a", 
+                "description": "", 
+                "title": "UP-POINTING RED TRIANGLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f53b", 
+                "description": "", 
+                "title": "DOWN-POINTING RED TRIANGLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f53c", 
+                "description": "", 
+                "title": "UP-POINTING SMALL RED TRIANGLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Technical", 
+                "cat3": "Interface", 
+                "cat4": "", 
+                "charcode": "0x1f53d", 
+                "description": "", 
+                "title": "DOWN-POINTING SMALL RED TRIANGLE"
+            }, 
+            {
+                "charcode": "0x1f53e", 
+                "description": "", 
+                "title": "LOWER RIGHT SHADOWED WHITE CIRCLE"
+            }, 
+            {
+                "charcode": "0x1f53f", 
+                "description": "", 
+                "title": "UPPER RIGHT SHADOWED WHITE CIRCLE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Religious", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f540", 
+                "description": "", 
+                "title": "CIRCLED CROSS POMMEE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Religious", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f541", 
+                "description": "", 
+                "title": "CROSS POMMEE WITH HALF-CIRCLE BELOW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Religious", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f542", 
+                "description": "", 
+                "title": "CROSS POMMEE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Religious", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f543", 
+                "description": "", 
+                "title": "NOTCHED LEFT SEMICIRCLE WITH THREE DOTS"
+            }, 
+            {
+                "charcode": "0x1f544", 
+                "description": "", 
+                "title": "NOTCHED RIGHT SEMICIRCLE WITH THREE DOTS"
+            }, 
+            {
+                "charcode": "0x1f545", 
+                "description": "", 
+                "title": "SYMBOL FOR MARKS CHAPTER"
+            }, 
+            {
+                "charcode": "0x1f546", 
+                "description": "", 
+                "title": "WHITE LATIN CROSS"
+            }, 
+            {
+                "charcode": "0x1f547", 
+                "description": "", 
+                "title": "HEAVY LATIN CROSS"
+            }, 
+            {
+                "charcode": "0x1f548", 
+                "description": "", 
+                "title": "CELTIC CROSS"
+            }, 
+            {
+                "charcode": "0x1f549", 
+                "description": "", 
+                "title": "OM SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f54a", 
+                "description": "", 
+                "title": "DOVE OF PEACE"
+            }, 
+            {
+                "charcode": "0x1f54b", 
+                "description": "", 
+                "title": "KAABA"
+            }, 
+            {
+                "charcode": "0x1f54c", 
+                "description": "", 
+                "title": "MOSQUE"
+            }, 
+            {
+                "charcode": "0x1f54d", 
+                "description": "", 
+                "title": "SYNAGOGUE"
+            }, 
+            {
+                "charcode": "0x1f54e", 
+                "description": "", 
+                "title": "MENORAH WITH NINE BRANCHES"
+            }, 
+            {
+                "charcode": "0x1f54f", 
+                "description": "", 
+                "title": "BOWL OF HYGIEIA"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f550", 
+                "description": "", 
+                "title": "CLOCK FACE ONE OCLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f551", 
+                "description": "", 
+                "title": "CLOCK FACE TWO OCLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f552", 
+                "description": "", 
+                "title": "CLOCK FACE THREE OCLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f553", 
+                "description": "", 
+                "title": "CLOCK FACE FOUR OCLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f554", 
+                "description": "", 
+                "title": "CLOCK FACE FIVE OCLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f555", 
+                "description": "", 
+                "title": "CLOCK FACE SIX OCLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f556", 
+                "description": "", 
+                "title": "CLOCK FACE SEVEN OCLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f557", 
+                "description": "", 
+                "title": "CLOCK FACE EIGHT OCLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f558", 
+                "description": "", 
+                "title": "CLOCK FACE NINE OCLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f559", 
+                "description": "", 
+                "title": "CLOCK FACE TEN OCLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f55a", 
+                "description": "", 
+                "title": "CLOCK FACE ELEVEN OCLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f55b", 
+                "description": "", 
+                "title": "CLOCK FACE TWELVE OCLOCK"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f55c", 
+                "description": "", 
+                "title": "CLOCK FACE ONE-THIRTY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f55d", 
+                "description": "", 
+                "title": "CLOCK FACE TWO-THIRTY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f55e", 
+                "description": "", 
+                "title": "CLOCK FACE THREE-THIRTY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f55f", 
+                "description": "", 
+                "title": "CLOCK FACE FOUR-THIRTY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f560", 
+                "description": "", 
+                "title": "CLOCK FACE FIVE-THIRTY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f561", 
+                "description": "", 
+                "title": "CLOCK FACE SIX-THIRTY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f562", 
+                "description": "", 
+                "title": "CLOCK FACE SEVEN-THIRTY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f563", 
+                "description": "", 
+                "title": "CLOCK FACE EIGHT-THIRTY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f564", 
+                "description": "", 
+                "title": "CLOCK FACE NINE-THIRTY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f565", 
+                "description": "", 
+                "title": "CLOCK FACE TEN-THIRTY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f566", 
+                "description": "", 
+                "title": "CLOCK FACE ELEVEN-THIRTY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Clock face", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f567", 
+                "description": "", 
+                "title": "CLOCK FACE TWELVE-THIRTY"
+            }, 
+            {
+                "charcode": "0x1f568", 
+                "description": "", 
+                "title": "RIGHT SPEAKER"
+            }, 
+            {
+                "charcode": "0x1f569", 
+                "description": "", 
+                "title": "RIGHT SPEAKER WITH ONE SOUND WAVE"
+            }, 
+            {
+                "charcode": "0x1f56a", 
+                "description": "", 
+                "title": "RIGHT SPEAKER WITH THREE SOUND WAVES"
+            }, 
+            {
+                "charcode": "0x1f56b", 
+                "description": "", 
+                "title": "BULLHORN"
+            }, 
+            {
+                "charcode": "0x1f56c", 
+                "description": "", 
+                "title": "BULLHORN WITH SOUND WAVES"
+            }, 
+            {
+                "charcode": "0x1f56d", 
+                "description": "", 
+                "title": "RINGING BELL"
+            }, 
+            {
+                "charcode": "0x1f56e", 
+                "description": "", 
+                "title": "BOOK"
+            }, 
+            {
+                "charcode": "0x1f56f", 
+                "description": "", 
+                "title": "CANDLE"
+            }, 
+            {
+                "charcode": "0x1f570", 
+                "description": "", 
+                "title": "MANTELPIECE CLOCK"
+            }, 
+            {
+                "charcode": "0x1f571", 
+                "description": "", 
+                "title": "BLACK SKULL AND CROSSBONES"
+            }, 
+            {
+                "charcode": "0x1f572", 
+                "description": "", 
+                "title": "NO PIRACY"
+            }, 
+            {
+                "charcode": "0x1f573", 
+                "description": "", 
+                "title": "HOLE"
+            }, 
+            {
+                "charcode": "0x1f574", 
+                "description": "", 
+                "title": "MAN IN BUSINESS SUIT LEVITATING"
+            }, 
+            {
+                "charcode": "0x1f575", 
+                "description": "", 
+                "title": "SLEUTH OR SPY"
+            }, 
+            {
+                "charcode": "0x1f576", 
+                "description": "", 
+                "title": "DARK SUNGLASSES"
+            }, 
+            {
+                "charcode": "0x1f577", 
+                "description": "", 
+                "title": "SPIDER"
+            }, 
+            {
+                "charcode": "0x1f578", 
+                "description": "", 
+                "title": "SPIDER WEB"
+            }, 
+            {
+                "charcode": "0x1f579", 
+                "description": "", 
+                "title": "JOYSTICK"
+            }, 
+            {
+                "charcode": "0x1f57b", 
+                "description": "", 
+                "title": "LEFT HAND TELEPHONE RECEIVER"
+            }, 
+            {
+                "charcode": "0x1f57c", 
+                "description": "", 
+                "title": "TELEPHONE RECEIVER WITH PAGE"
+            }, 
+            {
+                "charcode": "0x1f57d", 
+                "description": "", 
+                "title": "RIGHT HAND TELEPHONE RECEIVER"
+            }, 
+            {
+                "charcode": "0x1f57e", 
+                "description": "", 
+                "title": "WHITE TOUCHTONE TELEPHONE"
+            }, 
+            {
+                "charcode": "0x1f57f", 
+                "description": "", 
+                "title": "BLACK TOUCHTONE TELEPHONE"
+            }, 
+            {
+                "charcode": "0x1f580", 
+                "description": "", 
+                "title": "TELEPHONE ON TOP OF MODEM"
+            }, 
+            {
+                "charcode": "0x1f581", 
+                "description": "", 
+                "title": "CLAMSHELL MOBILE PHONE"
+            }, 
+            {
+                "charcode": "0x1f582", 
+                "description": "", 
+                "title": "BACK OF ENVELOPE"
+            }, 
+            {
+                "charcode": "0x1f583", 
+                "description": "", 
+                "title": "STAMPED ENVELOPE"
+            }, 
+            {
+                "charcode": "0x1f584", 
+                "description": "", 
+                "title": "ENVELOPE WITH LIGHTNING"
+            }, 
+            {
+                "charcode": "0x1f585", 
+                "description": "", 
+                "title": "FLYING ENVELOPE"
+            }, 
+            {
+                "charcode": "0x1f586", 
+                "description": "", 
+                "title": "PEN OVER STAMPED ENVELOPE"
+            }, 
+            {
+                "charcode": "0x1f587", 
+                "description": "", 
+                "title": "LINKED PAPERCLIPS"
+            }, 
+            {
+                "charcode": "0x1f588", 
+                "description": "", 
+                "title": "BLACK PUSHPIN"
+            }, 
+            {
+                "charcode": "0x1f589", 
+                "description": "", 
+                "title": "LOWER LEFT PENCIL"
+            }, 
+            {
+                "charcode": "0x1f58a", 
+                "description": "", 
+                "title": "LOWER LEFT BALLPOINT PEN"
+            }, 
+            {
+                "charcode": "0x1f58b", 
+                "description": "", 
+                "title": "LOWER LEFT FOUNTAIN PEN"
+            }, 
+            {
+                "charcode": "0x1f58c", 
+                "description": "", 
+                "title": "LOWER LEFT PAINTBRUSH"
+            }, 
+            {
+                "charcode": "0x1f58d", 
+                "description": "", 
+                "title": "LOWER LEFT CRAYON"
+            }, 
+            {
+                "charcode": "0x1f58e", 
+                "description": "", 
+                "title": "LEFT WRITING HAND"
+            }, 
+            {
+                "charcode": "0x1f58f", 
+                "description": "", 
+                "title": "TURNED OK HAND SIGN"
+            }, 
+            {
+                "charcode": "0x1f590", 
+                "description": "", 
+                "title": "RAISED HAND WITH FINGERS SPLAYED"
+            }, 
+            {
+                "charcode": "0x1f591", 
+                "description": "", 
+                "title": "REVERSED RAISED HAND WITH FINGERS SPLAYED"
+            }, 
+            {
+                "charcode": "0x1f592", 
+                "description": "", 
+                "title": "REVERSED THUMBS UP SIGN"
+            }, 
+            {
+                "charcode": "0x1f593", 
+                "description": "", 
+                "title": "REVERSED THUMBS DOWN SIGN"
+            }, 
+            {
+                "charcode": "0x1f594", 
+                "description": "", 
+                "title": "REVERSED VICTORY HAND"
+            }, 
+            {
+                "charcode": "0x1f595", 
+                "description": "", 
+                "title": "REVERSED HAND WITH MIDDLE FINGER EXTENDED"
+            }, 
+            {
+                "charcode": "0x1f596", 
+                "description": "", 
+                "title": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS"
+            }, 
+            {
+                "charcode": "0x1f597", 
+                "description": "", 
+                "title": "WHITE DOWN POINTING LEFT HAND INDEX"
+            }, 
+            {
+                "charcode": "0x1f598", 
+                "description": "", 
+                "title": "SIDEWAYS WHITE LEFT POINTING INDEX"
+            }, 
+            {
+                "charcode": "0x1f599", 
+                "description": "", 
+                "title": "SIDEWAYS WHITE RIGHT POINTING INDEX"
+            }, 
+            {
+                "charcode": "0x1f59a", 
+                "description": "", 
+                "title": "SIDEWAYS BLACK LEFT POINTING INDEX"
+            }, 
+            {
+                "charcode": "0x1f59b", 
+                "description": "", 
+                "title": "SIDEWAYS BLACK RIGHT POINTING INDEX"
+            }, 
+            {
+                "charcode": "0x1f59c", 
+                "description": "", 
+                "title": "BLACK LEFT POINTING BACKHAND INDEX"
+            }, 
+            {
+                "charcode": "0x1f59d", 
+                "description": "", 
+                "title": "BLACK RIGHT POINTING BACKHAND INDEX"
+            }, 
+            {
+                "charcode": "0x1f59e", 
+                "description": "", 
+                "title": "SIDEWAYS WHITE UP POINTING INDEX"
+            }, 
+            {
+                "charcode": "0x1f59f", 
+                "description": "", 
+                "title": "SIDEWAYS WHITE DOWN POINTING INDEX"
+            }, 
+            {
+                "charcode": "0x1f5a0", 
+                "description": "", 
+                "title": "SIDEWAYS BLACK UP POINTING INDEX"
+            }, 
+            {
+                "charcode": "0x1f5a1", 
+                "description": "", 
+                "title": "SIDEWAYS BLACK DOWN POINTING INDEX"
+            }, 
+            {
+                "charcode": "0x1f5a2", 
+                "description": "", 
+                "title": "BLACK UP POINTING BACKHAND INDEX"
+            }, 
+            {
+                "charcode": "0x1f5a3", 
+                "description": "", 
+                "title": "BLACK DOWN POINTING BACKHAND INDEX"
+            }, 
+            {
+                "charcode": "0x1f5a5", 
+                "description": "", 
+                "title": "DESKTOP COMPUTER"
+            }, 
+            {
+                "charcode": "0x1f5a6", 
+                "description": "", 
+                "title": "KEYBOARD AND MOUSE"
+            }, 
+            {
+                "charcode": "0x1f5a7", 
+                "description": "", 
+                "title": "THREE NETWORKED COMPUTERS"
+            }, 
+            {
+                "charcode": "0x1f5a8", 
+                "description": "", 
+                "title": "PRINTER"
+            }, 
+            {
+                "charcode": "0x1f5a9", 
+                "description": "", 
+                "title": "POCKET CALCULATOR"
+            }, 
+            {
+                "charcode": "0x1f5aa", 
+                "description": "", 
+                "title": "BLACK HARD SHELL FLOPPY DISK"
+            }, 
+            {
+                "charcode": "0x1f5ab", 
+                "description": "", 
+                "title": "WHITE HARD SHELL FLOPPY DISK"
+            }, 
+            {
+                "charcode": "0x1f5ac", 
+                "description": "", 
+                "title": "SOFT SHELL FLOPPY DISK"
+            }, 
+            {
+                "charcode": "0x1f5ad", 
+                "description": "", 
+                "title": "TAPE CARTRIDGE"
+            }, 
+            {
+                "charcode": "0x1f5ae", 
+                "description": "", 
+                "title": "WIRED KEYBOARD"
+            }, 
+            {
+                "charcode": "0x1f5af", 
+                "description": "", 
+                "title": "ONE BUTTON MOUSE"
+            }, 
+            {
+                "charcode": "0x1f5b0", 
+                "description": "", 
+                "title": "TWO BUTTON MOUSE"
+            }, 
+            {
+                "charcode": "0x1f5b1", 
+                "description": "", 
+                "title": "THREE BUTTON MOUSE"
+            }, 
+            {
+                "charcode": "0x1f5b2", 
+                "description": "", 
+                "title": "TRACKBALL"
+            }, 
+            {
+                "charcode": "0x1f5b3", 
+                "description": "", 
+                "title": "OLD PERSONAL COMPUTER"
+            }, 
+            {
+                "charcode": "0x1f5b4", 
+                "description": "", 
+                "title": "HARD DISK"
+            }, 
+            {
+                "charcode": "0x1f5b5", 
+                "description": "", 
+                "title": "SCREEN"
+            }, 
+            {
+                "charcode": "0x1f5b6", 
+                "description": "", 
+                "title": "PRINTER ICON"
+            }, 
+            {
+                "charcode": "0x1f5b7", 
+                "description": "", 
+                "title": "FAX ICON"
+            }, 
+            {
+                "charcode": "0x1f5b8", 
+                "description": "", 
+                "title": "OPTICAL DISC ICON"
+            }, 
+            {
+                "charcode": "0x1f5b9", 
+                "description": "", 
+                "title": "DOCUMENT WITH TEXT"
+            }, 
+            {
+                "charcode": "0x1f5ba", 
+                "description": "", 
+                "title": "DOCUMENT WITH TEXT AND PICTURE"
+            }, 
+            {
+                "charcode": "0x1f5bb", 
+                "description": "", 
+                "title": "DOCUMENT WITH PICTURE"
+            }, 
+            {
+                "charcode": "0x1f5bc", 
+                "description": "", 
+                "title": "FRAME WITH PICTURE"
+            }, 
+            {
+                "charcode": "0x1f5bd", 
+                "description": "", 
+                "title": "FRAME WITH TILES"
+            }, 
+            {
+                "charcode": "0x1f5be", 
+                "description": "", 
+                "title": "FRAME WITH AN X"
+            }, 
+            {
+                "charcode": "0x1f5bf", 
+                "description": "", 
+                "title": "BLACK FOLDER"
+            }, 
+            {
+                "charcode": "0x1f5c0", 
+                "description": "", 
+                "title": "FOLDER"
+            }, 
+            {
+                "charcode": "0x1f5c1", 
+                "description": "", 
+                "title": "OPEN FOLDER"
+            }, 
+            {
+                "charcode": "0x1f5c2", 
+                "description": "", 
+                "title": "CARD INDEX DIVIDERS"
+            }, 
+            {
+                "charcode": "0x1f5c3", 
+                "description": "", 
+                "title": "CARD FILE BOX"
+            }, 
+            {
+                "charcode": "0x1f5c4", 
+                "description": "", 
+                "title": "FILE CABINET"
+            }, 
+            {
+                "charcode": "0x1f5c5", 
+                "description": "", 
+                "title": "EMPTY NOTE"
+            }, 
+            {
+                "charcode": "0x1f5c6", 
+                "description": "", 
+                "title": "EMPTY NOTE PAGE"
+            }, 
+            {
+                "charcode": "0x1f5c7", 
+                "description": "", 
+                "title": "EMPTY NOTE PAD"
+            }, 
+            {
+                "charcode": "0x1f5c8", 
+                "description": "", 
+                "title": "NOTE"
+            }, 
+            {
+                "charcode": "0x1f5c9", 
+                "description": "", 
+                "title": "NOTE PAGE"
+            }, 
+            {
+                "charcode": "0x1f5ca", 
+                "description": "", 
+                "title": "NOTE PAD"
+            }, 
+            {
+                "charcode": "0x1f5cb", 
+                "description": "", 
+                "title": "EMPTY DOCUMENT"
+            }, 
+            {
+                "charcode": "0x1f5cc", 
+                "description": "", 
+                "title": "EMPTY PAGE"
+            }, 
+            {
+                "charcode": "0x1f5cd", 
+                "description": "", 
+                "title": "EMPTY PAGES"
+            }, 
+            {
+                "charcode": "0x1f5ce", 
+                "description": "", 
+                "title": "DOCUMENT"
+            }, 
+            {
+                "charcode": "0x1f5cf", 
+                "description": "", 
+                "title": "PAGE"
+            }, 
+            {
+                "charcode": "0x1f5d0", 
+                "description": "", 
+                "title": "PAGES"
+            }, 
+            {
+                "charcode": "0x1f5d1", 
+                "description": "", 
+                "title": "WASTEBASKET"
+            }, 
+            {
+                "charcode": "0x1f5d2", 
+                "description": "", 
+                "title": "SPIRAL NOTE PAD"
+            }, 
+            {
+                "charcode": "0x1f5d3", 
+                "description": "", 
+                "title": "SPIRAL CALENDAR PAD"
+            }, 
+            {
+                "charcode": "0x1f5d4", 
+                "description": "", 
+                "title": "DESKTOP WINDOW"
+            }, 
+            {
+                "charcode": "0x1f5d5", 
+                "description": "", 
+                "title": "MINIMIZE"
+            }, 
+            {
+                "charcode": "0x1f5d6", 
+                "description": "", 
+                "title": "MAXIMIZE"
+            }, 
+            {
+                "charcode": "0x1f5d7", 
+                "description": "", 
+                "title": "OVERLAP"
+            }, 
+            {
+                "charcode": "0x1f5d8", 
+                "description": "", 
+                "title": "CLOCKWISE RIGHT AND LEFT SEMICIRCLE ARROWS"
+            }, 
+            {
+                "charcode": "0x1f5d9", 
+                "description": "", 
+                "title": "CANCELLATION X"
+            }, 
+            {
+                "charcode": "0x1f5da", 
+                "description": "", 
+                "title": "INCREASE FONT SIZE SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f5db", 
+                "description": "", 
+                "title": "DECREASE FONT SIZE SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f5dc", 
+                "description": "", 
+                "title": "COMPRESSION"
+            }, 
+            {
+                "charcode": "0x1f5dd", 
+                "description": "", 
+                "title": "OLD KEY"
+            }, 
+            {
+                "charcode": "0x1f5de", 
+                "description": "", 
+                "title": "ROLLED-UP NEWSPAPER"
+            }, 
+            {
+                "charcode": "0x1f5df", 
+                "description": "", 
+                "title": "PAGE WITH CIRCLED TEXT"
+            }, 
+            {
+                "charcode": "0x1f5e0", 
+                "description": "", 
+                "title": "STOCK CHART"
+            }, 
+            {
+                "charcode": "0x1f5e1", 
+                "description": "", 
+                "title": "DAGGER KNIFE"
+            }, 
+            {
+                "charcode": "0x1f5e2", 
+                "description": "", 
+                "title": "LIPS"
+            }, 
+            {
+                "charcode": "0x1f5e3", 
+                "description": "", 
+                "title": "SPEAKING HEAD IN SILHOUETTE"
+            }, 
+            {
+                "charcode": "0x1f5e4", 
+                "description": "", 
+                "title": "THREE RAYS ABOVE"
+            }, 
+            {
+                "charcode": "0x1f5e5", 
+                "description": "", 
+                "title": "THREE RAYS BELOW"
+            }, 
+            {
+                "charcode": "0x1f5e6", 
+                "description": "", 
+                "title": "THREE RAYS LEFT"
+            }, 
+            {
+                "charcode": "0x1f5e7", 
+                "description": "", 
+                "title": "THREE RAYS RIGHT"
+            }, 
+            {
+                "charcode": "0x1f5e8", 
+                "description": "", 
+                "title": "LEFT SPEECH BUBBLE"
+            }, 
+            {
+                "charcode": "0x1f5e9", 
+                "description": "", 
+                "title": "RIGHT SPEECH BUBBLE"
+            }, 
+            {
+                "charcode": "0x1f5ea", 
+                "description": "", 
+                "title": "TWO SPEECH BUBBLES"
+            }, 
+            {
+                "charcode": "0x1f5eb", 
+                "description": "", 
+                "title": "THREE SPEECH BUBBLES"
+            }, 
+            {
+                "charcode": "0x1f5ec", 
+                "description": "", 
+                "title": "LEFT THOUGHT BUBBLE"
+            }, 
+            {
+                "charcode": "0x1f5ed", 
+                "description": "", 
+                "title": "RIGHT THOUGHT BUBBLE"
+            }, 
+            {
+                "charcode": "0x1f5ee", 
+                "description": "", 
+                "title": "LEFT ANGER BUBBLE"
+            }, 
+            {
+                "charcode": "0x1f5ef", 
+                "description": "", 
+                "title": "RIGHT ANGER BUBBLE"
+            }, 
+            {
+                "charcode": "0x1f5f0", 
+                "description": "", 
+                "title": "MOOD BUBBLE"
+            }, 
+            {
+                "charcode": "0x1f5f1", 
+                "description": "", 
+                "title": "LIGHTNING MOOD BUBBLE"
+            }, 
+            {
+                "charcode": "0x1f5f2", 
+                "description": "", 
+                "title": "LIGHTNING MOOD"
+            }, 
+            {
+                "charcode": "0x1f5f3", 
+                "description": "", 
+                "title": "BALLOT BOX WITH BALLOT"
+            }, 
+            {
+                "charcode": "0x1f5f4", 
+                "description": "", 
+                "title": "BALLOT SCRIPT X"
+            }, 
+            {
+                "charcode": "0x1f5f5", 
+                "description": "", 
+                "title": "BALLOT BOX WITH SCRIPT X"
+            }, 
+            {
+                "charcode": "0x1f5f6", 
+                "description": "", 
+                "title": "BALLOT BOLD SCRIPT X"
+            }, 
+            {
+                "charcode": "0x1f5f7", 
+                "description": "", 
+                "title": "BALLOT BOX WITH BOLD SCRIPT X"
+            }, 
+            {
+                "charcode": "0x1f5f8", 
+                "description": "", 
+                "title": "LIGHT CHECK MARK"
+            }, 
+            {
+                "charcode": "0x1f5f9", 
+                "description": "", 
+                "title": "BALLOT BOX WITH BOLD CHECK"
+            }, 
+            {
+                "charcode": "0x1f5fa", 
+                "description": "", 
+                "title": "WORLD MAP"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Cultural", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f5fb", 
+                "description": "", 
+                "title": "MOUNT FUJI"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Cultural", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f5fc", 
+                "description": "", 
+                "title": "TOKYO TOWER"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Cultural", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f5fd", 
+                "description": "", 
+                "title": "STATUE OF LIBERTY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Cultural", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1f5fe", 
+                "description": "", 
+                "title": "SILHOUETTE OF JAPAN"
+            }
+        ], 
+        "name": "Miscellaneous Symbols and Pictographs"
+    }
+]

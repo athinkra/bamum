@@ -1,0 +1,268 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a00", 
+                "description": "", 
+                "title": "BUGINESE LETTER KA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a01", 
+                "description": "", 
+                "title": "BUGINESE LETTER GA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a02", 
+                "description": "", 
+                "title": "BUGINESE LETTER NGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a03", 
+                "description": "", 
+                "title": "BUGINESE LETTER NGKA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a04", 
+                "description": "", 
+                "title": "BUGINESE LETTER PA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a05", 
+                "description": "", 
+                "title": "BUGINESE LETTER BA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a06", 
+                "description": "", 
+                "title": "BUGINESE LETTER MA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a07", 
+                "description": "", 
+                "title": "BUGINESE LETTER MPA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a08", 
+                "description": "", 
+                "title": "BUGINESE LETTER TA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a09", 
+                "description": "", 
+                "title": "BUGINESE LETTER DA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a0a", 
+                "description": "", 
+                "title": "BUGINESE LETTER NA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a0b", 
+                "description": "", 
+                "title": "BUGINESE LETTER NRA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a0c", 
+                "description": "", 
+                "title": "BUGINESE LETTER CA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a0d", 
+                "description": "", 
+                "title": "BUGINESE LETTER JA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a0e", 
+                "description": "", 
+                "title": "BUGINESE LETTER NYA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a0f", 
+                "description": "", 
+                "title": "BUGINESE LETTER NYCA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a10", 
+                "description": "", 
+                "title": "BUGINESE LETTER YA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a11", 
+                "description": "", 
+                "title": "BUGINESE LETTER RA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a12", 
+                "description": "", 
+                "title": "BUGINESE LETTER LA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a13", 
+                "description": "", 
+                "title": "BUGINESE LETTER VA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a14", 
+                "description": "", 
+                "title": "BUGINESE LETTER SA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a15", 
+                "description": "", 
+                "title": "BUGINESE LETTER A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a16", 
+                "description": "", 
+                "title": "BUGINESE LETTER HA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a17", 
+                "description": "", 
+                "title": "BUGINESE VOWEL SIGN I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a18", 
+                "description": "", 
+                "title": "BUGINESE VOWEL SIGN U"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a19", 
+                "description": "", 
+                "title": "BUGINESE VOWEL SIGN E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a1a", 
+                "description": "", 
+                "title": "BUGINESE VOWEL SIGN O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a1b", 
+                "description": "", 
+                "title": "BUGINESE VOWEL SIGN AE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1a1e", 
+                "description": "", 
+                "title": "BUGINESE PALLAWA"
+            }
+        ], 
+        "name": "Buginese"
+    }
+]

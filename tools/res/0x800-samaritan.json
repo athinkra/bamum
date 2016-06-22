@@ -1,0 +1,556 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x800", 
+                "description": "", 
+                "title": "SAMARITAN LETTER ALAF"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x801", 
+                "description": "", 
+                "title": "SAMARITAN LETTER BIT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x802", 
+                "description": "", 
+                "title": "SAMARITAN LETTER GAMAN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x803", 
+                "description": "", 
+                "title": "SAMARITAN LETTER DALAT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x804", 
+                "description": "", 
+                "title": "SAMARITAN LETTER IY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x805", 
+                "description": "", 
+                "title": "SAMARITAN LETTER BAA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x806", 
+                "description": "", 
+                "title": "SAMARITAN LETTER ZEN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x807", 
+                "description": "", 
+                "title": "SAMARITAN LETTER IT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x808", 
+                "description": "", 
+                "title": "SAMARITAN LETTER TIT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x809", 
+                "description": "", 
+                "title": "SAMARITAN LETTER YUT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x80a", 
+                "description": "", 
+                "title": "SAMARITAN LETTER KAAF"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x80b", 
+                "description": "", 
+                "title": "SAMARITAN LETTER LABAT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x80c", 
+                "description": "", 
+                "title": "SAMARITAN LETTER MIM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x80d", 
+                "description": "", 
+                "title": "SAMARITAN LETTER NUN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x80e", 
+                "description": "", 
+                "title": "SAMARITAN LETTER SINGAAT"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x80f", 
+                "description": "", 
+                "title": "SAMARITAN LETTER IN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x810", 
+                "description": "", 
+                "title": "SAMARITAN LETTER FI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x811", 
+                "description": "", 
+                "title": "SAMARITAN LETTER TSAADIY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x812", 
+                "description": "", 
+                "title": "SAMARITAN LETTER QUF"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x813", 
+                "description": "", 
+                "title": "SAMARITAN LETTER RISH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x814", 
+                "description": "", 
+                "title": "SAMARITAN LETTER SHAN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x815", 
+                "description": "", 
+                "title": "SAMARITAN LETTER TAAF"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x816", 
+                "description": "", 
+                "title": "SAMARITAN MARK IN"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x817", 
+                "description": "", 
+                "title": "SAMARITAN MARK IN-ALAF"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x818", 
+                "description": "", 
+                "title": "SAMARITAN MARK OCCLUSION"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x819", 
+                "description": "", 
+                "title": "SAMARITAN MARK DAGESH"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x81a", 
+                "description": "", 
+                "title": "SAMARITAN MODIFIER LETTER EPENTHETIC YUT"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x81b", 
+                "description": "", 
+                "title": "SAMARITAN MARK EPENTHETIC YUT"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x81c", 
+                "description": "", 
+                "title": "SAMARITAN VOWEL SIGN LONG E"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x81d", 
+                "description": "", 
+                "title": "SAMARITAN VOWEL SIGN E"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x81e", 
+                "description": "", 
+                "title": "SAMARITAN VOWEL SIGN OVERLONG AA"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x81f", 
+                "description": "", 
+                "title": "SAMARITAN VOWEL SIGN LONG AA"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x820", 
+                "description": "", 
+                "title": "SAMARITAN VOWEL SIGN AA"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x821", 
+                "description": "", 
+                "title": "SAMARITAN VOWEL SIGN OVERLONG A"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x822", 
+                "description": "", 
+                "title": "SAMARITAN VOWEL SIGN LONG A"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x823", 
+                "description": "", 
+                "title": "SAMARITAN VOWEL SIGN A"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x824", 
+                "description": "", 
+                "title": "SAMARITAN MODIFIER LETTER SHORT A"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x825", 
+                "description": "", 
+                "title": "SAMARITAN VOWEL SIGN SHORT A"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x826", 
+                "description": "", 
+                "title": "SAMARITAN VOWEL SIGN LONG U"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x827", 
+                "description": "", 
+                "title": "SAMARITAN VOWEL SIGN U"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x828", 
+                "description": "", 
+                "title": "SAMARITAN MODIFIER LETTER I"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x829", 
+                "description": "", 
+                "title": "SAMARITAN VOWEL SIGN LONG I"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x82a", 
+                "description": "", 
+                "title": "SAMARITAN VOWEL SIGN I"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x82b", 
+                "description": "", 
+                "title": "SAMARITAN VOWEL SIGN O"
+            }, 
+            {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x82c", 
+                "description": "", 
+                "title": "SAMARITAN VOWEL SIGN SUKUN"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x82d", 
+                "description": "", 
+                "title": "SAMARITAN MARK NEQUDAA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x830", 
+                "description": "", 
+                "title": "SAMARITAN PUNCTUATION NEQUDAA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x831", 
+                "description": "", 
+                "title": "SAMARITAN PUNCTUATION AFSAAQ"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x832", 
+                "description": "", 
+                "title": "SAMARITAN PUNCTUATION ANGED"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x833", 
+                "description": "", 
+                "title": "SAMARITAN PUNCTUATION BAU"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x834", 
+                "description": "", 
+                "title": "SAMARITAN PUNCTUATION ATMAAU"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x835", 
+                "description": "", 
+                "title": "SAMARITAN PUNCTUATION SHIYYAALAA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x836", 
+                "description": "", 
+                "title": "SAMARITAN ABBREVIATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x837", 
+                "description": "", 
+                "title": "SAMARITAN PUNCTUATION MELODIC QITSA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x838", 
+                "description": "", 
+                "title": "SAMARITAN PUNCTUATION ZIQAA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x839", 
+                "description": "", 
+                "title": "SAMARITAN PUNCTUATION QITSA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x83a", 
+                "description": "", 
+                "title": "SAMARITAN PUNCTUATION ZAEF"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x83b", 
+                "description": "", 
+                "title": "SAMARITAN PUNCTUATION TURU"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x83c", 
+                "description": "", 
+                "title": "SAMARITAN PUNCTUATION ARKAANU"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x83d", 
+                "description": "", 
+                "title": "SAMARITAN PUNCTUATION SOF MASHFAAT"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x83e", 
+                "description": "", 
+                "title": "SAMARITAN PUNCTUATION ANNAAU"
+            }
+        ], 
+        "name": "Samaritan"
+    }
+]

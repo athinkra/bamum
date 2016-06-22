@@ -1,0 +1,718 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10400", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER LONG I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10401", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER LONG E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10402", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER LONG A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10403", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER LONG AH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10404", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER LONG O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10405", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER LONG OO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10406", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER SHORT I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10407", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER SHORT E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10408", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER SHORT A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10409", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER SHORT AH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1040a", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER SHORT O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1040b", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER SHORT OO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1040c", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER AY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1040d", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER OW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1040e", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER WU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1040f", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER YEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10410", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER H"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10411", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER PEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10412", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER BEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10413", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER TEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10414", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER DEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10415", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER CHEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10416", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER JEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10417", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER KAY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10418", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER GAY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10419", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER EF"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1041a", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER VEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1041b", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER ETH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1041c", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER THEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1041d", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER ES"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1041e", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER ZEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1041f", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER ESH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10420", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER ZHEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10421", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER ER"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10422", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER EL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10423", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER EM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10424", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER EN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10425", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER ENG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10426", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER OI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10427", 
+                "description": "", 
+                "title": "DESERET CAPITAL LETTER EW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10428", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER LONG I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10429", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER LONG E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1042a", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER LONG A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1042b", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER LONG AH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1042c", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER LONG O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1042d", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER LONG OO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1042e", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER SHORT I"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1042f", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER SHORT E"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10430", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER SHORT A"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10431", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER SHORT AH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10432", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER SHORT O"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10433", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER SHORT OO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10434", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER AY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10435", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER OW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10436", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER WU"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10437", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER YEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10438", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER H"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10439", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER PEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1043a", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER BEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1043b", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER TEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1043c", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER DEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1043d", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER CHEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1043e", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER JEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1043f", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER KAY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10440", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER GAY"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10441", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER EF"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10442", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER VEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10443", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER ETH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10444", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER THEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10445", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER ES"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10446", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER ZEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10447", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER ESH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10448", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER ZHEE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10449", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER ER"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1044a", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER EL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1044b", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER EM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1044c", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER EN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1044d", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER ENG"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1044e", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER OI"
+            }
+        ], 
+        "name": "Deseret"
+    }
+]

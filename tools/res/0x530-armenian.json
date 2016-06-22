@@ -1,0 +1,791 @@
+[
+    {
+        "content": [
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x531", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER AYB"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x532", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER BEN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x533", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER GIM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x534", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER DA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x535", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER ECH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x536", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER ZA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x537", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER EH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x538", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER ET"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x539", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER TO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x53a", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER ZHE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x53b", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER INI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x53c", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER LIWN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x53d", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER XEH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x53e", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER CA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x53f", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER KEN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x540", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER HO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x541", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER JA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x542", 
+                "description": "ARMENIAN CAPITAL LETTER LAD", 
+                "title": "ARMENIAN CAPITAL LETTER GHAD"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x543", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER CHEH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x544", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER MEN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x545", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER YI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x546", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER NOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x547", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER SHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x548", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER VO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x549", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER CHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x54a", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER PEH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x54b", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER JHEH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x54c", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER RA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x54d", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER SEH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x54e", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER VEW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x54f", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER TIWN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x550", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER REH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x551", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER CO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x552", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER YIWN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x553", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER PIWR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x554", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER KEH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x555", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER OH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x556", 
+                "description": "", 
+                "title": "ARMENIAN CAPITAL LETTER FEH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x559", 
+                "description": "", 
+                "title": "ARMENIAN MODIFIER LETTER LEFT HALF RING"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x55a", 
+                "description": "ARMENIAN MODIFIER LETTER RIGHT HALF RING", 
+                "title": "ARMENIAN APOSTROPHE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x55b", 
+                "description": "", 
+                "title": "ARMENIAN EMPHASIS MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x55c", 
+                "description": "", 
+                "title": "ARMENIAN EXCLAMATION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x55d", 
+                "description": "", 
+                "title": "ARMENIAN COMMA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x55e", 
+                "description": "", 
+                "title": "ARMENIAN QUESTION MARK"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x55f", 
+                "description": "", 
+                "title": "ARMENIAN ABBREVIATION MARK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x561", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER AYB"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x562", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER BEN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x563", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER GIM"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x564", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER DA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x565", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER ECH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x566", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER ZA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x567", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER EH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x568", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER ET"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x569", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER TO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x56a", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER ZHE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x56b", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER INI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x56c", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER LIWN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x56d", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER XEH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x56e", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER CA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x56f", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER KEN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x570", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER HO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x571", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER JA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x572", 
+                "description": "ARMENIAN SMALL LETTER LAD", 
+                "title": "ARMENIAN SMALL LETTER GHAD"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x573", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER CHEH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x574", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER MEN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x575", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER YI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x576", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER NOW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x577", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER SHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x578", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER VO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x579", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER CHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x57a", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER PEH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x57b", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER JHEH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x57c", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER RA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x57d", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER SEH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x57e", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER VEW"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x57f", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER TIWN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x580", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER REH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x581", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER CO"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x582", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER YIWN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x583", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER PIWR"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x584", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER KEH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x585", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER OH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x586", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LETTER FEH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x587", 
+                "description": "", 
+                "title": "ARMENIAN SMALL LIGATURE ECH YIWN"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x589", 
+                "description": "ARMENIAN PERIOD", 
+                "title": "ARMENIAN FULL STOP"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x58a", 
+                "description": "", 
+                "title": "ARMENIAN HYPHEN"
+            }, 
+            {
+                "charcode": "0x58d", 
+                "description": "", 
+                "title": "RIGHT-FACING ARMENIAN ETERNITY SIGN"
+            }, 
+            {
+                "charcode": "0x58e", 
+                "description": "", 
+                "title": "LEFT-FACING ARMENIAN ETERNITY SIGN"
+            }
+        ], 
+        "name": "Armenian"
+    }
+]

@@ -4,25 +4,24 @@ FullName: JG Bamum Akauku Sans Unicode W7
 FamilyName: JG Bamum Akauku Sans Unicode W7
 Weight: Book
 Copyright: Copyright (c) 2016 by Athinkra (designed by Jason Glavy, 2016). All rights reserved.
-FontLog: "FONTLOG for JG Bamum Akauka Sans Unicode+AAoAPQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0ACgAK-This file provides detailed information on the JG Bamum Akauka Sans Unicode font. This information should be distributed along with the JG Bamum Akauka Sans Unicode fonts and any derivative works.+AAoACgAA-Basic Font Information+AAoA-----------------------+AAoACgAA-Glyphs and original Graphite rules developed by Jay Glavy for Athinkra. Opentype rules, AAT rules and modified Graphite rules by Enabling Languages for Athinkra.+AAoACgAA-JG Bamum Akauka Sans Unicode is a bodt text font for the Bamum script. It is designed to support modern Bamum, and does not provide glyphs for the Bamum Supplement block.+AAoACgAK-ChangeLog+AAoA----------+AAoACgAA-2006 xxxx xx  (Jason Glavy)+AAoA    * Initial version of font.+AAoACgAA-2016 May 16  (Enabling Languages)  Version 0.7.0+AAoA    * Font name changed from JG Bamum Akauka Arial Unicode to JG Bamum Akauka Sans Unicode+AAoA    * Updated glyph names+AAoA    * Changed Graphite rules to use mark positioning instead of ligatures+AAoA    * Added Opentype support, including mark feature+AAoA    * Added AAT support+AAoACgAK-Acknowledgements+AAoA-----------------+AAoA(Here is where contributors can be acknowledged. If you make modifications+AAoA-be sure to add your name (N), email (E), web-address (W) and description+AAoA(D). This list is sorted by last name in alphabetical order.)+AAoACgAA-N: Jay Glavy+AAoA-E: jglavy@gmail.com +AAoA-W: http://glavyfonts.com/+AAoA-D: Original designer of glyphs and initial Graphite rules+AAoACgAA-N. Andj Cunningham (Enabling Languages)+AAoA-E: lang.support@gmail.com+AAoA-W: http://enabling-languages.github.io/+AAoA-D: Updated Graphite rules and added initial Opentype and AAT support+AAoACgAA-For more information please visit the Athinkra website (www.athinkra.com) or the project page on Github: http://athinkra.github.io/bamum/+AAoACgAA-Bugs and issues with font can be filed at https://github.com/athinkra/bamum/issues"
+FontLog: "FONTLOG for JG Bamum Akauka Sans Unicode+AAoAPQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0ACgAK-This file provides detailed information on the JG Bamum Akauka Sans Unicode font. This information should be distributed along with the JG Bamum Akauka Sans Unicode fonts and any derivative works.+AAoACgAA-Basic Font Information+AAoA-----------------------+AAoACgAA-Glyphs and original Graphite rules developed by Jay Glavy for Athinkra. Opentype rules, AAT rules and modified Graphite rules by Enabling Languages for Athinkra.+AAoACgAA-JG Bamum Akauka Sans Unicode is a bodt text font for the Bamum script. It is designed to support modern Bamum, and does not provide glyphs for the Bamum Supplement block.+AAoACgAK-ChangeLog+AAoA----------+AAoACgAA-2006 xxxx xx  (Jason Glavy)+AAoA    * Initial version of font.+AAoACgAA-2016 May 16  (Enabling Languages)  Version 0.7.0+AAoA    * Font name changed from JG Bamum Akauka Arial Unicode to JG Bamum Akauka Sans Unicode+AAoA    * Updated glyph names+AAoA    * Changed Graphite rules to use mark positioning instead of ligatures+AAoA    * Added Opentype support, including mark feature+AAoA    * Added AAT support+AAoACgAK-Acknowledgements+AAoA-----------------+AAoA(Here is where contributors can be acknowledged. If you make modifications+AAoA-be sure to add your name (N), email (E), web-address (W) and description+AAoA(D). This list is sorted by last name in alphabetical order.)+AAoACgAA-N: Jay Glavy+AAoA-E: jglavy@gmail.com +AAoA-W: http://glavyfonts.com/+AAoA-D: Original designer of glyphs and initial Graphite rules+AAoACgAA-N. Andj Cunningham (Enabling Languages)+AAoA-E: lang.support@gmail.com+AAoA-W: http://enabling-languages.github.io/+AAoA-D: Updated Graphite rules and added initial Opentype and AAT support+AAoACgAA-For more information please visit the Athinkra website (www.athinkra.com) or the project page on Github: http://athinkra.github.io/bamum/+AAoACgAA-Bugs and issues with font can be filed at https://github.com/athinkra/bamum/issues" 
 Version: 0.8
 ItalicAngle: 0
 UnderlinePosition: -143
 UnderlineWidth: 20
 Ascent: 800
 Descent: 200
-InvalidEm: 0
 sfntRevision: 0x00010000
 LayerCount: 2
-Layer: 0 1 "Back" 1
-Layer: 1 1 "Fore" 0
+Layer: 0 1 "Back"  1
+Layer: 1 1 "Fore"  0
 XUID: [1021 984 -1507811681 11697890]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1153386209
-ModificationTime: 1466389151
+ModificationTime: 1466667564
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -52,15 +51,11 @@ OS2SupXOff: 0
 OS2SupYOff: 453
 OS2StrikeYSize: 50
 OS2StrikeYPos: 259
-OS2CapHeight: 716
-OS2XHeight: 519
 OS2FamilyClass: 2048
 OS2Vendor: 'athk'
 OS2CodePages: 00000000.00000000
 OS2UnicodeRanges: 00000003.00000000.00000000.00000000
-Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0" { "'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning in 'DFLT' lookup 1" { "'mark' Mark Positioning in 'DFLT' lookup 1-1"  } ['mark' ('DFLT' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning in 'DFLT' lookup 0" { "'mark' Mark Positioning in 'DFLT' lookup 0-1"  } ['mark' ('DFLT' <'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -739,11 +734,11 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "Regular" "" "" "0.8" "" "JG Bamum Akauku Sans Unicode is a trademark of Athinkra (designed by Jason Glavy, 2016)." "Athinkra (designed by Jason Glavy, 2016)" "Jason Glavy" "" "" "" "Copyright (c) 2016 by Athinkra (designed by Jason Glavy, 2016),+AAoA-with Reserved Font Name JG Bamum Akauku Sans Unicode.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "" "" "JG Bamum Akauku Sans Unicode"
+LangName: 1033 "" "" "Regular" "" "" "0.8" "" "JG Bamum Akauku Sans Unicode is a trademark of Athinkra (designed by Jason Glavy, 2016)." "Athinkra (designed by Jason Glavy, 2016)" "Jason Glavy" "" "" "" "Copyright (c) 2016 by Athinkra (designed by Jason Glavy, 2016),+AAoA-with Reserved Font Name JG Bamum Akauku Sans Unicode.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "" "" "JG Bamum Akauku Sans Unicode" 
 GaspTable: 3 8 2 16 1 65535 3 0
 Encoding: Custom
 UnicodeInterp: none
-NameList: AGL For New Fonts
+NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
@@ -751,7 +746,6 @@ WinInfo: 0 29 11
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 419430 209715 139810 544211 1048576 139810 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "tukwentis" "'mark' Mark Positioning in 'DFLT' lookup 1-1" "koqndon" "'mark' Mark Positioning in 'DFLT' lookup 0-1" 
 BeginChars: 278 278
 
 StartChar: .notdef
@@ -10619,8 +10613,6 @@ Encoding: 0 32 84
 Width: 400
 Flags: W
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: t
@@ -10896,8 +10888,8 @@ SplineSet
  30 2 30 2 30 4 c 128,-1,3
  30 6 30 6 30 8 c 128,-1,4
  30 10 30 10 30 12 c 0,5,6
- 29.9444444444 13.6944444444 29.9444444444 13.6944444444 29.9444444444 15.4058641975 c 0,7,8
- 29.9444444444 75.3055555556 29.9444444444 75.3055555556 98 156 c 0,9,10
+ 29.9444 13.6944 29.9444 13.6944 29.9444 15.4059 c 0,7,8
+ 29.9444 75.3056 29.9444 75.3056 98 156 c 0,9,10
  136 201 136 201 213 265 c 0,11,12
  302 337 302 337 338 377 c 0,13,14
  412 457 412 457 412 522 c 0,15,16
@@ -11185,7 +11177,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 380 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11226,7 +11217,6 @@ StartChar: uniA6A1
 Encoding: 97 42657 91
 Width: 709
 Flags: W
-AnchorPoint: "koqndon" 400 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11261,7 +11251,7 @@ SplineSet
  615 726 l 2,48,49
  634 752 634 752 658 752 c 0,50,51
  679 752 679 752 695 738 c 0,52,53
- 710.819306569 723.169400092 710.819306569 723.169400092 710.058823529 704.448096886 c 0,54,55
+ 710.819 723.169 710.819 723.169 710.059 704.448 c 0,54,55
  710 703 710 703 710 702 c 0,0,1
 EndSplineSet
 Validated: 33
@@ -11452,7 +11442,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 348 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11669,7 +11658,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 410 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11878,7 +11866,6 @@ MDRP[rp0,min,rnd,grey]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 450 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12032,7 +12019,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 340 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12249,7 +12235,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 301 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12363,8 +12348,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "tukwentis" 377 800 basechar 0
-AnchorPoint: "koqndon" 370 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12514,7 +12497,6 @@ MDAP[rnd]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 380 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12740,7 +12722,6 @@ MDRP[rp0,grey]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 452 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12792,7 +12773,6 @@ StartChar: uniA6AA
 Encoding: 106 42666 100
 Width: 730
 Flags: W
-AnchorPoint: "koqndon" 419 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12812,8 +12792,8 @@ SplineSet
  461 191 l 2,18,19
  461 114 461 114 464 2 c 1,20,-1
  464 -1 l 1,21,22
- 464.064516129 -2.35483870968 464.064516129 -2.35483870968 464.064516129 -3.68054110302 c 0,23,24
- 464.064516129 -22.9032258065 464.064516129 -22.9032258065 450.5 -36 c 0,25,26
+ 464.065 -2.35484 464.065 -2.35484 464.065 -3.68054 c 0,23,24
+ 464.065 -22.9032 464.065 -22.9032 450.5 -36 c 0,25,26
  436 -50 436 -50 414 -50 c 0,27,28
  370 -50 370 -50 364 -2 c 0,29,30
  363 7 363 7 362 75 c 0,31,32
@@ -13004,7 +12984,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 420 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13252,7 +13231,6 @@ MDRP[rp0,min,rnd,grey]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 310 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13418,7 +13396,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 340 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13624,7 +13601,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 212 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13679,7 +13655,6 @@ StartChar: uniA6AF
 Encoding: 111 42671 105
 Width: 514
 Flags: W
-AnchorPoint: "koqndon" 270 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13711,8 +13686,8 @@ SplineSet
  200 206 200 206 200 113 c 0,37,38
  200 96 200 96 203 4 c 1,39,-1
  203 -1 l 1,40,41
- 203.064516129 -2.35483870968 203.064516129 -2.35483870968 203.064516129 -3.68054110302 c 0,42,43
- 203.064516129 -22.9032258065 203.064516129 -22.9032258065 189.5 -36 c 0,44,45
+ 203.065 -2.35484 203.065 -2.35484 203.065 -3.68054 c 0,42,43
+ 203.065 -22.9032 203.065 -22.9032 189.5 -36 c 0,44,45
  175 -50 175 -50 153 -50 c 0,46,47
  108 -50 108 -50 104 -4 c 0,48,49
  100 30 100 30 100 112 c 0,50,51
@@ -13732,7 +13707,6 @@ StartChar: uniA6B0
 Encoding: 112 42672 106
 Width: 710
 Flags: W
-AnchorPoint: "koqndon" 380 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13744,8 +13718,8 @@ SplineSet
  209 -1 l 1,8,9
  209 -4 209 -4 209 -4 c 0,10,11
  209 -5 209 -5 209 -6 c 128,-1,12
- 209.064516129 -7.03225806452 209.064516129 -7.03225806452 209.064516129 -8.05619146722 c 0,13,14
- 209.064516129 -22.9032258065 209.064516129 -22.9032258065 195.5 -36 c 0,15,16
+ 209.065 -7.03226 209.065 -7.03226 209.065 -8.05619 c 0,13,14
+ 209.065 -22.9032 209.065 -22.9032 195.5 -36 c 0,15,16
  181 -50 181 -50 159 -50 c 0,17,18
  114 -50 114 -50 110 -3 c 0,19,20
  107 25 107 25 104 117 c 0,21,22
@@ -13800,8 +13774,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "tukwentis" 316 800 basechar 0
-AnchorPoint: "koqndon" 290 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13890,7 +13862,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 335 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13970,7 +13941,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 370 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14106,7 +14076,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 370 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14249,7 +14218,6 @@ MDAP[rnd]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 299 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14398,8 +14366,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "tukwentis" 418 800 basechar 0
-AnchorPoint: "koqndon" 400 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14451,8 +14417,6 @@ StartChar: uniA6B7
 Encoding: 119 42679 113
 Width: 781
 Flags: W
-AnchorPoint: "tukwentis" 440 800 basechar 0
-AnchorPoint: "koqndon" 430 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14518,7 +14482,6 @@ StartChar: uniA6B8
 Encoding: 120 42680 114
 Width: 780
 Flags: W
-AnchorPoint: "koqndon" 438 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14599,7 +14562,6 @@ MDAP[rnd]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 170 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14833,7 +14795,6 @@ MDAP[rnd]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 340 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14881,7 +14842,6 @@ StartChar: uniA6BB
 Encoding: 123 42683 117
 Width: 820
 Flags: W
-AnchorPoint: "koqndon" 440 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14923,7 +14883,7 @@ SplineSet
  550 550 550 550 577 550 c 0,56,57
  594 550 594 550 608.5 539 c 128,-1,58
  623 528 623 528 627 495 c 0,59,60
- 630.125 466.875 630.125 466.875 630.125 419.21875 c 0,61,62
+ 630.125 466.875 630.125 466.875 630.125 419.219 c 0,61,62
  630.125 390.625 630.125 390.625 629 355 c 1,63,64
  653 357 653 357 677 357 c 0,65,66
  741 357 741 357 780.5 349 c 128,-1,67
@@ -14954,7 +14914,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 440 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14999,7 +14958,6 @@ StartChar: uniA6BD
 Encoding: 125 42685 119
 Width: 620
 Flags: W
-AnchorPoint: "koqndon" 341 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15031,8 +14989,8 @@ SplineSet
  533 687 533 687 523 673 c 2,46,-1
  410 504 l 1,47,-1
  417 505 l 1,48,49
- 419.71641791 505.059701493 419.71641791 505.059701493 422.403430608 505.059701493 c 0,50,51
- 509.731343284 505.059701493 509.731343284 505.059701493 566 442 c 0,52,53
+ 419.716 505.06 419.716 505.06 422.403 505.06 c 0,50,51
+ 509.731 505.06 509.731 505.06 566 442 c 0,52,53
  620 380 620 380 620 287 c 0,0,1
 EndSplineSet
 Validated: 1
@@ -15042,8 +15000,6 @@ StartChar: uniA6BE
 Encoding: 126 42686 120
 Width: 600
 Flags: W
-AnchorPoint: "tukwentis" 375 800 basechar 0
-AnchorPoint: "koqndon" 339 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15238,7 +15194,6 @@ MDRP[rp0,grey]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 390 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15279,7 +15234,6 @@ StartChar: uniA6C0
 Encoding: 128 42688 122
 Width: 600
 Flags: W
-AnchorPoint: "koqndon" 349 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15316,7 +15270,6 @@ StartChar: uniA6C1
 Encoding: 129 42689 123
 Width: 500
 Flags: W
-AnchorPoint: "koqndon" 298 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15429,7 +15382,6 @@ MDAP[rnd]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 323 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15517,7 +15469,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 398 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15638,7 +15589,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 224 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15784,7 +15734,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 291 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15903,7 +15852,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 340 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16017,7 +15965,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 420 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16185,7 +16132,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 340 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16231,7 +16177,6 @@ StartChar: uniA6C9
 Encoding: 137 42697 131
 Width: 700
 Flags: W
-AnchorPoint: "koqndon" 400 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16417,7 +16362,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 491 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16487,7 +16431,6 @@ MDRP[rp0,grey]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 401 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16722,7 +16665,6 @@ MDAP[rnd]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 300 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16918,7 +16860,6 @@ MDRP[rp0,min,rnd,grey]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 390 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16993,7 +16934,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 400 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17116,7 +17056,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 375 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17199,7 +17138,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 333 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17373,7 +17311,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 301 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17474,7 +17411,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 399 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17514,7 +17450,6 @@ StartChar: uniA6D3
 Encoding: 147 42707 141
 Width: 730
 Flags: W
-AnchorPoint: "koqndon" 406 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17783,8 +17718,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "tukwentis" 350 800 basechar 0
-AnchorPoint: "koqndon" 343 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17863,7 +17796,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 240 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18000,8 +17932,6 @@ MDAP[rnd]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "tukwentis" 317 800 basechar 0
-AnchorPoint: "koqndon" 281 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18129,7 +18059,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 519 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18206,8 +18135,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "tukwentis" 420 800 basechar 0
-AnchorPoint: "koqndon" 420 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18283,7 +18210,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 430 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18414,7 +18340,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 370 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18508,8 +18433,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "tukwentis" 323 800 basechar 0
-AnchorPoint: "koqndon" 318 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18543,8 +18466,6 @@ StartChar: uniA6DC
 Encoding: 156 42716 150
 Width: 492
 Flags: W
-AnchorPoint: "tukwentis" 296 800 basechar 0
-AnchorPoint: "koqndon" 300 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18575,8 +18496,8 @@ SplineSet
  255 237 255 237 255 322 c 1,41,-1
  252 390 l 2,42,43
  252 392 252 392 252 393 c 0,44,45
- 251.9375 394.375 251.9375 394.375 251.9375 395.71875 c 0,46,47
- 251.9375 415.875 251.9375 415.875 266 429 c 0,48,49
+ 251.938 394.375 251.938 394.375 251.938 395.719 c 0,46,47
+ 251.938 415.875 251.938 415.875 266 429 c 0,48,49
  281 443 281 443 302 443 c 0,50,51
  350 443 350 443 352 395.5 c 128,-1,52
  354 348 354 348 354 327 c 0,53,54
@@ -18791,7 +18712,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 362 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18837,7 +18757,6 @@ StartChar: uniA6DE
 Encoding: 158 42718 152
 Width: 569
 Flags: W
-AnchorPoint: "koqndon" 333 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18848,8 +18767,8 @@ SplineSet
  200 321 200 321 200 235 c 0,6,7
  200 218 200 218 209 4 c 1,8,-1
  209 -1 l 1,9,10
- 209.064516129 -2.35483870968 209.064516129 -2.35483870968 209.064516129 -3.68054110302 c 0,11,12
- 209.064516129 -22.9032258065 209.064516129 -22.9032258065 195.5 -36 c 0,13,14
+ 209.065 -2.35484 209.065 -2.35484 209.065 -3.68054 c 0,11,12
+ 209.065 -22.9032 209.065 -22.9032 195.5 -36 c 0,13,14
  181 -50 181 -50 159 -50 c 0,15,16
  115 -50 115 -50 110 -4 c 0,17,18
  100 83 100 83 100 233 c 0,19,20
@@ -18898,8 +18817,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "tukwentis" 399 800 basechar 0
-AnchorPoint: "koqndon" 390 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18997,7 +18914,6 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 400 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19129,7 +19045,6 @@ MDRP[rp0,grey]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 499 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19256,7 +19171,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 250 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19291,7 +19205,6 @@ StartChar: uniA6E3
 Encoding: 163 42723 157
 Width: 500
 Flags: W
-AnchorPoint: "koqndon" 292 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19323,8 +19236,8 @@ SplineSet
  252 597 252 597 304 597 c 0,45,46
  330 597 330 597 443 603 c 1,47,-1
  448 603 l 1,48,49
- 449.3125 603.0625 449.3125 603.0625 450.599609375 603.0625 c 0,50,51
- 469.90625 603.0625 469.90625 603.0625 483.5 589 c 0,52,53
+ 449.312 603.062 449.312 603.062 450.6 603.062 c 0,50,51
+ 469.906 603.062 469.906 603.062 483.5 589 c 0,52,53
  498 574 498 574 498 553 c 0,0,1
 EndSplineSet
 Validated: 1
@@ -19480,8 +19393,6 @@ MDAP[rnd]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "tukwentis" 370 800 basechar 0
-AnchorPoint: "koqndon" 349 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19556,7 +19467,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 400 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19599,8 +19509,6 @@ StartChar: uniA6E6
 Encoding: 166 42726 160
 Width: 600
 Flags: W
-AnchorPoint: "tukwentis" 350 800 basechar 0
-AnchorPoint: "koqndon" 340 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19618,8 +19526,8 @@ SplineSet
  345 318 345 318 270 310 c 0,21,22
  188 301 188 301 153 300 c 1,23,-1
  149 300 l 1,24,25
- 147.6875 299.9375 147.6875 299.9375 146.40234375 299.9375 c 0,26,27
- 127.125 299.9375 127.125 299.9375 114 314 c 0,28,29
+ 147.688 299.938 147.688 299.938 146.402 299.938 c 0,26,27
+ 127.125 299.938 127.125 299.938 114 314 c 0,28,29
  100 329 100 329 100 350 c 0,30,31
  100 395 100 395 147 400 c 0,32,33
  169 402 169 402 214 406 c 2,34,-1
@@ -19647,7 +19555,6 @@ StartChar: uniA6E7
 Encoding: 167 42727 161
 Width: 600
 Flags: W
-AnchorPoint: "koqndon" 340 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19665,8 +19572,8 @@ SplineSet
  345 318 345 318 270 310 c 0,21,22
  188 301 188 301 153 300 c 1,23,-1
  149 300 l 1,24,25
- 147.6875 299.9375 147.6875 299.9375 146.40234375 299.9375 c 0,26,27
- 127.125 299.9375 127.125 299.9375 114 314 c 0,28,29
+ 147.688 299.938 147.688 299.938 146.402 299.938 c 0,26,27
+ 127.125 299.938 127.125 299.938 114 314 c 0,28,29
  100 329 100 329 100 350 c 0,30,31
  100 395 100 395 147 400 c 0,32,33
  169 402 169 402 214 406 c 2,34,-1
@@ -19745,7 +19652,6 @@ MDRP[rp0,grey]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 331 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19783,7 +19689,6 @@ StartChar: uniA6E9
 Encoding: 169 42729 163
 Width: 600
 Flags: W
-AnchorPoint: "koqndon" 342 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19801,8 +19706,8 @@ SplineSet
  345 318 345 318 270 310 c 0,21,22
  188 301 188 301 153 300 c 1,23,-1
  149 300 l 1,24,25
- 147.6875 299.9375 147.6875 299.9375 146.40234375 299.9375 c 0,26,27
- 127.125 299.9375 127.125 299.9375 114 314 c 0,28,29
+ 147.688 299.938 147.688 299.938 146.402 299.938 c 0,26,27
+ 127.125 299.938 127.125 299.938 114 314 c 0,28,29
  100 329 100 329 100 350 c 0,30,31
  100 395 100 395 147 400 c 0,32,33
  169 402 169 402 214 406 c 2,34,-1
@@ -19823,7 +19728,6 @@ StartChar: uniA6EA
 Encoding: 170 42730 164
 Width: 600
 Flags: W
-AnchorPoint: "koqndon" 349 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19840,8 +19744,8 @@ SplineSet
  345 318 345 318 270 310 c 0,19,20
  188 301 188 301 153 300 c 1,21,-1
  149 300 l 1,22,23
- 147.6875 299.9375 147.6875 299.9375 146.40234375 299.9375 c 0,24,25
- 127.125 299.9375 127.125 299.9375 114 314 c 0,26,27
+ 147.688 299.938 147.688 299.938 146.402 299.938 c 0,24,25
+ 127.125 299.938 127.125 299.938 114 314 c 0,26,27
  100 329 100 329 100 350 c 0,28,29
  100 396 100 396 147 400 c 2,30,-1
  300 415 l 1,31,-1
@@ -19960,7 +19864,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 323 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20022,7 +19925,6 @@ MDRP[rp0,grey]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 342 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20167,7 +20069,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 300 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20262,7 +20163,6 @@ MDRP[rp0,grey]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 390 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20445,7 +20345,6 @@ CALL
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "koqndon" 340 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20488,7 +20387,6 @@ StartChar: uniA6F0
 Encoding: 176 42736 170
 Width: 765
 Flags: W
-AnchorPoint: "koqndon" 400 800 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20645,7 +20543,6 @@ StartChar: uniA6F1
 Encoding: 177 42737 171
 Width: 769
 Flags: W
-AnchorPoint: "tukwentis" 408 800 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -22439,8 +22336,6 @@ Encoding: 95 166 184
 Width: 833
 Flags: W
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: uniA6A0_A6F0

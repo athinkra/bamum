@@ -7,6 +7,7 @@
 // @match       *://*.wikipedia.org/wiki/*
 // @match       *://www.facebook.com/*
 // @match       *://twitter.com/*
+// @match       https://mail.google.com/*
 // @grant       GM_addStyle
 // ==/UserScript==
 
@@ -20,6 +21,9 @@ GM_addStyle("@font-face {font-family: 'elwf';src: url(data:application/font-woff
 var currentLocation = window.location.hostname;
 var pat = /(?!(w+)\.)\w*(?:\w+\.)+\w+/gm;
 currentLocation = currentLocation.match(pat)[0];
+  
+  alert(currentLocation);
+  
 switch (currentLocation) {
   case "facebook.com":
     GM_addStyle("._5p3y[dir=ltr],._5p3y[dir=ltr] .fbChatSidebar,._5p3y[dir=ltr] .fbDock,._5p3y[dir=ltr] .fbFeedTicker .fbFeedTickerStory .tickerFeedMessage,._5p3y[dir=ltr] .fbFeedTicker .fbFeedTickerStory div.tickerFeedMessage h5,._5p3y[dir=ltr] .fbFeedTicker .fbFeedTickerStory div.tickerFeedMessage h6,._5p3y[dir=ltr] .uiButton input,._5p3y[dir=ltr] .uiButtonText,._5p3y[dir=ltr] .uiLinkButton input,._5p3y[dir=ltr] .uiMentionsInput .highlighter,._5p3y[dir=ltr] .uiTooltipX .tooltipContent,._5p3y[dir=ltr] a[role=button],._5p3y[dir=ltr] button,._5p3y[dir=ltr] button.as_link,._5p3y[dir=ltr] input,._5p3y[dir=ltr] label,._5p3y[dir=ltr] select,._5p3y[dir=ltr] td,._5p3y[dir=ltr] textarea,._5p3y[dir=rtl] [dir=ltr],._5yk1,body ._1osb{font-family:elwf,helvetica,arial,sans-serif!important}body,button,input,label,select,td,textarea{font-family:elwf,'lucida grande',tahoma,verdana,arial,sans-serif!important}");                
@@ -34,9 +38,11 @@ switch (currentLocation) {
     // Wikipedia specific styling
     GM_addStyle("html,body,span.script[style*='Bamum']{font-family:elwf,sans-serif !important;}");
     break;
+  case "mail.google.com":
+    GM_addStyle("#gb, .VP5otc-Sqv85e, .VP5otc-tOAp0c, .VP5otc-ynQFL, .VP5otc-MdoD9, .J-Zh-I, .FJ, .FQ, body, td, input, textarea, select, .Kj-JD-K7, .Kj-JD-Jz, .Kj-JD-Jl, .Kj-JD-Jl button, .PBRhee, .VTiQkd, .EeNUsc, .AX, .AR, .E .J-M-JJ, .py, .w6, .w9, .w7, .w8, .ah, div.wa, .yS, .pN, .eHIyEf, .JA-Kn-Jr-Kw-Jn, .LM, .BXFJCd, .QLQBrd, .om .Pf-K-I, .UC9RM .J-KU-Jg, .tq, .m8, .ha, .Am, .Lf .Ld, .Lf .Lx, .Lf .Ly, .fX .J-JN-I, .Ma, .Mc, .Mb, .L9, .vCA6Cf, .j7eh4b, .DT, .Dw, .EW, .Ej, .Dw .J-M, .Eu .J-M, .bd, .RG, .Rh, .rRieTd, .hJxxNd, .RN, .VFHDMe, .M4, .RS, .d8, .R5, .RQ, .eq, .Nl .J-M-JJ, .pwZiAd-kgDTEf, .yo { font-family: elwf,arial,sans-serif; } .GcwpPb-txTtjf, .p6, .Y4, .ar, .hU, .hV, .d0, .MI3LG, .sS .tb, .s3, .Mh { font-family: elwf,verdana,arial,sans-serif; } .U5 { font-family: elwf,arial,sans-serif ! important; } span.wh { font-family: elwf,courier new; } .om .Pf-kwDuUb .Jd-SUR3Rd, .om .Pf-kwDuUb .LSmFke, .om .Pf-hqkNDb, .om .Pf-D9F5jb .J-K-I-Jz, .om .EEBHBc-h9d3hd, .om .EEBHBc-H-Kv .J-K-I-Jz { font-family: sans-serif; } .m2, .os { font-family: monospace; } .gu { font-family: Courier New,courier,monospace; } .Mr8HO, .KA-k77Iif-Jw .J-K-I, .KA-v6WJk-JQ, .KA-Jd-SUR3Rd, .KA-ubqdZc-J7, .KA-DyVDA-INgbqf, .EEBHBc-h9d3hd, .Pf-K-I, .Pf-kwDuUb .XJ5RCc-Jd, .Pf-kwDuUb .LSmFke, .Pf-hqkNDb, .Pf-D9F5jb .J-K-I-Jz, .KA-k77Iif-Jw .J-DrZ0pc-J8-J9, .KA-k77Iif-Jw .J-INgbqf, .KA-k77Iif-Jw .J-INgbqf-I, .KA-k77Iif-Jw .J-INgbqf-M-I, .xJzy8c-ge6pde .xJzy8c-ge6pde-uDEFge { font-family: elwf,arial,sans-serif; }");
+    break;
   default:
     break;
 }    
     
 })();
-

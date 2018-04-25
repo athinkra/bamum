@@ -1,0 +1,27 @@
+
+/*********************************************************************************
+ File: jgbassavah.gdl
+
+ GDL file for JG Bamum Akauku fonts.
+
+ Compile with JG Bamum Akauku family fonts.
+ 
+*********************************************************************************/
+
+#include "stddef.gdh"
+
+Bidi = false;
+
+table(glyph) 
+      gHat = unicode (0xA6F0); 
+      gMacron = unicode (0xA6F1); 
+        clsBasePreHat = unicode (0xA6A0 .. 0xA6EF); 
+	clsBaseHat = postscript ("A6A0hat", "A6A1hat", "A6A2hat", "A6A3hat", "A6A4hat", "A6A5hat", "A6A6hat", "A6A7hat", "A6A8hat", "A6A9hat", "A6AAhat", "A6ABhat", "A6AChat", "A6ADhat", "A6AEhat", "A6AFhat", "A6B0hat", "A6B1hat", "A6B2hat", "A6B3hat", "A6B4hat", "A6B5hat", "A6B6hat", "A6B7hat", "A6B8hat", "A6B9hat", "A6BAhat", "A6BBhat", "A6BChat", "A6BDhat", "A6BEhat", "A6BFhat", "A6C0hat", "A6C1hat", "A6C2hat", "A6C3hat", "A6C4hat", "A6C5hat", "A6C6hat", "A6C7hat", "A6C8hat", "A6C9hat", "A6CAhat", "A6CBhat", "A6CChat", "A6CDhat", "A6CEhat", "A6CFhat", "A6D0hat", "A6D1hat", "A6D2hat", "A6D3hat", "A6D4hat", "A6D5hat", "A6D6hat", "A6D7hat", "A6D8hat", "A6D9hat", "A6DAhat", "A6DBhat", "A6DChat", "A6DDhat", "A6DEhat", "A6DFhat", "A6E0hat", "A6E1hat", "A6E2hat", "A6E3hat", "A6E4hat", "A6E5hat", "A6E6hat", "A6E7hat", "A6E8hat", "A6E9hat", "A6EAhat", "A6EBhat", "A6EChat", "A6EDhat", "A6EEhat", "A6EFhat"); 
+        clsBasePreMac = unicode (0xA6A7, 0xA6B1, 0xA6B6, 0xA6B7, 0xA6BE, 0xA6D4, 0xA6D6, 0xA6D8, 0xA6DB, 0xA6DC, 0xA6DF, 0xA6E4, 0xA6E6); 
+	clsBaseMacron = postscript ("macronA6A7", "macronA6B1", "macronA6B6", "macronA6B7", "macronA6BE", "macronA6D4", "macronA6D6", "macronA6D8", "macronA6DB", "macronA6DC", "macronA6DF", "macronA6E4", "macronA6E6");
+endtable; 
+
+table(sub)
+   clsBasePreHat gHat > clsBaseHat: (1 2) _;
+   clsBasePreMac gMacron > clsBaseMacron: (1 2) _;
+endtable;

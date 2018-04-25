@@ -1,0 +1,229 @@
+/*
+    Glyph information for font JG Bamum Akauku Sans Unicode at Fri May  6 14:33:10 2016
+*/
+
+table(glyph) {MUnits = 1000};
+g__notdef = glyphid(0);
+g__null = glyphid(1);
+g_nonmarkingreturn = glyphid(2);
+g_space = glyphid(3);
+g_exclam = glyphid(4);
+g_quotedbl = glyphid(5);
+g_numbersign = glyphid(6);
+g_dollar = glyphid(7);
+g_percent = glyphid(8);
+g_ampersand = glyphid(9);
+g_quotesingle = glyphid(10);
+g_parenleft = glyphid(11);
+g_parenright = glyphid(12);
+g_asterisk = glyphid(13);
+g_plus = glyphid(14);
+g_comma = glyphid(15);
+g_hyphen = glyphid(16);
+g_period = glyphid(17);
+g_slash = glyphid(18);
+g_zero = glyphid(19);
+g_one = glyphid(20);
+g_two = glyphid(21);
+g_three = glyphid(22);
+g_four = glyphid(23);
+g_five = glyphid(24);
+g_six = glyphid(25);
+g_seven = glyphid(26);
+g_eight = glyphid(27);
+g_nine = glyphid(28);
+g_colon = glyphid(29);
+g_semicolon = glyphid(30);
+g_less = glyphid(31);
+g_equal = glyphid(32);
+g_greater = glyphid(33);
+g_question = glyphid(34);
+g_at = glyphid(35);
+g__a = glyphid(36);
+g__b = glyphid(37);
+g__c = glyphid(38);
+g__d = glyphid(39);
+g__e = glyphid(40);
+g__f = glyphid(41);
+g__g = glyphid(42);
+g__h = glyphid(43);
+g__i = glyphid(44);
+g__j = glyphid(45);
+g__k = glyphid(46);
+g__l = glyphid(47);
+g__m = glyphid(48);
+g__n = glyphid(49);
+g__o = glyphid(50);
+g__p = glyphid(51);
+g__q = glyphid(52);
+g__r = glyphid(53);
+g__s = glyphid(54);
+g__t = glyphid(55);
+g__u = glyphid(56);
+g__v = glyphid(57);
+g__w = glyphid(58);
+g__x = glyphid(59);
+g__y = glyphid(60);
+g__z = glyphid(61);
+g_bracketleft = glyphid(62);
+g_backslash = glyphid(63);
+g_bracketright = glyphid(64);
+g_asciicircum = glyphid(65);
+g_underscore = glyphid(66);
+g_grave = glyphid(67);
+g_a = glyphid(68);
+g_b = glyphid(69);
+g_c = glyphid(70);
+g_d = glyphid(71);
+g_e = glyphid(72);
+g_f = glyphid(73);
+g_g = glyphid(74);
+g_h = glyphid(75);
+g_i = glyphid(76);
+g_j = glyphid(77);
+g_k = glyphid(78);
+g_l = glyphid(79);
+g_m = glyphid(80);
+g_n = glyphid(81);
+g_o = glyphid(82);
+g_p = glyphid(83);
+g_q = glyphid(84);
+g_r = glyphid(85);
+g_s = glyphid(86);
+g_t = glyphid(87);
+g_u = glyphid(88);
+g_v = glyphid(89);
+g_w = glyphid(90);
+g_x = glyphid(91);
+g_y = glyphid(92);
+g_z = glyphid(93);
+g_braceleft = glyphid(94);
+g_bar = glyphid(95);
+g_braceright = glyphid(96);
+g_asciitilde = glyphid(97);
+g_brokenbar = glyphid(98);
+ga6a0 = glyphid(99) {koqndonS = point(380m, 800m)};
+ga6a1 = glyphid(100) {koqndonS = point(400m, 800m)};
+ga6a2 = glyphid(101) {koqndonS = point(348m, 800m)};
+ga6a3 = glyphid(102) {koqndonS = point(410m, 800m)};
+ga6a4 = glyphid(103) {koqndonS = point(450m, 800m)};
+ga6a5 = glyphid(104) {koqndonS = point(340m, 800m)};
+ga6a6 = glyphid(105) {koqndonS = point(301m, 800m)};
+ga6a7 = glyphid(106) {tukwentisS = point(377m, 800m); koqndonS = point(370m, 800m)};
+ga6a8 = glyphid(107) {koqndonS = point(380m, 800m)};
+ga6a9 = glyphid(108) {koqndonS = point(452m, 800m)};
+ga6aa = glyphid(109) {koqndonS = point(419m, 800m)};
+ga6ab = glyphid(110) {koqndonS = point(420m, 800m)};
+ga6ac = glyphid(111) {koqndonS = point(310m, 800m)};
+ga6ad = glyphid(112) {koqndonS = point(340m, 800m)};
+ga6ae = glyphid(113) {koqndonS = point(212m, 800m)};
+ga6af = glyphid(114) {koqndonS = point(270m, 800m)};
+ga6b0 = glyphid(115) {koqndonS = point(380m, 800m)};
+ga6b1 = glyphid(116) {koqndonS = point(290m, 800m); tukwentisS = point(316m, 800m)};
+ga6b2 = glyphid(117) {koqndonS = point(335m, 800m)};
+ga6b3 = glyphid(118) {koqndonS = point(370m, 800m)};
+ga6b4 = glyphid(119) {koqndonS = point(370m, 800m)};
+ga6b5 = glyphid(120) {koqndonS = point(299m, 800m)};
+ga6b6 = glyphid(121) {koqndonS = point(400m, 800m); tukwentisS = point(418m, 800m)};
+ga6b7 = glyphid(122) {tukwentisS = point(440m, 800m); koqndonS = point(430m, 800m)};
+ga6b8 = glyphid(123) {koqndonS = point(438m, 800m)};
+ga6b9 = glyphid(124) {koqndonS = point(170m, 800m)};
+ga6ba = glyphid(125) {koqndonS = point(340m, 800m)};
+ga6bb = glyphid(126) {koqndonS = point(440m, 800m)};
+ga6bc = glyphid(127) {koqndonS = point(440m, 800m)};
+ga6bd = glyphid(128) {koqndonS = point(341m, 800m)};
+ga6be = glyphid(129) {tukwentisS = point(375m, 800m); koqndonS = point(339m, 800m)};
+ga6bf = glyphid(130) {koqndonS = point(390m, 800m)};
+ga6c0 = glyphid(131) {koqndonS = point(349m, 800m)};
+ga6c1 = glyphid(132) {koqndonS = point(298m, 800m)};
+ga6c2 = glyphid(133) {koqndonS = point(323m, 800m)};
+ga6c3 = glyphid(134) {koqndonS = point(398m, 800m)};
+ga6c4 = glyphid(135) {koqndonS = point(224m, 800m)};
+ga6c5 = glyphid(136) {koqndonS = point(291m, 800m)};
+ga6c6 = glyphid(137) {koqndonS = point(340m, 800m)};
+ga6c7 = glyphid(138) {koqndonS = point(420m, 800m)};
+ga6c8 = glyphid(139) {koqndonS = point(340m, 800m)};
+ga6c9 = glyphid(140) {koqndonS = point(400m, 800m)};
+ga6ca = glyphid(141) {koqndonS = point(491m, 800m)};
+ga6cb = glyphid(142) {koqndonS = point(401m, 800m)};
+ga6cc = glyphid(143) {koqndonS = point(300m, 800m)};
+ga6cd = glyphid(144) {koqndonS = point(390m, 800m)};
+ga6ce = glyphid(145) {koqndonS = point(400m, 800m)};
+ga6cf = glyphid(146) {koqndonS = point(375m, 800m)};
+ga6d0 = glyphid(147) {koqndonS = point(333m, 800m)};
+ga6d1 = glyphid(148) {koqndonS = point(301m, 800m)};
+ga6d2 = glyphid(149) {koqndonS = point(399m, 800m)};
+ga6d3 = glyphid(150) {koqndonS = point(406m, 800m)};
+ga6d4 = glyphid(151) {tukwentisS = point(350m, 800m); koqndonS = point(343m, 800m)};
+ga6d5 = glyphid(152) {koqndonS = point(240m, 800m)};
+ga6d6 = glyphid(153) {tukwentisS = point(317m, 800m); koqndonS = point(281m, 800m)};
+ga6d7 = glyphid(154) {koqndonS = point(519m, 800m)};
+ga6d8 = glyphid(155) {tukwentisS = point(420m, 800m); koqndonS = point(420m, 800m)};
+ga6d9 = glyphid(156) {koqndonS = point(430m, 800m)};
+ga6da = glyphid(157) {koqndonS = point(370m, 800m)};
+ga6db = glyphid(158) {koqndonS = point(318m, 800m); tukwentisS = point(323m, 800m)};
+ga6dc = glyphid(159) {tukwentisS = point(296m, 800m); koqndonS = point(300m, 800m)};
+ga6dd = glyphid(160) {koqndonS = point(362m, 800m)};
+ga6de = glyphid(161) {koqndonS = point(333m, 800m)};
+ga6df = glyphid(162) {koqndonS = point(390m, 800m); tukwentisS = point(399m, 800m)};
+ga6e0 = glyphid(163) {koqndonS = point(400m, 800m)};
+ga6e1 = glyphid(164) {koqndonS = point(499m, 800m)};
+ga6e2 = glyphid(165) {koqndonS = point(250m, 800m)};
+ga6e3 = glyphid(166) {koqndonS = point(292m, 800m)};
+ga6e4 = glyphid(167) {tukwentisS = point(370m, 800m); koqndonS = point(349m, 800m)};
+ga6e5 = glyphid(168) {koqndonS = point(400m, 800m)};
+ga6e6 = glyphid(169) {tukwentisS = point(350m, 800m); koqndonS = point(340m, 800m)};
+ga6e7 = glyphid(170) {koqndonS = point(340m, 800m)};
+ga6e8 = glyphid(171) {koqndonS = point(331m, 800m)};
+ga6e9 = glyphid(172) {koqndonS = point(342m, 800m)};
+ga6ea = glyphid(173) {koqndonS = point(349m, 800m)};
+ga6eb = glyphid(174) {koqndonS = point(323m, 800m)};
+ga6ec = glyphid(175) {koqndonS = point(342m, 800m)};
+ga6ed = glyphid(176) {koqndonS = point(300m, 800m)};
+ga6ee = glyphid(177) {koqndonS = point(390m, 800m)};
+ga6ef = glyphid(178) {koqndonS = point(340m, 800m)};
+ga6f0 = glyphid(179) {koqndonM = point(400m, 800m)};
+ga6f1 = glyphid(180) {tukwentisM = point(408m, 800m)};
+ga6f2 = glyphid(181);
+ga6f3 = glyphid(182);
+ga6f4 = glyphid(183);
+ga6f5 = glyphid(184);
+ga6f6 = glyphid(185);
+ga6f7 = glyphid(186);
+
+
+/* Classes */
+ckoqndonDia = (ga6f0);
+
+cnkoqndonDia = (ga6f1);
+
+ctukwentisDia = (ga6f1);
+
+cntukwentisDia = (ga6f0);
+
+cTakeskoqndonDia = (ga6a0, ga6a1, ga6a2, ga6a3, ga6a4, ga6a5, ga6a6, ga6a7,
+    ga6a8, ga6a9, ga6aa, ga6ab, ga6ac, ga6ad, ga6ae, ga6af,
+    ga6b0, ga6b1, ga6b2, ga6b3, ga6b4, ga6b5, ga6b6, ga6b7,
+    ga6b8, ga6b9, ga6ba, ga6bb, ga6bc, ga6bd, ga6be, ga6bf,
+    ga6c0, ga6c1, ga6c2, ga6c3, ga6c4, ga6c5, ga6c6, ga6c7,
+    ga6c8, ga6c9, ga6ca, ga6cb, ga6cc, ga6cd, ga6ce, ga6cf,
+    ga6d0, ga6d1, ga6d2, ga6d3, ga6d4, ga6d5, ga6d6, ga6d7,
+    ga6d8, ga6d9, ga6da, ga6db, ga6dc, ga6dd, ga6de, ga6df,
+    ga6e0, ga6e1, ga6e2, ga6e3, ga6e4, ga6e5, ga6e6, ga6e7,
+    ga6e8, ga6e9, ga6ea, ga6eb, ga6ec, ga6ed, ga6ee, ga6ef);
+
+cnTakeskoqndonDia = (ga6f1);
+
+cTakestukwentisDia = (ga6a7, ga6b1, ga6b6, ga6b7, ga6be, ga6d4, ga6d6, ga6d8,
+    ga6db, ga6dc, ga6df, ga6e4, ga6e6);
+
+cnTakestukwentisDia = (ga6f0);
+
+endtable;
+#define MAXGLYPH 186
+
+
+table(positioning)
+cTakeskoqndonDia ckoqndonDia {attach {to=@1; at=koqndonS; with=koqndonM}};
+cTakestukwentisDia ctukwentisDia {attach {to=@1; at=tukwentisS; with=tukwentisM}};
+endtable;

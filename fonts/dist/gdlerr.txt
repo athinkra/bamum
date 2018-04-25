@@ -1,0 +1,22 @@
+Graphite Compilation Results
+
+GDL file: ../src/gr/JGBamumAkaukuSansUnicode.gdl
+Input font file: ../src/ot/JGBamumAkaukuSansUnicode.ttf
+Output font file: JGBamumAkaukuSansUnicode.ttf
+Output font family: JG Bamum Akauku Sans Unicode
+Silf table version: 2.0
+Create separate control file: no
+
+*******************************************************
+
+Table versions generated:
+ Silf:2.0
+ Gloc:1.0
+ Glat:1.0
+ Feat:1.0
+ Sill:1.0
+Minimal compiler version required: 2.0
+
+*******************************************************
+
+Compilation succeeded - 0 errors, 0 warnings

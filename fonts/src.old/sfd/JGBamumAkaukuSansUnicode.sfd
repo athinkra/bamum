@@ -58,8 +58,8 @@ OS2FamilyClass: 2048
 OS2Vendor: 'athk'
 OS2CodePages: 00000000.00000000
 OS2UnicodeRanges: 00000003.00000000.00000000.00000000
-Lookup: 260 0 0 "'mark' Mark Positioning in 'DFLT' lookup 1" { "'mark' Mark Positioning in 'DFLT' lookup 1-1"  } ['mark' ('DFLT' <'dflt' > 'bamu' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning in 'DFLT' lookup 0" { "'mark' Mark Positioning in 'DFLT' lookup 0-1"  } ['mark' ('DFLT' <'dflt' > 'bamu' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning in 'DFLT' lookup 1" { "'mark' Mark Positioning in 'DFLT' lookup 1-1"  } ['mark' ('DFLT' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning in 'DFLT' lookup 0" { "'mark' Mark Positioning in 'DFLT' lookup 0-1"  } ['mark' ('DFLT' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -750,7 +750,7 @@ WinInfo: 0 29 11
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 419430 209715 139810 544211 1048576 139810 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "tukwentis" "'mark' Mark Positioning in 'DFLT' lookup 1-1" "koqndon" "'mark' Mark Positioning in 'DFLT' lookup 0-1"
+AnchorClass2: "tukwentis" "'mark' Mark Positioning in 'DFLT' lookup 1-1" "koqndon" "'mark' Mark Positioning in 'DFLT' lookup 0-1" 
 BeginChars: 278 278
 
 StartChar: .notdef
